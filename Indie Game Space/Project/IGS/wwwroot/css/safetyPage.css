@@ -1,0 +1,48 @@
+.contentBlock{
+    width: 800px;
+    height: 1000px;
+    
+    display:block;
+
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    
+    border: 3px;
+    border-radius: 30px; 
+  
+    background-color: rgb(52, 52, 52);
+}
+
+.content-header{
+    display:inline-block;
+    
+    margin-top: 25px;
+    margin-bottom: 20px;
+    margin-left: 10%;
+    
+    color:white;
+    font-size: 30px;
+    font-weight :bold;
+    font-family: 'Comic Sans MS';
+}
+
+.content-text{
+    color:white;
+    margin-left: 10%;
+}
+
+.safety-button{
+    height: 40px;
+    width: 130px;
+    border: 10px;
+    border-radius: 20px; 
+    background-color: rgb(98, 0, 255);
+    margin-left: 10%;
+}
+
+.safety-button-text{
+    color:white;
+    font-size: 17px;
+}

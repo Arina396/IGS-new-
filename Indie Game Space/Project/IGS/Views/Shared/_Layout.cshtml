@@ -1,0 +1,84 @@
+﻿﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" /> 
+<title>@ViewData["Title"] - IGS</title> 
+<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" /> 
+<link rel="stylesheet" href="~/css/site.css" asp-append-version="true" /> 
+<link rel="stylesheet" href="~/css/mainPage.css" asp-append-version="true" /> 
+<link rel="stylesheet" href="~/css/registerPage.css" asp-append-version="true"/> 
+</head>
+
+<body>
+	<div class = "wrapper">
+		<header class = "header">
+			<nav class ="headerStyle"> 
+				<a asp-controller="Home" asp-action="Index"><img class = "logo" src="~/img/logo2.png"/><span class="logo-text">IGS</span></a>
+				<form>
+				 <div>
+						<input type="text" value="Search" class="input-search"</input>
+				 </div>
+				</form>
+					@if (!User.Identity.IsAuthenticated)
+					{
+						<a asp-controller="Account" asp-action="Login"  class = "logIn">Вход</a>	
+					}
+					@if (User.Identity.IsAuthenticated)
+					{
+						<div class="dropdown">
+							<button class="drop-button">
+								@if(ViewData["imagePath"] != null){
+									<img class = "user-image" src="@("~/image/" + ViewData["imagePath"])" asp-append-version="true"/>         
+								}
+								else{
+									<img class = "user-image" src="~/img/user-icon.png"/>      
+								}  
+							</button>
+							<div class="dropdown-content">
+							<a class="link" asp-controller="Profile" asp-action="Main">Профиль</a>
+								<a href="@Url.Action("Settings", "Settings", new { componentId = 0})" class = "link">Настройки</a>
+								<a class = "exit-button" asp-controller="Account" asp-action="Logout">Выход</a>
+							</div>
+						</div>
+					}
+		</nav>
+		</header>
+		<div class = "main">
+		
+		<script src="~/lib/jquery/dist/jquery.min.js"></script>
+		<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+		<script src="~/lib/jquery/dist/jquery.js"></script>
+		<script src="~/js/site.js" asp-append-version="true"></script>
+		
+		<div class="container-fluid col-xl-12">
+			<main role="main">
+					@RenderBody()
+			</main>
+		</div>		
+		</div>
+		
+		<footer class= "footer" id = "footer">
+			<nav>
+				<a asp-controller="Account" asp-action="Login"><p class = "footer_link" > Главная  </p></a>
+				<a asp-controller="Account" asp-action="Login"><p class = "footer_link">  О нас <br /></p></a>
+				<a asp-controller="Account" asp-action="Login"><p class = "footer_link"> Справка <br /></p></a>
+			</nav>
+		
+			<div>
+				<img class = "footer_icon_logo" src="~/img/logo2.png" width="70px" height = "70px"/>				
+				<nav>
+					<a asp-controller="Account" asp-action="Login"><img class = "footer_icon" src="~/img/tg2.png" width="28px" height = "26px"/></a>
+					<a asp-controller="Account" asp-action="Login"><img src="~/img/vk1.png" width="30px" height = "30px"/></a>
+				</nav>
+			</div>
+		
+			<nav class = "footer_nav">
+			<p class = "footer_link_right" a> х(ххх)ххх-хх-хх <br /></a></p>
+			<p class = "footer_link_right" a> igs@mail.ruх <br /></a></p>
+			<p class = "footer_link_right" a> /адрес/ <br /></a></p>
+			</nav>
+		</footer>
+	</div>
+</body>
+</html>

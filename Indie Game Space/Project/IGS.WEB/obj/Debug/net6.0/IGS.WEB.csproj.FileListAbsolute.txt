@@ -1,0 +1,26 @@
+C:\Users\User1\Desktop\IGS\IGS.WEB\bin\Debug\net6.0\IGS.WEB.deps.json
+C:\Users\User1\Desktop\IGS\IGS.WEB\bin\Debug\net6.0\IGS.WEB.dll
+C:\Users\User1\Desktop\IGS\IGS.WEB\bin\Debug\net6.0\IGS.WEB.pdb
+C:\Users\User1\Desktop\IGS\IGS.WEB\obj\Debug\net6.0\IGS.WEB.csproj.AssemblyReference.cache
+C:\Users\User1\Desktop\IGS\IGS.WEB\obj\Debug\net6.0\IGS.WEB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\Desktop\IGS\IGS.WEB\obj\Debug\net6.0\IGS.WEB.AssemblyInfoInputs.cache
+C:\Users\User1\Desktop\IGS\IGS.WEB\obj\Debug\net6.0\IGS.WEB.AssemblyInfo.cs
+C:\Users\User1\Desktop\IGS\IGS.WEB\obj\Debug\net6.0\IGS.WEB.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\IGS\IGS.WEB\obj\Debug\net6.0\IGS.WEB.sourcelink.json
+C:\Users\User1\Desktop\IGS\IGS.WEB\obj\Debug\net6.0\IGS.WEB.dll
+C:\Users\User1\Desktop\IGS\IGS.WEB\obj\Debug\net6.0\refint\IGS.WEB.dll
+C:\Users\User1\Desktop\IGS\IGS.WEB\obj\Debug\net6.0\IGS.WEB.pdb
+C:\Users\User1\Desktop\IGS\IGS.WEB\obj\Debug\net6.0\ref\IGS.WEB.dll
+d:\Проекты C#\Indie Game Space\Project\IGS.WEB\bin\Debug\net6.0\IGS.WEB.deps.json
+d:\Проекты C#\Indie Game Space\Project\IGS.WEB\bin\Debug\net6.0\IGS.WEB.dll
+d:\Проекты C#\Indie Game Space\Project\IGS.WEB\bin\Debug\net6.0\IGS.WEB.pdb
+d:\Проекты C#\Indie Game Space\Project\IGS.WEB\obj\Debug\net6.0\IGS.WEB.csproj.AssemblyReference.cache
+d:\Проекты C#\Indie Game Space\Project\IGS.WEB\obj\Debug\net6.0\IGS.WEB.GeneratedMSBuildEditorConfig.editorconfig
+d:\Проекты C#\Indie Game Space\Project\IGS.WEB\obj\Debug\net6.0\IGS.WEB.AssemblyInfoInputs.cache
+d:\Проекты C#\Indie Game Space\Project\IGS.WEB\obj\Debug\net6.0\IGS.WEB.AssemblyInfo.cs
+d:\Проекты C#\Indie Game Space\Project\IGS.WEB\obj\Debug\net6.0\IGS.WEB.csproj.CoreCompileInputs.cache
+d:\Проекты C#\Indie Game Space\Project\IGS.WEB\obj\Debug\net6.0\IGS.WEB.sourcelink.json
+d:\Проекты C#\Indie Game Space\Project\IGS.WEB\obj\Debug\net6.0\IGS.WEB.dll
+d:\Проекты C#\Indie Game Space\Project\IGS.WEB\obj\Debug\net6.0\refint\IGS.WEB.dll
+d:\Проекты C#\Indie Game Space\Project\IGS.WEB\obj\Debug\net6.0\IGS.WEB.pdb
+d:\Проекты C#\Indie Game Space\Project\IGS.WEB\obj\Debug\net6.0\ref\IGS.WEB.dll

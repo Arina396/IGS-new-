@@ -1,0 +1,553 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\IGS.bundle.scp.css",
+      "PackagePath": "staticwebassets\\IGS.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\Builds\\Build\\Poker web.data.unityweb",
+      "PackagePath": "staticwebassets\\Builds\\Build\\Poker web.data.unityweb"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\Builds\\Build\\Poker web.framework.js.unityweb",
+      "PackagePath": "staticwebassets\\Builds\\Build\\Poker web.framework.js.unityweb"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\Builds\\Build\\Poker web.jpg",
+      "PackagePath": "staticwebassets\\Builds\\Build\\Poker web.jpg"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\Builds\\Build\\Poker web.loader.js",
+      "PackagePath": "staticwebassets\\Builds\\Build\\Poker web.loader.js"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\Builds\\Build\\Poker web.wasm.unityweb",
+      "PackagePath": "staticwebassets\\Builds\\Build\\Poker web.wasm.unityweb"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\Builds\\StreamingAssets\\settingsData.json",
+      "PackagePath": "staticwebassets\\Builds\\StreamingAssets\\settingsData.json"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\Builds\\TemplateData\\MemoryProfiler.png",
+      "PackagePath": "staticwebassets\\Builds\\TemplateData\\MemoryProfiler.png"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\Builds\\TemplateData\\favicon.ico",
+      "PackagePath": "staticwebassets\\Builds\\TemplateData\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\Builds\\TemplateData\\fullscreen-button.png",
+      "PackagePath": "staticwebassets\\Builds\\TemplateData\\fullscreen-button.png"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\Builds\\TemplateData\\progress-bar-empty-dark.png",
+      "PackagePath": "staticwebassets\\Builds\\TemplateData\\progress-bar-empty-dark.png"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\Builds\\TemplateData\\progress-bar-empty-light.png",
+      "PackagePath": "staticwebassets\\Builds\\TemplateData\\progress-bar-empty-light.png"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\Builds\\TemplateData\\progress-bar-full-dark.png",
+      "PackagePath": "staticwebassets\\Builds\\TemplateData\\progress-bar-full-dark.png"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\Builds\\TemplateData\\progress-bar-full-light.png",
+      "PackagePath": "staticwebassets\\Builds\\TemplateData\\progress-bar-full-light.png"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\Builds\\TemplateData\\style.css",
+      "PackagePath": "staticwebassets\\Builds\\TemplateData\\style.css"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\Builds\\TemplateData\\unity-logo-dark.png",
+      "PackagePath": "staticwebassets\\Builds\\TemplateData\\unity-logo-dark.png"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\Builds\\TemplateData\\unity-logo-light.png",
+      "PackagePath": "staticwebassets\\Builds\\TemplateData\\unity-logo-light.png"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\Builds\\TemplateData\\webgl-logo.png",
+      "PackagePath": "staticwebassets\\Builds\\TemplateData\\webgl-logo.png"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\Builds\\TemplateData\\webmemd-icon.png",
+      "PackagePath": "staticwebassets\\Builds\\TemplateData\\webmemd-icon.png"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\Builds\\index.html",
+      "PackagePath": "staticwebassets\\Builds\\index.html"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\Games\\igra1.png",
+      "PackagePath": "staticwebassets\\Games\\igra1.png"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\Games\\igra10.png",
+      "PackagePath": "staticwebassets\\Games\\igra10.png"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\Games\\igra11.png",
+      "PackagePath": "staticwebassets\\Games\\igra11.png"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\Games\\igra12.png",
+      "PackagePath": "staticwebassets\\Games\\igra12.png"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\Games\\igra13.png",
+      "PackagePath": "staticwebassets\\Games\\igra13.png"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\Games\\igra2.png",
+      "PackagePath": "staticwebassets\\Games\\igra2.png"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\Games\\igra3.png",
+      "PackagePath": "staticwebassets\\Games\\igra3.png"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\Games\\igra4.png",
+      "PackagePath": "staticwebassets\\Games\\igra4.png"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\Games\\igra6.png",
+      "PackagePath": "staticwebassets\\Games\\igra6.png"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\Games\\igra7.png",
+      "PackagePath": "staticwebassets\\Games\\igra7.png"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\Games\\igra8.png",
+      "PackagePath": "staticwebassets\\Games\\igra8.png"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\Games\\igra9.png",
+      "PackagePath": "staticwebassets\\Games\\igra9.png"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\Image\\1080.jpeg",
+      "PackagePath": "staticwebassets\\Image\\1080.jpeg"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\Image\\8c0324662714e384689f87ea9ab08a3e.jpg",
+      "PackagePath": "staticwebassets\\Image\\8c0324662714e384689f87ea9ab08a3e.jpg"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\Image\\99px_ru_wallpaper_353007_mujchina_s_sirenevim_licom_i_sigaretoj_na_chernom.jpg",
+      "PackagePath": "staticwebassets\\Image\\99px_ru_wallpaper_353007_mujchina_s_sirenevim_licom_i_sigaretoj_na_chernom.jpg"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\Image\\Screenshot_1.png",
+      "PackagePath": "staticwebassets\\Image\\Screenshot_1.png"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\Image\\Screenshot_2.png",
+      "PackagePath": "staticwebassets\\Image\\Screenshot_2.png"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\Image\\Screenshot_3.png",
+      "PackagePath": "staticwebassets\\Image\\Screenshot_3.png"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\Image\\Screenshot_40.png",
+      "PackagePath": "staticwebassets\\Image\\Screenshot_40.png"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\Image\\images.png",
+      "PackagePath": "staticwebassets\\Image\\images.png"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\Image\\logo.png",
+      "PackagePath": "staticwebassets\\Image\\logo.png"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\Image\\naughty.png",
+      "PackagePath": "staticwebassets\\Image\\naughty.png"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\Image\\plus.jpg",
+      "PackagePath": "staticwebassets\\Image\\plus.jpg"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\Image\\ubisoft.jpg",
+      "PackagePath": "staticwebassets\\Image\\ubisoft.jpg"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\Image\\wide_4_3_89af01c32096a9d1cbee20cb2baea4c5.jpg",
+      "PackagePath": "staticwebassets\\Image\\wide_4_3_89af01c32096a9d1cbee20cb2baea4c5.jpg"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\Image\\дэн.jpg",
+      "PackagePath": "staticwebassets\\Image\\дэн.jpg"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\deletePage.css",
+      "PackagePath": "staticwebassets\\css\\deletePage.css"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\mainPage.css",
+      "PackagePath": "staticwebassets\\css\\mainPage.css"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\profileComponent.css",
+      "PackagePath": "staticwebassets\\css\\profileComponent.css"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\profilePage.css",
+      "PackagePath": "staticwebassets\\css\\profilePage.css"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\registerPage.css",
+      "PackagePath": "staticwebassets\\css\\registerPage.css"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\safetyPage.css",
+      "PackagePath": "staticwebassets\\css\\safetyPage.css"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\settingsPage.css",
+      "PackagePath": "staticwebassets\\css\\settingsPage.css"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\arrow.png",
+      "PackagePath": "staticwebassets\\img\\arrow.png"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\find.icon.ico",
+      "PackagePath": "staticwebassets\\img\\find.icon.ico"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\gitLogo.png",
+      "PackagePath": "staticwebassets\\img\\gitLogo.png"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\link-image.png",
+      "PackagePath": "staticwebassets\\img\\link-image.png"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\logo.jpg",
+      "PackagePath": "staticwebassets\\img\\logo.jpg"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\logo2.png",
+      "PackagePath": "staticwebassets\\img\\logo2.png"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\rek1.jpg",
+      "PackagePath": "staticwebassets\\img\\rek1.jpg"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\rek2.jpg",
+      "PackagePath": "staticwebassets\\img\\rek2.jpg"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\rek3.jpg",
+      "PackagePath": "staticwebassets\\img\\rek3.jpg"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\right-arrow.png",
+      "PackagePath": "staticwebassets\\img\\right-arrow.png"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\tg1.png",
+      "PackagePath": "staticwebassets\\img\\tg1.png"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\tg2.png",
+      "PackagePath": "staticwebassets\\img\\tg2.png"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\user-icon.png",
+      "PackagePath": "staticwebassets\\img\\user-icon.png"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\vk.png",
+      "PackagePath": "staticwebassets\\img\\vk.png"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\vk1.png",
+      "PackagePath": "staticwebassets\\img\\vk1.png"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\wing.png",
+      "PackagePath": "staticwebassets\\img\\wing.png"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\фон.jpg",
+      "PackagePath": "staticwebassets\\img\\фон.jpg"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\js\\three.js",
+      "PackagePath": "staticwebassets\\js\\three.js"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\Three.js",
+      "PackagePath": "staticwebassets\\lib\\Three.js"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Проекты C#\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\three.cjs",
+      "PackagePath": "staticwebassets\\lib\\three.cjs"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.IGS.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.IGS.props",
+      "PackagePath": "build\\IGS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.IGS.props",
+      "PackagePath": "buildMultiTargeting\\IGS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.IGS.props",
+      "PackagePath": "buildTransitive\\IGS.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

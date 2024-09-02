@@ -1,0 +1,315 @@
+﻿.headerStyle {
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 0.3125rem;
+    padding-bottom: 0.3125rem;
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+    font-size: 1.25rem;
+    text-decoration: none;
+}
+
+header {
+    background-color: rgb(15, 13, 13);
+}
+
+.logo {
+    margin-bottom: 5px;
+    width: 45px;
+    height: 50px;
+}
+.logo-text {
+    position:absolute;
+    margin-inline-start: 10px;
+    color: white;
+    font-family: 'Lucida Console';
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.content {
+    display: inline-block;
+    width: 100%;
+}
+
+.menu {
+    position: sticky;
+    float: left;
+    top: 0;
+    padding: 10px;
+    width: 250px;
+    height: 100vh;
+    margin-left: -13px;
+    background: rgb(25, 23, 23);
+}
+
+.text_menu {
+    color: white;
+
+}
+.text_menu_head {
+    color: white;
+    font-size: 24px;
+    margin-bottom: 9px;
+    font-weight: 700;
+}
+
+.image {
+    display: inline-block;
+    margin-left: 25px;
+    margin-right: 10px;
+    text-align: left;
+    margin-top: 2px;
+    color: white;
+    font-family: "Luminari", fantasy;
+    font-size: 14px;
+}
+
+.adds{
+    margin-top: 20px;
+}
+
+.adds-back {
+    width: 105%;
+    height: 400px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    background-color: rgb(64, 0, 137);
+    margin-left: -20px;
+    margin-bottom: 30px;
+}
+
+.adds-blocl-back {
+    width: 1400px;
+    background-color: rgb(25, 23, 23);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid;
+    border-color: rgb(15, 13, 13);
+}
+
+.adds-block {
+    width: 1300px;
+    display: flex;
+    align-items:center;
+    justify-content:space-between;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 35px;
+}
+
+.image_reklama {
+    display: inline-block;
+    text-align: left;
+    top: 0;
+    color: white;
+    font-family: "Luminari", fantasy;
+    font-size: 32px;
+}
+
+.image_reklama2 {
+    display: inline-block;
+    margin: 15px;
+ 
+}
+
+.image_reklama2 img{
+    width: 210px;
+    height: 170px;
+    margin-top: -120px;
+}
+
+.arrow-button :hover {
+    width: 80px;
+    height: 80px;
+    background-color:rgba(0,0,0,0.2);
+    border-radius: 30px;
+}
+
+.arrow-image{
+    width: 80px;
+    height: 80px;
+}
+
+.image img {
+  width: 230px; 
+  height: 170px;
+}
+
+.image_reklama img {
+    width: 350px;
+    height: 300px;
+}
+
+.image p {
+    margin-top: 10px;
+    font-size: 17px;
+    font-family: 'Comic Sans MS';
+}
+
+.center_text_cost {
+    margin-top: 2px;
+    margin-left: 8px;
+    color: RGB( 189, 0, 255);
+    font-family: "Luminari", fantasy;
+    font-weight: 150;
+    font-size: 17px;
+    margin-bottom: 5px;
+    float: right;
+}
+
+.recommend { 
+    margin-left: 25px;
+    color: RGB( 194, 255, 63);
+    font-family: "Luminari", fantasy;
+    font-size: 24px;
+}
+
+.recommend_reklama {
+    margin: 15x;
+    color: white;
+    font-family: "Luminari", fantasy;
+    font-size: 32px;
+    margin-left: 390px;
+    margin-top: -48px;
+}
+.recommend_reklama_cost {
+    color: RGB( 194, 255, 63);
+    font-family: "Luminari", fantasy;
+    font-size: 30px;
+    margin-left: 630px;
+}
+
+.game-name{
+    position: absolute;
+    margin-top: -80px;
+}
+
+.game-description {
+    position: absolute;
+    font-size: 17px;
+    font-family: 'Lucida Console';
+    width: 600px;
+    margin-top: -20px;
+}
+
+.games {
+    display: block;
+    margin-left: 250px;
+}
+
+html,
+body {
+    background-color: rgb(31, 31, 31);
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    flex: 1 1 auto;
+}
+
+.wrapper{
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    background-color: rgb(15, 13, 13);
+    width: 100%;
+    height: 170px;
+}
+
+.footer_link {
+    margin-top: 5px;
+    color: RGB( 194, 255, 63);
+    line-height: 0.9em;
+    margin-left: 20px;
+}
+
+.footer_link_right {
+    margin-top: 5px;
+    line-height: 1.5em;
+    color: RGB( 189, 0, 255);
+    text-align: right;
+    margin-right: 20px;
+}
+.footer_icon{
+    margin-right: 8px;
+}
+.footer_icon_logo {
+    margin-bottom: 15px;
+}
+
+
+.user-image {
+    width: 45px;
+    height: 45px;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+
+.drop-button {
+    display: flex;
+    justify-content: center;
+    width: 55px;
+    height: 55px;
+    background-color: black;
+    border: solid;
+    border-color: gray;
+    border-radius: 10px;
+}
+
+.dropdown-content {
+    color: white;
+    font-family: Impact;
+    font-size: 30px;
+    display: none;
+    position: absolute;
+    margin-left: -100px;
+    background-color: none;
+    min-width: 150px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+    .dropdown-content a:hover { 
+        color: RGB( 194, 255, 63);
+    }
+
+    .dropdown-content a:hover {
+        color: RGB( 194, 255, 63);
+    }
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    border:groove;
+}
+

@@ -1,0 +1,26 @@
+C:\Users\User1\Desktop\IGS\IGS.Domain\bin\Debug\net6.0\IGS.Domain.deps.json
+C:\Users\User1\Desktop\IGS\IGS.Domain\bin\Debug\net6.0\IGS.Domain.dll
+C:\Users\User1\Desktop\IGS\IGS.Domain\bin\Debug\net6.0\IGS.Domain.pdb
+C:\Users\User1\Desktop\IGS\IGS.Domain\obj\Debug\net6.0\IGS.Domain.csproj.AssemblyReference.cache
+C:\Users\User1\Desktop\IGS\IGS.Domain\obj\Debug\net6.0\IGS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\Desktop\IGS\IGS.Domain\obj\Debug\net6.0\IGS.Domain.AssemblyInfoInputs.cache
+C:\Users\User1\Desktop\IGS\IGS.Domain\obj\Debug\net6.0\IGS.Domain.AssemblyInfo.cs
+C:\Users\User1\Desktop\IGS\IGS.Domain\obj\Debug\net6.0\IGS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\IGS\IGS.Domain\obj\Debug\net6.0\IGS.Domain.sourcelink.json
+C:\Users\User1\Desktop\IGS\IGS.Domain\obj\Debug\net6.0\IGS.Domain.dll
+C:\Users\User1\Desktop\IGS\IGS.Domain\obj\Debug\net6.0\refint\IGS.Domain.dll
+C:\Users\User1\Desktop\IGS\IGS.Domain\obj\Debug\net6.0\IGS.Domain.pdb
+C:\Users\User1\Desktop\IGS\IGS.Domain\obj\Debug\net6.0\ref\IGS.Domain.dll
+D:\Проекты C#\Indie Game Space\Project\IGS.Domain\bin\Debug\net6.0\IGS.Domain.deps.json
+d:\Проекты C#\Indie Game Space\Project\IGS.Domain\bin\Debug\net6.0\IGS.Domain.dll
+d:\Проекты C#\Indie Game Space\Project\IGS.Domain\bin\Debug\net6.0\IGS.Domain.pdb
+d:\Проекты C#\Indie Game Space\Project\IGS.Domain\obj\Debug\net6.0\IGS.Domain.csproj.AssemblyReference.cache
+d:\Проекты C#\Indie Game Space\Project\IGS.Domain\obj\Debug\net6.0\IGS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+d:\Проекты C#\Indie Game Space\Project\IGS.Domain\obj\Debug\net6.0\IGS.Domain.AssemblyInfoInputs.cache
+d:\Проекты C#\Indie Game Space\Project\IGS.Domain\obj\Debug\net6.0\IGS.Domain.AssemblyInfo.cs
+d:\Проекты C#\Indie Game Space\Project\IGS.Domain\obj\Debug\net6.0\IGS.Domain.csproj.CoreCompileInputs.cache
+d:\Проекты C#\Indie Game Space\Project\IGS.Domain\obj\Debug\net6.0\IGS.Domain.sourcelink.json
+d:\Проекты C#\Indie Game Space\Project\IGS.Domain\obj\Debug\net6.0\IGS.Domain.dll
+d:\Проекты C#\Indie Game Space\Project\IGS.Domain\obj\Debug\net6.0\refint\IGS.Domain.dll
+d:\Проекты C#\Indie Game Space\Project\IGS.Domain\obj\Debug\net6.0\IGS.Domain.pdb
+D:\Проекты C#\Indie Game Space\Project\IGS.Domain\obj\Debug\net6.0\ref\IGS.Domain.dll

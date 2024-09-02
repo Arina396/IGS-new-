@@ -1,0 +1,38 @@
+<link rel="stylesheet" href="~/css/settingsPage.css" asp-append-version="true"/> 
+<link rel="stylesheet" href="~/css/profileComponent.css" asp-append-version="true"/> 
+
+@model IGS.Domain.ViewModels.Settings.SettingsViewModel
+@{ 
+    string profileButton = "button";
+    string confButton = "button";
+    string safetyButton = "button";
+    string deleteButton = "button";
+    
+   if(Model.ComponentName == "Profile")
+      profileButton = "button-select";
+   if(Model.ComponentName == "Confidentiality")
+      confButton = "button-select";
+   if(Model.ComponentName == "Safety")
+      safetyButton = "button-select";
+   if(Model.ComponentName == "DeleteAccount")
+      deleteButton = "button-select";
+}  
+
+<div class = "settings-menu">
+   <a href="@Url.Action("Settings", "Settings", new { componentId = 0})" class = "@profileButton">
+   <span class = "button-text">Профиль</span>
+   </a>
+   <a href="@Url.Action("Settings", "Settings", new { componentId = 1})" class = "@confButton">
+   <span class = "button-text" style = "font-size: 17px;">Конфиденциальность</span>
+   </a>
+   <a href="@Url.Action("Settings", "Settings", new { componentId = 2})" class = "@safetyButton">
+   <span class = "button-text">Безопасность</span>
+   </a>
+   <a href="@Url.Action("Settings", "Settings", new { componentId = 3})" class = "@deleteButton">
+   <span class = "button-text">Удалить аккаунт</span>
+   </a>
+</div>
+
+<div>
+   @await Component.InvokeAsync(Model.ComponentName);
+</div>

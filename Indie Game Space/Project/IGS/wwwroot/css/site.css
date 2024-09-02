@@ -1,0 +1,54 @@
+ul{
+    text-align:right;
+}
+
+input{
+    width : 500px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.borders {
+    display: inline-flex;
+    justify-content: start;
+    align-items: normal;
+    width: 1100px;
+}
+
+.inputBar {
+    color: black;
+    width: 400px;
+    text-align: left;
+    margin-top: 0%
+}
+
+
+.title-header {
+    color: black;
+    font-family:'Comic Sans MS';
+    text-align: center;
+    font-size: 50px;
+}
+
+
+.inputBar-header {
+    color: black;
+    font-family: 'Comic Sans MS';
+    font-size: 20px;
+    margin-top: 5%
+}
+
+
+.aboutYouBorder {
+    margin-top: 5%;
+}
+
+.logIn {
+    color:white;
+    font-family: Impact;
+    font-size: 30px;
+}
+
+

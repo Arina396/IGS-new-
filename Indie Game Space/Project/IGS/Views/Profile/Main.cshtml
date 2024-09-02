@@ -1,0 +1,31 @@
+﻿@model IGS.Domain.ViewModels.Profile.ProfileViewModel
+<link rel="stylesheet" href="~/css/profilePage.css" asp-append-version="true"/>
+
+@{
+    ViewData["Title"] = "View";
+    Layout = "_Layout";
+}
+
+<div class="background">
+    <div class="main-block">
+        @if (Model.ImageName != null)
+        {
+            <img class="profile-image" src="@("~/image/" + Model.ImageName)" asp-append-version="true" />
+        }
+        else
+        {
+            <img class="profile-image" src="~/img/user-icon.png" />
+        }
+        <span class="profile-name">@Model.Name</span>
+    </div>
+    <div class="content">
+        <span class="profile-description">@Model.Description</span>
+        <div class="url-block">
+            @if(Model.URL != null)
+            {
+                <img class="url-image" src="~/img/link-image.png">
+                <a class="url" href="@Model.URL">Сайт разработчика</a>
+            }
+        </div>
+    </div>
+</div>

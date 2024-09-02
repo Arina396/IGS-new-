@@ -1,0 +1,158 @@
+.profileBlock{
+    width: 800px;
+    height: 900px;
+    
+    display:block;
+    
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    
+    border: 3px;
+    border-radius: 30px; 
+  
+    background-color: rgb(52, 52, 52);
+}
+
+.image-block{
+    display: flex;
+}
+
+.button-text{
+    color: white;
+}
+
+.user-icon{
+    border: 3px;
+    border-radius: 30px; 
+    background-color: white;
+    
+    width: 90px;
+    height: 90px;
+    
+    margin-left: 25%;
+    margin-bottom: 5%;
+    margin-top: 5%;
+}
+
+input[type=file]{
+    margin-left: 10px;
+    margin-bottom: 5%;
+    margin-top: 70px;
+    color:transparent;
+}
+   
+input[type=file]:after {
+    color: #ffffff;
+}
+
+input[type=checkbox] {
+    transform: scale(1.5);
+}
+
+.user-checkbox-block{
+    margin-bottom: 3.5%;
+}
+
+.user-checkbox{
+    margin-left: -40px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+.user-checkbox-text{
+    color: white;
+    margin-left: -240px;
+}
+
+.wing{
+    display: flex;
+    margin-left: 10px;
+    margin-bottom: 5%;
+    margin-top: 75px;
+}
+
+.image-attribute{
+    display: flex;
+    margin-top: 15px;
+    margin-bottom: -5px;
+    margin-left: 25%;
+    justify-content: space-between;
+}
+
+.country{
+    display: flex;
+
+    margin-top: 5px;
+    margin-bottom: 35px;
+}
+
+.image{
+    margin-left: 1%;
+    margin-top: 1%;
+    margin-right: 13px;
+}
+
+.attribute{    
+    display: flex;
+    
+    width: 400px;
+    height: 40px;
+    
+    border: 3px;
+    border-radius: 10px; 
+    background-color: white;
+    
+    margin-top: 5px;
+    margin-bottom: 35px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.attribute-header{
+    color: white;
+    margin-left: 25%;
+}
+
+.input-data{
+    font-size: 20px;
+
+    margin-left: 5%;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.save-content{
+    height: 100px;
+    position: relative;
+    margin-right: 20px;
+}
+
+.save-button{   
+    position: absolute;
+    margin-bottom: 40px;
+    right: 0;
+    bottom: 0;
+    width: 130px;
+    height: 45px;
+    border: 3px;
+    border-radius: 20px; 
+    background-color: rgb(29, 191, 62);
+}
+
+.save-button-text{
+    color: white;
+    font-size: 20px;
+}
+
+.delete-button {
+    position: absolute;
+    float:inline-end;
+    margin-left: 80px;
+    background-color: red;
+    width: 130px;
+    height: 45px;
+    border: 3px;
+    border-radius: 20px;
+}

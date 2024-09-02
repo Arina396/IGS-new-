@@ -1,0 +1,48 @@
+D:\Проекты C#\Indie Game Space\Project\IGS.DAL\bin\Debug\net6.0\IGS.DAL.deps.json
+D:\Проекты C#\Indie Game Space\Project\IGS.DAL\bin\Debug\net6.0\IGS.DAL.dll
+D:\Проекты C#\Indie Game Space\Project\IGS.DAL\bin\Debug\net6.0\IGS.DAL.pdb
+D:\Проекты C#\Indie Game Space\Project\IGS.DAL\obj\Debug\net6.0\IGS.DAL.csproj.AssemblyReference.cache
+D:\Проекты C#\Indie Game Space\Project\IGS.DAL\obj\Debug\net6.0\IGS.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Проекты C#\Indie Game Space\Project\IGS.DAL\obj\Debug\net6.0\IGS.DAL.AssemblyInfoInputs.cache
+D:\Проекты C#\Indie Game Space\Project\IGS.DAL\obj\Debug\net6.0\IGS.DAL.AssemblyInfo.cs
+D:\Проекты C#\Indie Game Space\Project\IGS.DAL\obj\Debug\net6.0\IGS.DAL.csproj.CoreCompileInputs.cache
+D:\Проекты C#\Indie Game Space\Project\IGS.DAL\obj\Debug\net6.0\IGS.DAL.dll
+D:\Проекты C#\Indie Game Space\Project\IGS.DAL\obj\Debug\net6.0\refint\IGS.DAL.dll
+D:\Проекты C#\Indie Game Space\Project\IGS.DAL\obj\Debug\net6.0\IGS.DAL.pdb
+D:\Проекты C#\Indie Game Space\Project\IGS.DAL\obj\Debug\net6.0\ref\IGS.DAL.dll
+D:\Проекты C#\Indie Game Space\Project\IGS.DAL\bin\Debug\net6.0\IGS.Domain.dll
+D:\Проекты C#\Indie Game Space\Project\IGS.DAL\bin\Debug\net6.0\IGS.Domain.pdb
+C:\Users\User1\Desktop\IGS\Project\IGS.DAL\obj\Debug\net6.0\IGS.DAL.dll
+C:\Users\User1\Desktop\IGS\Project\IGS.DAL\obj\Debug\net6.0\refint\IGS.DAL.dll
+C:\Users\User1\Desktop\IGS\Project\IGS.DAL\obj\Debug\net6.0\IGS.DAL.pdb
+C:\Users\User1\Desktop\IGS\Project\IGS.DAL\bin\Debug\net6.0\IGS.DAL.deps.json
+C:\Users\User1\Desktop\IGS\Project\IGS.DAL\bin\Debug\net6.0\IGS.DAL.dll
+C:\Users\User1\Desktop\IGS\Project\IGS.DAL\bin\Debug\net6.0\IGS.DAL.pdb
+C:\Users\User1\Desktop\IGS\Project\IGS.DAL\bin\Debug\net6.0\IGS.Domain.dll
+C:\Users\User1\Desktop\IGS\Project\IGS.DAL\bin\Debug\net6.0\IGS.Domain.pdb
+C:\Users\User1\Desktop\IGS\Project\IGS.DAL\obj\Debug\net6.0\IGS.DAL.csproj.AssemblyReference.cache
+C:\Users\User1\Desktop\IGS\Project\IGS.DAL\obj\Debug\net6.0\IGS.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\Desktop\IGS\Project\IGS.DAL\obj\Debug\net6.0\IGS.DAL.AssemblyInfoInputs.cache
+C:\Users\User1\Desktop\IGS\Project\IGS.DAL\obj\Debug\net6.0\IGS.DAL.AssemblyInfo.cs
+C:\Users\User1\Desktop\IGS\Project\IGS.DAL\obj\Debug\net6.0\IGS.DAL.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\IGS\Project\IGS.DAL\obj\Debug\net6.0\IGS.DAL.sourcelink.json
+C:\Users\User1\Desktop\IGS\Project\IGS.DAL\obj\Debug\net6.0\IGS.DAL.csproj.CopyComplete
+C:\Users\User1\Desktop\IGS\Project\IGS.DAL\obj\Debug\net6.0\ref\IGS.DAL.dll
+d:\Проекты C#\Indie Game Space\Project\IGS.DAL\obj\Debug\net6.0\IGS.DAL.sourcelink.json
+d:\Проекты C#\Indie Game Space\Project\IGS.DAL\obj\Debug\net6.0\IGS.DAL.csproj.Up2Date
+C:\Users\User1\Desktop\IGS\IGS.DAL\bin\Debug\net6.0\IGS.DAL.deps.json
+C:\Users\User1\Desktop\IGS\IGS.DAL\bin\Debug\net6.0\IGS.DAL.dll
+C:\Users\User1\Desktop\IGS\IGS.DAL\bin\Debug\net6.0\IGS.DAL.pdb
+C:\Users\User1\Desktop\IGS\IGS.DAL\bin\Debug\net6.0\IGS.Domain.dll
+C:\Users\User1\Desktop\IGS\IGS.DAL\bin\Debug\net6.0\IGS.Domain.pdb
+C:\Users\User1\Desktop\IGS\IGS.DAL\obj\Debug\net6.0\IGS.DAL.csproj.AssemblyReference.cache
+C:\Users\User1\Desktop\IGS\IGS.DAL\obj\Debug\net6.0\IGS.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\Desktop\IGS\IGS.DAL\obj\Debug\net6.0\IGS.DAL.AssemblyInfoInputs.cache
+C:\Users\User1\Desktop\IGS\IGS.DAL\obj\Debug\net6.0\IGS.DAL.AssemblyInfo.cs
+C:\Users\User1\Desktop\IGS\IGS.DAL\obj\Debug\net6.0\IGS.DAL.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\IGS\IGS.DAL\obj\Debug\net6.0\IGS.DAL.sourcelink.json
+C:\Users\User1\Desktop\IGS\IGS.DAL\obj\Debug\net6.0\IGS.DAL.csproj.CopyComplete
+C:\Users\User1\Desktop\IGS\IGS.DAL\obj\Debug\net6.0\IGS.DAL.dll
+C:\Users\User1\Desktop\IGS\IGS.DAL\obj\Debug\net6.0\refint\IGS.DAL.dll
+C:\Users\User1\Desktop\IGS\IGS.DAL\obj\Debug\net6.0\IGS.DAL.pdb
+C:\Users\User1\Desktop\IGS\IGS.DAL\obj\Debug\net6.0\ref\IGS.DAL.dll

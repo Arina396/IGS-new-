@@ -1,0 +1,49 @@
+<link rel="stylesheet" href="~/css/profileComponent.css" asp-append-version="true" />
+<link rel="stylesheet" href="~/css/deletePage.css" asp-append-version="true"/> 
+<link rel="stylesheet" href="~/css/safetyPage.css" asp-append-version="true"/> 
+
+<div class="profileBlock" style="height:950px;">
+    <div>
+        <span class = "content-header"> Удаление аккунта </span>
+    </div>
+    <div><span class = "text-header"> Пожалуйста, внимательно прочитайте, прежде чем продолжить </span></div>
+    <div class = "text-block">
+        <p>
+            Удаление вашей учетной записи IGS — необратимое действие. Прежде чем продолжить, важно понять последствия:
+        </p>
+        <p>
+            1) Имя пользователя и адрес электронной почты учетной 
+            записи будут временно заблокированы и не могут быть использованы для новой учетной записи.
+         </p>
+        <p>
+            2) Любые профили, публикации, загрузки, страницы, джемы и т. д., созданные учетной записью, станут недоступными.
+            Некоторые данные могут оставаться доступными в нашей CDN и кэшах до тех пор, пока срок их действия не истечет автоматически.
+        </p>
+        <p>
+            3) Все покупки, привязанные к аккаунту, больше не будут доступны для скачивания.
+            Прежде чем удалять свою учетную запись, обязательно загрузите все файлы, которые хотите сохранить.
+        </p>
+    </div>
+    <div class = "user-checkbox-block">
+        <span class = "attribute-header" style="margin-left: 10%; font-size: 19px; color: greenyellow;">Пожалуйста подтвердите</span>
+        <div class = "user-checkbox" style="margin-left: -20%;">
+            <input type="checkbox">
+             <span  class = "user-checkbox-text"> Я понимаю, что это действие необратимо и не может быть отменено. </span>
+       </div>
+       <div class = "user-checkbox" style="margin-left: -20%;">
+            <input type="checkbox">
+             <span class = "user-checkbox-text"> Я прочитал и понимаю последствия удаления моей учетной записи. </span>
+        </div>
+    </div>
+    <div>
+        <div>
+            <span class = "attribute-header" style="margin-left:10%;">Введите 'delete @User.Identity.Name'</span>
+            <input class = "attribute" style="margin-left:10%; margin-bottom: 25px;"></input>
+            <span class = "attribute-header" style="margin-left:10%; margin-bottom: 35px;">Введите ваш пароль</span>
+            <input class = "attribute" style="margin-left:10%; margin-bottom: 25px;"></input>
+            <span class = "attribute-header" style="margin-left:10%; margin-bottom: 35px;">Укажите причину удаления</span>
+            <input class = "attribute" style="margin-left:10%; margin-bottom: 25px;"></input>
+            <button class = "delete-button"><span class = "safety-button-text">Удалить</span></button>
+        </div>
+    </div>
+</div>

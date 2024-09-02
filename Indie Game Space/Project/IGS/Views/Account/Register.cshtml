@@ -1,0 +1,58 @@
+﻿@model IGS.Domain.ViewModels.Account.RegisterViewModel
+@{
+    Layout = "_Layout";
+    ViewBag.Title = "Регистрация";
+}
+<div class="registerPage">
+    <div class="borderRegister-title">
+      <p class="title-header">Регистрация</p>
+    </div>
+    <div class="borders">
+      <div class="borderRegister">
+        <form asp-controller="Account" asp-action="Register">
+          <div asp-validation-summary="All" style="font-size:23px; font-family:Impact" class="text-danger text-center"></div>
+          <div class="form-group">
+          </div>
+          <div class="form-group">
+            <p class="inputBar-header">Имя</p>
+            <input asp-for="Login" class="inputBar" placeholder="" type="text">
+          </div>
+          <div class="form-group">
+            <p class="inputBar-header">Пароль</p>
+            <input autocomplete="password" asp-for="Password" placeholder="" class="inputBar" type="password">
+          </div>
+          <div class="form-group">
+            <p class="inputBar-header">Подтвердите пароль</p>
+            <input autocomplete="password" asp-for="PasswordConfirm" placeholder="" class="inputBar" type="password">
+          </div>
+          <p class="inputBar-header">Ваша электронная почта</p>
+          <input autocomplete="email" asp-for="EmailAdress" placeholder="" class="inputBar" type="text">
+          <div class="aboutYouBorder">
+            <div class="check">
+              <input type="checkbox" asp-for="IUser" checked />
+              <i class="checkText" for="coding">Мне интересно играть или скачивать игры</i>
+            </div>
+            <div class="check">
+              <input type="checkbox" asp-for="ICreator" checked />
+              <i class="checkText" for="music">Я заинтересован в распространении контента</i>
+            </div>
+          </div>
+
+          <div class="captcha">
+            <dnt-captcha asp-captcha-generator-max="999999" asp-captcha-generator-min="111111" asp-captcha-generator-language="English" asp-captcha-generator-display-mode="ShowDigits" asp-fore-color="#333333" asp-back-color="#ccc" asp-font-name="Tahoma" asp-font-size="50" asp-use-relative-urls="true" asp-placeholder="Enter Captcha" asp-text-box-class="captchaBox" asp-text-box-template="<span class 'input-group-prepend'><span class='form-group-text'></span></span>{0}" asp-validation-message-class="text-danger" asp-use-noise="true" />
+          </div>
+          <div>
+            <button class="registerButton" type="submit">Отправить</button>
+          </div>
+        </form>
+      </div>
+      <div class="borderRegister-info">
+        <h1>Зачем регистрироваться на нашем сайте?</h1>
+        <p>Если вы хотите просто поиграть, то регистрация не потребуется, но создание учетной записи позволит добавлять игры в избранное и откроет полные возможности сайта. </p>
+        <h1>Если вы разработчик игр</h1>
+        <p>IGS предназначен для творческих людей, которые с помощью нашего сайта смогут максимально быстро и легко распространять свои работы. </p>
+        <p>Если вы настроены на публикацию своего контента, то вы можете начать прямо сейчас, зарегистрировавшись на платформе. Учетная запись также позволяет отправлять игры на различные игровые джемы, проводимые в будущем на нашем сайте</p>
+      </div>
+    </div>
+</div>
+<div></div>

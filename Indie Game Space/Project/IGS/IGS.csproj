@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Remove="wwwroot\js\three.cjs" />
+    <Content Remove="wwwroot\scripts\main.js" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="DNTCaptcha.Core" Version="5.2.1" />
+    <PackageReference Include="MailKit" Version="4.4.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.27" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.16" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\IGS.DAL\IGS.DAL.csproj" />
+    <ProjectReference Include="..\IGS.Domain\IGS.Domain.csproj" />
+    <ProjectReference Include="..\IGS.Service\IGS.Service.csproj" />
+    <ProjectReference Include="..\IGS.WEB\IGS.WEB.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="wwwroot\Builds\Build\Poker web.data.unityweb" />
+    <None Include="wwwroot\Builds\Build\Poker web.framework.js.unityweb" />
+    <None Include="wwwroot\Builds\Build\Poker web.loader.js" />
+    <None Include="wwwroot\Builds\Build\Poker web.wasm.unityweb" />
+    <None Include="wwwroot\img\find.icon.ico" />
+    <None Include="wwwroot\lib\three.cjs" />
+    <None Include="wwwroot\lib\Three.js" />
+    <None Include="wwwroot\scripts\main.js" />
+  </ItemGroup>
+</Project>

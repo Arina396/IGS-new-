@@ -1,0 +1,83 @@
+﻿@model IEnumerable<IGS.Domain.Entity.Game>
+
+<link rel="stylesheet" href="~/css/mainPage.css" asp-append-version="true" /> 
+
+<head>
+  <meta charset="utf-8">
+  <title>Полосы прокрутки</title>
+  <style>
+   html { overflow-x: hidden; }
+  </style>
+</head>
+
+<div class = "content">
+    <div class="menu">
+        <a asp-controller="Account" asp-action="Login"><p class = "text_menu_head" > Категории</p></a>
+        <a asp-controller="Account" asp-action="Login"><p class = "text_menu" > Хорор </p></a>
+        <a asp-controller="Account" asp-action="Login"><p class = "text_menu" > Многопользовательские <br /></p></a>
+        <a asp-controller="Account" asp-action="Login"><p class = "text_menu" > Симулятор <br /></p></a>
+        <a asp-controller="Account" asp-action="Login"><p class = "text_menu" > Аркады <br /></p></a>
+        <a asp-controller="Account" asp-action="Login"><p class = "text_menu" > Гонки <br /></p></a>
+        <a asp-controller="Account" asp-action="Login"><p class = "text_menu" > Ролевые <br /></p></a>
+        <a asp-controller="Account" asp-action="Login"><p class = "text_menu" > Приключения <br /></p></a>
+        <a asp-controller="Account" asp-action="Login"><p class = "text_menu" > Спортивные игры <br /></p></a>
+        <a asp-controller="Account" asp-action="Login"><p class = "text_menu" > Стратегии <br /></p></a>
+        <a asp-controller="Account" asp-action="Login"><p class = "text_menu_head" > Игры по цене <br /></p></a>
+        <a asp-controller="Account" asp-action="Login"><p class = "text_menu" > Бесплатные игры <br /></p></a>
+        <a asp-controller="Account" asp-action="Login"><p class = "text_menu" > Меньше 500р. <br /></p></a>
+        <a asp-controller="Account" asp-action="Login"><p class = "text_menu" > Больше 500р. <br /></p></a>
+        <a asp-controller="Account" asp-action="Login"><p class = "text_menu" > Лучшеие продавцы <br /></p></a>
+        <a asp-controller="Account" asp-action="Login"><p class = "text_menu" > С демо-версией <br /></p></a>
+    </div>
+    <div class = "games">
+        <div class="adds-back">
+            <div class="adds-block">
+                <a class="arrow-button"><img class="arrow-image" src="~/img/arrow.png" /></a>
+                <div class="adds-blocl-back">
+                    <div class="adds">
+                        <div class="image_reklama">
+                            <img src="~/Games/igra6.png" alt="Image 1">
+                        </div>
+                         <div class="image_reklama2">
+                            <img src="~/img/rek1.jpg" alt="Image 1">
+                        </div>
+                         <div class="image_reklama2">
+                            <img src="~/img/rek2.jpg" alt="Image 1">
+                        </div>
+                         <div class="image_reklama2">
+                            <img src="~/img/rek3.jpg" alt="Image 1">
+                        </div>
+                        <div class = "recommend_reklama">
+                            <p> 
+                                <span class="game-name">Tristram</span>              
+                                <div style=" display:inline;">
+                                    <span class="game-description">
+                                        Embark on a pixelated journey reminiscent of Diablo 1 in this thrilling 2D adventure!
+                                    </span>
+                                    <span class="recommend_reklama_cost">  FREE </span>
+                                </div>
+                                </p>
+                        </div>         
+                    </div>
+                </div>
+                <a class="arrow-button"><img class="arrow-image" src="~/img/right-arrow.png" /></a>
+            </div>
+        </div>
+        <div class = "recommend">
+            <p> Рекомендации </p>
+        </div>
+        @foreach (var game in Model)
+        {
+            <div class="image">
+                <img src="@("~/Games/" + game.ImageName)" asp-append-version="true" alt="Image 1">
+                @if(@game.Price == 0)
+                {
+                    <p>@game.Name<span class="center_text_cost">FREE</p>
+                }
+                else
+                {
+                    <p>@game.Name<span class="center_text_cost">@game.Price Р</p>
+                }          
+            </div>
+        }
+</div>

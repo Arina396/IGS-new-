@@ -1,0 +1,61 @@
+@model IGS.Domain.ViewModels.Profile.ProfileViewModel
+<link rel="stylesheet" href="~/css/profilePage.css" asp-append-version="true"/>
+
+
+<div class = "profileBlock">
+    <form autocomplete="on" method="post" asp-controller="Settings" asp-action="SaveProfile" enctype="multipart/form-data">
+    <div class = "image-block">
+    
+         @if(Model.ImageName != null){
+            <img class = "user-icon" src="@("~/image/" + Model.ImageName)" asp-append-version="true"/>         
+         }
+         else{
+            <img class = "user-icon" src="~/img/user-icon.png"/>      
+         }
+        
+        <input asp-for = "ImageFile" class = "input-image" accept="image/*"></input>      
+        </div>
+        <div>
+            <div>
+                <span class = "attribute-header" >Отображаемое имя</span>
+                <input asp-for="Name" class ="attribute" placeholder=@User.Identity.Name type="text"></input>
+            </div>
+            <div class = "user-checkbox-block">
+                <span class = "attribute-header">Как вы будете использовать вашу учётную запись</span>
+                <div class = "user-checkbox">
+                    @if(Model.IUser){
+                        <input type="checkbox" asp-for="IUser" checked />   
+                    }else{
+                        <input type="checkbox" asp-for="IUser" />   
+                    }
+                    <span  class = "user-checkbox-text"> Мне интересно играть или скачивать игры </span>
+                </div>
+               <div class = "user-checkbox">
+                     @if(Model.ICreator){
+                        <input type="checkbox" asp-for="ICreator" checked />   
+                    }else {
+                        <input type="checkbox" asp-for="ICreator" />   
+                    }
+                     <span class = "user-checkbox-text"> Я заинтересован в распространении контента </span>
+                </div>
+            </div>
+            <div>
+                <span class = "attribute-header">Профиль — Текст на странице профиля</span>
+                <textarea asp-for="Description" class="attribute" style="height:150px;" type="text" placeholder=@Model.Description></textarea>
+            </div>
+            <div>
+                <span class="attribute-header">Сайт — URL, показываемый на странице профиля</span>
+                <input asp-for="URL" class="attribute"></input>
+            </div>
+            <div>
+                <div class = "image-attribute">
+                    <img src="~/img/gitLogo.png" width="55px" height = "50px"/>
+                    <input asp-for="GitHubLink" class = "attribute" style = "margin-left: 5%; width: 300px;"></input>
+                </div>
+            </div>
+            <div class = "save-content">
+               <button class = "save-button" type="submit"><span class = "save-button-text">Сохранить</span></button>
+            </div>
+    </div>
+    </form>
+</div>
