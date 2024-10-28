@@ -57,6 +57,10 @@
       "PackagePath": "staticwebassets\\css\\deletePage.css"
     },
     {
+      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\gamePage.css",
+      "PackagePath": "staticwebassets\\css\\gamePage.css"
+    },
+    {
       "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\mainPage.css",
       "PackagePath": "staticwebassets\\css\\mainPage.css"
     },
@@ -93,6 +97,10 @@
       "PackagePath": "staticwebassets\\img\\arrow.png"
     },
     {
+      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\carousel-plug.png",
+      "PackagePath": "staticwebassets\\img\\carousel-plug.png"
+    },
+    {
       "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\find.icon.ico",
       "PackagePath": "staticwebassets\\img\\find.icon.ico"
     },
@@ -103,6 +111,10 @@
     {
       "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\link-image.png",
       "PackagePath": "staticwebassets\\img\\link-image.png"
+    },
+    {
+      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\logo-game-plug.png",
+      "PackagePath": "staticwebassets\\img\\logo-game-plug.png"
     },
     {
       "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\logo.jpg",
@@ -127,6 +139,10 @@
     {
       "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\right-arrow.png",
       "PackagePath": "staticwebassets\\img\\right-arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\star.svg",
+      "PackagePath": "staticwebassets\\img\\star.svg"
     },
     {
       "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\tg1.png",
