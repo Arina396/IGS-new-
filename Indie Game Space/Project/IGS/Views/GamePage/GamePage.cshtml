@@ -1,0 +1,154 @@
+﻿@model IGS.Views.GamePage.IndexModel
+<link rel="stylesheet" href="~/css/gamePage.css" asp-append-version="true" />
+@{
+    ViewData["Title"] = "GamePagePlug";
+    Layout = "_Layout";
+}
+
+<div id="carouselExampleIndicators" class="carousel slide">
+    <div class="carousel-indicators">
+        <input type="radio" name="carousel-radio" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active carousel-radio" aria-current="true" aria-label="Slide 1">
+        <input type="radio" name="carousel-radio" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" class="carousel-radio" aria-label="Slide 2">
+        <input type="radio" name="carousel-radio" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" class="carousel-radio" aria-label="Slide 3">
+    </div>
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <img src="~/img/carousel-plug.png" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+            <img src="~/img/carousel-plug.png" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+            <img src="~/img/carousel-plug.png" class="d-block w-100" alt="...">
+        </div>
+    </div>
+    <button class="carousel-control-prev control-btn-slider-left" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next control-btn-slider-right" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+    </button>
+</div>
+
+
+<section class="game-page-info">
+    <article class="game-info">
+       
+        <div class="info-and-description">
+            <div class="info">
+                <h1 class="game-title">Chess Peak</h1>
+                <h4>ИНФО</h4>
+                <p class="game-genre">Жанры: Головоломка, шахматы, карточные игры</p>
+                <p class="game-developer">Разработчик: <span class="dev-nick">никнейм</span></p>
+                <p class="game-time-to-complete">Время прохождения: <span class="time-to-complete">2ч</span></p>
+                <p class="game-status">Статус: <span class="status">демо</span></p>
+                <br/>
+                <h4>ОПИСАНИЕ</h4>
+                <div class="description">
+                    <span>
+                        Chess Peak — это простая на первый взгляд трёхмерная головоломка, основанная на шахматах: как и в них, вашей целью будет поставить противнику мат, однако, не всё так просто. Для хода вам нужно разыграть карту с изображением фигуры, которой вы будете ходить. Количество карт ограничено, и как только они заканчиваются, вы проигрываете.
+                        По началу игра кажется простой, однако постепенно количество карт и фигур растёт, бросая вызов даже опытным игрокам.
+                    </span>
+                </div>
+            </div>
+            <div class="game-logo">
+                <img src="~/img/logo-game-plug.png" alt="Alternate Text">
+                <p class="game-rating">4.5 <img src="~/img/star.svg" alt="star-img"></p>
+            </div>
+        </div>
+    </article>
+
+    <div class="download-buttons">
+        <h4>СКАЧАТЬ</h4>
+        <div class="buttons">
+            <button class="OS-buttons">Windows</button>
+            <button class="OS-buttons">Android</button>
+        </div>
+    </div>
+</section>
+
+<section class="comments">
+    <div class="comment-input">
+        <label for="comment-text">КОММЕНТАРИИ</label>
+        <input type="text" name="comment-text" id="comment-text" placeholder="Ваш комментарий" />
+    </div>
+
+    <div class="comments-list">
+        <div class="comment-item">
+            <div class="comment-header">
+                <div class="avatar-wrapper">
+                                    <img src="~/img/star.svg" alt="Alternate Text" />
+                </div>
+                <span>User1</span>
+            </div>
+            <div class="comment-body">
+                <span>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ullamcorper nibh sed lacus fermentum, ut bibendum nulla porttitor. Sed dapibus maximus sagittis. Vestibulum sit amet arcu tincidunt ex rhoncus iaculis porta sed metus. Suspendisse convallis mauris at pulvinar dictum. In aliquet, mauris at fringilla sollicitudin, libero ante vehicula lectus, nec semper turpis enim vel est. Nam quis bibendum dui. Sed cursus mi vel diam iaculis ultrices. Nulla sollicitudin suscipit eros, at efficitur turpis maximus lobortis. Nunc pellentesque est eu leo blandit sagittis. Aliquam elementum augue mi, a porta sapien malesuada eget. Fusce pretium vel justo sed egestas.
+                </span>
+            </div>
+        </div>
+    </div>
+    <div class="comments-list">
+        <div class="comment-item">
+            <div class="comment-header">
+                <div class="avatar-wrapper">
+                                    <img src="~/img/star.svg" alt="Alternate Text" />
+                </div>
+                <span>User1</span>
+            </div>
+            <div class="comment-body">
+                <span>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ullamcorper nibh sed lacus fermentum, ut bibendum nulla porttitor. Sed dapibus maximus sagittis. Vestibulum sit amet arcu tincidunt ex rhoncus iaculis porta sed metus. Suspendisse convallis mauris at pulvinar dictum. In aliquet, mauris at fringilla sollicitudin, libero ante vehicula lectus, nec semper turpis enim vel est. Nam quis bibendum dui. Sed cursus mi vel diam iaculis ultrices. Nulla sollicitudin suscipit eros, at efficitur turpis maximus lobortis. Nunc pellentesque est eu leo blandit sagittis. Aliquam elementum augue mi, a porta sapien malesuada eget. Fusce pretium vel justo sed egestas.
+                </span>
+            </div>
+        </div>
+    </div>
+    <div class="comments-list">
+        <div class="comment-item">
+            <div class="comment-header">
+                <div class="avatar-wrapper">
+                                    <img src="~/img/star.svg" alt="Alternate Text" />
+                </div>
+                <span>User1</span>
+            </div>
+            <div class="comment-body">
+                <span>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ullamcorper nibh sed lacus fermentum, ut bibendum nulla porttitor. Sed dapibus maximus sagittis. Vestibulum sit amet arcu tincidunt ex rhoncus iaculis porta sed metus. Suspendisse convallis mauris at pulvinar dictum. In aliquet, mauris at fringilla sollicitudin, libero ante vehicula lectus, nec semper turpis enim vel est. Nam quis bibendum dui. Sed cursus mi vel diam iaculis ultrices. Nulla sollicitudin suscipit eros, at efficitur turpis maximus lobortis. Nunc pellentesque est eu leo blandit sagittis. Aliquam elementum augue mi, a porta sapien malesuada eget. Fusce pretium vel justo sed egestas.
+                </span>
+            </div>
+        </div>
+    </div>
+    <div class="comments-list">
+        <div class="comment-item">
+            <div class="comment-header">
+                <div class="avatar-wrapper">
+                                    <img src="~/img/star.svg" alt="Alternate Text" />
+                </div>
+                <span>User1</span>
+            </div>
+            <div class="comment-body">
+                <span>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ullamcorper nibh sed lacus fermentum, ut bibendum nulla porttitor. Sed dapibus maximus sagittis. Vestibulum sit amet arcu tincidunt ex rhoncus iaculis porta sed metus. Suspendisse convallis mauris at pulvinar dictum. In aliquet, mauris at fringilla sollicitudin, libero ante vehicula lectus, nec semper turpis enim vel est. Nam quis bibendum dui. Sed cursus mi vel diam iaculis ultrices. Nulla sollicitudin suscipit eros, at efficitur turpis maximus lobortis. Nunc pellentesque est eu leo blandit sagittis. Aliquam elementum augue mi, a porta sapien malesuada eget. Fusce pretium vel justo sed egestas.
+                </span>
+            </div>
+        </div>
+    </div>
+    <div class="comments-list">
+        <div class="comment-item">
+            <div class="comment-header">
+                <div class="avatar-wrapper">
+                                    <img src="~/img/star.svg" alt="Alternate Text" />
+                </div>
+                <span>User1</span>
+            </div>
+            <div class="comment-body">
+                <span>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ullamcorper nibh sed lacus fermentum, ut bibendum nulla porttitor. Sed dapibus maximus sagittis. Vestibulum sit amet arcu tincidunt ex rhoncus iaculis porta sed metus. Suspendisse convallis mauris at pulvinar dictum. In aliquet, mauris at fringilla sollicitudin, libero ante vehicula lectus, nec semper turpis enim vel est. Nam quis bibendum dui. Sed cursus mi vel diam iaculis ultrices. Nulla sollicitudin suscipit eros, at efficitur turpis maximus lobortis. Nunc pellentesque est eu leo blandit sagittis. Aliquam elementum augue mi, a porta sapien malesuada eget. Fusce pretium vel justo sed egestas.
+                </span>
+            </div>
+        </div>
+    </div>
+
+</section>

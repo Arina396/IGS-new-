@@ -43,6 +43,10 @@
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "appsettings.json",
@@ -52,12 +56,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-28T09:30:03.339Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "WhenOpened": "2024-10-28T09:30:03.339Z"
             },
             {
               "$type": "Document",
@@ -69,8 +68,7 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\1c0eb5c95d454aaf81378d7c6fa1a0c6fecb1ffebf3a79b1357b10ef06d6a95d\\IGS\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T09:23:40.757Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T09:23:40.757Z"
             },
             {
               "$type": "Document",
@@ -80,7 +78,7 @@
               "RelativeDocumentMoniker": "..\\IGS.DAL\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS.DAL\\ApplicationDbContext.cs",
               "RelativeToolTip": "..\\IGS.DAL\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAIA9wBMAAAAUAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAApwBMAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T09:24:19.254Z",
               "EditorCaption": ""
@@ -95,8 +93,7 @@
               "RelativeToolTip": "Views\\Profile\\Main.cshtml",
               "ViewState": "AQIAAAYAAAAAAAAAAAAkwB0AAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-01T13:11:53.982Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T13:11:53.982Z"
             }
           ]
         }
