@@ -25,5 +25,6 @@ namespace IGS.DAL
         public DbSet<Profile> Profiles { get; set; }
 
         public DbSet<Game> Games { get; set; }
+        public DbSet<Comments> Comments { get; set; }
     }
 }

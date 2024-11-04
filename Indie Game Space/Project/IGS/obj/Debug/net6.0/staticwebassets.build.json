@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Qnr5NMRE9dyzeKQCu4B4f5hbBoufyUcKLevt/v2AEmQ=",
+  "Hash": "TAxTyg/3AYr1TSHMth6/fSGmVniM0hS687AUVXEZydM=",
   "Source": "IGS",
   "BasePath": "_content/IGS",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "IGS\\wwwroot",
       "Source": "IGS",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\obj\\Debug\\net6.0\\scopedcss\\bundle\\IGS.styles.css",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\obj\\Debug\\net6.0\\scopedcss\\bundle\\IGS.styles.css",
       "SourceId": "IGS",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/IGS",
       "RelativePath": "IGS.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\obj\\Debug\\net6.0\\scopedcss\\bundle\\IGS.styles.css"
+      "OriginalItemSpec": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\obj\\Debug\\net6.0\\scopedcss\\bundle\\IGS.styles.css"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\IGS.bundle.scp.css",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\IGS.bundle.scp.css",
       "SourceId": "IGS",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/IGS",
       "RelativePath": "IGS.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\IGS.bundle.scp.css"
+      "OriginalItemSpec": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\IGS.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\deletePage.css",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\deletePage.css",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "css/deletePage.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\deletePage.css"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\gamePage.css",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\gamePage.css",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "css/gamePage.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\css\\gamePage.css"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\mainPage.css",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\mainPage.css",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "css/mainPage.css",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\css\\mainPage.css"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\profileComponent.css",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\profileComponent.css",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "css/profileComponent.css",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\css\\profileComponent.css"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\profilePage.css",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\profilePage.css",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "css/profilePage.css",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\css\\profilePage.css"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\registerPage.css",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\registerPage.css",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "css/registerPage.css",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\css\\registerPage.css"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\safetyPage.css",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\safetyPage.css",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "css/safetyPage.css",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\css\\safetyPage.css"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\settingsPage.css",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\settingsPage.css",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "css/settingsPage.css",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\css\\settingsPage.css"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\site.css",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\site.css",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\favicon.ico",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\favicon.ico",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\Games\\igra1.png",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\Games\\igra1.png",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "Games/igra1.png",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\Games\\igra1.png"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\Games\\igra10.png",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\Games\\igra10.png",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "Games/igra10.png",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\Games\\igra10.png"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\Games\\igra11.png",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\Games\\igra11.png",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "Games/igra11.png",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\Games\\igra11.png"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\Games\\igra12.png",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\Games\\igra12.png",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "Games/igra12.png",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\Games\\igra12.png"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\Games\\igra13.png",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\Games\\igra13.png",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "Games/igra13.png",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\Games\\igra13.png"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\Games\\igra2.png",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\Games\\igra2.png",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "Games/igra2.png",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\Games\\igra2.png"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\Games\\igra3.png",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\Games\\igra3.png",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "Games/igra3.png",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\Games\\igra3.png"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\Games\\igra4.png",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\Games\\igra4.png",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "Games/igra4.png",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\Games\\igra4.png"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\Games\\igra6.png",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\Games\\igra6.png",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "Games/igra6.png",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\Games\\igra6.png"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\Games\\igra7.png",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\Games\\igra7.png",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "Games/igra7.png",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\Games\\igra7.png"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\Games\\igra8.png",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\Games\\igra8.png",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "Games/igra8.png",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\Games\\igra8.png"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\Games\\igra9.png",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\Games\\igra9.png",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "Games/igra9.png",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\Games\\igra9.png"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\arrow.png",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\arrow.png",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "img/arrow.png",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\img\\arrow.png"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\carousel-plug.png",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\carousel-plug.png",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "img/carousel-plug.png",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\img\\carousel-plug.png"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\find.icon.ico",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\find.icon.ico",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "img/find.icon.ico",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\img\\find.icon.ico"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\gitLogo.png",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\gitLogo.png",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "img/gitLogo.png",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\img\\gitLogo.png"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\link-image.png",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\link-image.png",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "img/link-image.png",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\img\\link-image.png"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\logo.jpg",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\logo.jpg",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "img/logo.jpg",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\img\\logo.jpg"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\logo2.png",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\logo2.png",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "img/logo2.png",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\img\\logo2.png"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\logo-game-plug.png",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\logo-game-plug.png",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "img/logo-game-plug.png",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\img\\logo-game-plug.png"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\rek1.jpg",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\rek1.jpg",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "img/rek1.jpg",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\img\\rek1.jpg"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\rek2.jpg",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\rek2.jpg",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "img/rek2.jpg",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\img\\rek2.jpg"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\rek3.jpg",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\rek3.jpg",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "img/rek3.jpg",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\img\\rek3.jpg"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\right-arrow.png",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\right-arrow.png",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "img/right-arrow.png",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\img\\right-arrow.png"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\star.svg",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\star.svg",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "img/star.svg",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\img\\star.svg"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\tg1.png",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\tg1.png",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "img/tg1.png",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\img\\tg1.png"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\tg2.png",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\tg2.png",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "img/tg2.png",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\img\\tg2.png"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\user-icon.png",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\user-icon.png",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "img/user-icon.png",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\img\\user-icon.png"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\vk.png",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\vk.png",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "img/vk.png",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\img\\vk.png"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\vk1.png",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\vk1.png",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "img/vk1.png",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\img\\vk1.png"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\wing.png",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\wing.png",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "img/wing.png",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\img\\wing.png"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\фон.jpg",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\фон.jpg",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "img/фон.jpg",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\img\\фон.jpg"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\js\\site.js",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\js\\site.js",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\js\\three.js",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\js\\three.js",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "js/three.js",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\js\\three.js"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1708,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1727,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1746,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1765,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1784,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1803,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1822,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1841,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1860,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1879,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1898,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1917,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1936,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1974,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\three.cjs",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\three.cjs",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "lib/three.cjs",
       "AssetKind": "All",
@@ -1993,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\three.cjs"
     },
     {
-      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\Three.js",
+      "Identity": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\Three.js",
       "SourceId": "IGS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "ContentRoot": "E:\\пд\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
       "BasePath": "_content/IGS",
       "RelativePath": "lib/Three.js",
       "AssetKind": "All",
