@@ -76,79 +76,22 @@
     </div>
 
     <div class="comments-list">
+        @foreach (var comment in Model.Comments)
+        {
         <div class="comment-item">
             <div class="comment-header">
                 <div class="avatar-wrapper">
-                                    <img src="~/img/star.svg" alt="Alternate Text" />
+                    <img src="~/img/star.svg" alt="User Avatar" />
                 </div>
-                <span>User1</span>
+                <span>@comment.UserName</span> <!-- Имя пользователя -->
             </div>
             <div class="comment-body">
                 <span>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ullamcorper nibh sed lacus fermentum, ut bibendum nulla porttitor. Sed dapibus maximus sagittis. Vestibulum sit amet arcu tincidunt ex rhoncus iaculis porta sed metus. Suspendisse convallis mauris at pulvinar dictum. In aliquet, mauris at fringilla sollicitudin, libero ante vehicula lectus, nec semper turpis enim vel est. Nam quis bibendum dui. Sed cursus mi vel diam iaculis ultrices. Nulla sollicitudin suscipit eros, at efficitur turpis maximus lobortis. Nunc pellentesque est eu leo blandit sagittis. Aliquam elementum augue mi, a porta sapien malesuada eget. Fusce pretium vel justo sed egestas.
+                    @comment.Text <!-- Текст комментария -->
                 </span>
             </div>
         </div>
-    </div>
-    <div class="comments-list">
-        <div class="comment-item">
-            <div class="comment-header">
-                <div class="avatar-wrapper">
-                                    <img src="~/img/star.svg" alt="Alternate Text" />
-                </div>
-                <span>User1</span>
-            </div>
-            <div class="comment-body">
-                <span>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ullamcorper nibh sed lacus fermentum, ut bibendum nulla porttitor. Sed dapibus maximus sagittis. Vestibulum sit amet arcu tincidunt ex rhoncus iaculis porta sed metus. Suspendisse convallis mauris at pulvinar dictum. In aliquet, mauris at fringilla sollicitudin, libero ante vehicula lectus, nec semper turpis enim vel est. Nam quis bibendum dui. Sed cursus mi vel diam iaculis ultrices. Nulla sollicitudin suscipit eros, at efficitur turpis maximus lobortis. Nunc pellentesque est eu leo blandit sagittis. Aliquam elementum augue mi, a porta sapien malesuada eget. Fusce pretium vel justo sed egestas.
-                </span>
-            </div>
-        </div>
-    </div>
-    <div class="comments-list">
-        <div class="comment-item">
-            <div class="comment-header">
-                <div class="avatar-wrapper">
-                                    <img src="~/img/star.svg" alt="Alternate Text" />
-                </div>
-                <span>User1</span>
-            </div>
-            <div class="comment-body">
-                <span>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ullamcorper nibh sed lacus fermentum, ut bibendum nulla porttitor. Sed dapibus maximus sagittis. Vestibulum sit amet arcu tincidunt ex rhoncus iaculis porta sed metus. Suspendisse convallis mauris at pulvinar dictum. In aliquet, mauris at fringilla sollicitudin, libero ante vehicula lectus, nec semper turpis enim vel est. Nam quis bibendum dui. Sed cursus mi vel diam iaculis ultrices. Nulla sollicitudin suscipit eros, at efficitur turpis maximus lobortis. Nunc pellentesque est eu leo blandit sagittis. Aliquam elementum augue mi, a porta sapien malesuada eget. Fusce pretium vel justo sed egestas.
-                </span>
-            </div>
-        </div>
-    </div>
-    <div class="comments-list">
-        <div class="comment-item">
-            <div class="comment-header">
-                <div class="avatar-wrapper">
-                                    <img src="~/img/star.svg" alt="Alternate Text" />
-                </div>
-                <span>User1</span>
-            </div>
-            <div class="comment-body">
-                <span>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ullamcorper nibh sed lacus fermentum, ut bibendum nulla porttitor. Sed dapibus maximus sagittis. Vestibulum sit amet arcu tincidunt ex rhoncus iaculis porta sed metus. Suspendisse convallis mauris at pulvinar dictum. In aliquet, mauris at fringilla sollicitudin, libero ante vehicula lectus, nec semper turpis enim vel est. Nam quis bibendum dui. Sed cursus mi vel diam iaculis ultrices. Nulla sollicitudin suscipit eros, at efficitur turpis maximus lobortis. Nunc pellentesque est eu leo blandit sagittis. Aliquam elementum augue mi, a porta sapien malesuada eget. Fusce pretium vel justo sed egestas.
-                </span>
-            </div>
-        </div>
-    </div>
-    <div class="comments-list">
-        <div class="comment-item">
-            <div class="comment-header">
-                <div class="avatar-wrapper">
-                                    <img src="~/img/star.svg" alt="Alternate Text" />
-                </div>
-                <span>User1</span>
-            </div>
-            <div class="comment-body">
-                <span>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ullamcorper nibh sed lacus fermentum, ut bibendum nulla porttitor. Sed dapibus maximus sagittis. Vestibulum sit amet arcu tincidunt ex rhoncus iaculis porta sed metus. Suspendisse convallis mauris at pulvinar dictum. In aliquet, mauris at fringilla sollicitudin, libero ante vehicula lectus, nec semper turpis enim vel est. Nam quis bibendum dui. Sed cursus mi vel diam iaculis ultrices. Nulla sollicitudin suscipit eros, at efficitur turpis maximus lobortis. Nunc pellentesque est eu leo blandit sagittis. Aliquam elementum augue mi, a porta sapien malesuada eget. Fusce pretium vel justo sed egestas.
-                </span>
-            </div>
-        </div>
+        }
     </div>
 
 </section>

@@ -655,3 +655,6 @@ C:\Users\kazik\Desktop\IGS-new-\Indie Game Space\Project\IGS\obj\Debug\net6.0\sc
 C:\Users\kazik\Desktop\IGS-new-\Indie Game Space\Project\IGS\obj\Debug\net6.0\IGS.csproj.Up2Date
 C:\Users\kazik\Desktop\IGS-new-\Indie Game Space\Project\IGS\obj\Debug\net6.0\IGS.genruntimeconfig.cache
 C:\Users\kazik\Desktop\IGS-new-\Indie Game Space\Project\IGS\obj\Debug\net6.0\ref\IGS.dll
+C:\Users\Miku\Documents\GitHub\IGS-new-\Indie Game Space\Project\IGS\obj\Debug\net6.0\IGS.dll
+C:\Users\Miku\Documents\GitHub\IGS-new-\Indie Game Space\Project\IGS\obj\Debug\net6.0\refint\IGS.dll
+C:\Users\Miku\Documents\GitHub\IGS-new-\Indie Game Space\Project\IGS\obj\Debug\net6.0\IGS.pdb
