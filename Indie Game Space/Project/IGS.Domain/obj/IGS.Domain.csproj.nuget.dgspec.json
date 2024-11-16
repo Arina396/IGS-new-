@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kazik\\Desktop\\IGS-new-local\\Indie Game Space\\Project\\IGS.Domain\\IGS.Domain.csproj": {}
+    "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS.Domain\\IGS.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kazik\\Desktop\\IGS-new-local\\Indie Game Space\\Project\\IGS.Domain\\IGS.Domain.csproj": {
+    "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS.Domain\\IGS.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kazik\\Desktop\\IGS-new-local\\Indie Game Space\\Project\\IGS.Domain\\IGS.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS.Domain\\IGS.Domain.csproj",
         "projectName": "IGS.Domain",
-        "projectPath": "C:\\Users\\kazik\\Desktop\\IGS-new-local\\Indie Game Space\\Project\\IGS.Domain\\IGS.Domain.csproj",
+        "projectPath": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS.Domain\\IGS.Domain.csproj",
         "packagesPath": "C:\\Users\\kazik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kazik\\Desktop\\IGS-new-local\\Indie Game Space\\Project\\IGS.Domain\\obj\\",
+        "outputPath": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

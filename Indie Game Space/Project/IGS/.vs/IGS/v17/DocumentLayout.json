@@ -1,26 +1,20 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kazik\\Desktop\\IGS-new-local\\Indie Game Space\\Project\\IGS\\",
+  "WorkspaceRootPath": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{20DCF732-EDAF-4273-8109-19AE475A823B}|IGS.csproj|c:\\users\\kazik\\desktop\\igs-new-local\\indie game space\\project\\igs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{8D70F222-F9F4-4AC3-8DD3-E7E66CB569FB}|..\\IGS.DAL\\IGS.DAL.csproj|c:\\users\\kazik\\desktop\\igs-new-\\indie game space\\project\\igs.dal\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20DCF732-EDAF-4273-8109-19AE475A823B}|IGS.csproj|c:\\users\\kazik\\desktop\\igs-new-\\indie game space\\project\\igs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{20DCF732-EDAF-4273-8109-19AE475A823B}|IGS.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20DCF732-EDAF-4273-8109-19AE475A823B}|IGS.csproj|c:\\users\\kazik\\desktop\\igs-new-local\\indie game space\\project\\igs\\wwwroot\\css\\gamepage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{20DCF732-EDAF-4273-8109-19AE475A823B}|IGS.csproj|solutionrelative:wwwroot\\css\\gamepage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kazik\\AppData\\Local\\SourceServer\\1c0eb5c95d454aaf81378d7c6fa1a0c6fecb1ffebf3a79b1357b10ef06d6a95d\\IGS\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20DCF732-EDAF-4273-8109-19AE475A823B}|IGS.csproj|c:\\users\\kazik\\desktop\\igs-new-local\\indie game space\\project\\igs\\views\\gamepage\\gamepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{20DCF732-EDAF-4273-8109-19AE475A823B}|IGS.csproj|solutionrelative:views\\gamepage\\gamepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20DCF732-EDAF-4273-8109-19AE475A823B}|IGS.csproj|c:\\users\\kazik\\desktop\\igs-new-local\\indie game space\\project\\igs\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{20DCF732-EDAF-4273-8109-19AE475A823B}|IGS.csproj|solutionrelative:views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20DCF732-EDAF-4273-8109-19AE475A823B}|IGS.csproj|c:\\users\\kazik\\desktop\\igs-new-local\\indie game space\\project\\igs\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{20DCF732-EDAF-4273-8109-19AE475A823B}|IGS.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{20DCF732-EDAF-4273-8109-19AE475A823B}|IGS.csproj|c:\\users\\kazik\\desktop\\igs-new-\\indie game space\\project\\igs\\views\\profile\\main.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20DCF732-EDAF-4273-8109-19AE475A823B}|IGS.csproj|solutionrelative:views\\profile\\main.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +24,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 413,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,64 +48,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\kazik\\Desktop\\IGS-new-local\\Indie Game Space\\Project\\IGS\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\kazik\\Desktop\\IGS-new-local\\Indie Game Space\\Project\\IGS\\appsettings.json",
+              "ToolTip": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-28T09:38:47.677Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T09:30:03.339Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "GamePage.cshtml",
-              "DocumentMoniker": "C:\\Users\\kazik\\Desktop\\IGS-new-local\\Indie Game Space\\Project\\IGS\\Views\\GamePage\\GamePage.cshtml",
-              "RelativeDocumentMoniker": "Views\\GamePage\\GamePage.cshtml",
-              "ToolTip": "C:\\Users\\kazik\\Desktop\\IGS-new-local\\Indie Game Space\\Project\\IGS\\Views\\GamePage\\GamePage.cshtml",
-              "RelativeToolTip": "Views\\GamePage\\GamePage.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-26T07:04:28.865Z"
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kazik\\AppData\\Local\\SourceServer\\1c0eb5c95d454aaf81378d7c6fa1a0c6fecb1ffebf3a79b1357b10ef06d6a95d\\IGS\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\1c0eb5c95d454aaf81378d7c6fa1a0c6fecb1ffebf3a79b1357b10ef06d6a95d\\IGS\\Program.cs",
+              "ToolTip": "C:\\Users\\kazik\\AppData\\Local\\SourceServer\\1c0eb5c95d454aaf81378d7c6fa1a0c6fecb1ffebf3a79b1357b10ef06d6a95d\\IGS\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\1c0eb5c95d454aaf81378d7c6fa1a0c6fecb1ffebf3a79b1357b10ef06d6a95d\\IGS\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:23:40.757Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "gamePage.css",
-              "DocumentMoniker": "C:\\Users\\kazik\\Desktop\\IGS-new-local\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\gamePage.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\gamePage.css",
-              "ToolTip": "C:\\Users\\kazik\\Desktop\\IGS-new-local\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\gamePage.css",
-              "RelativeToolTip": "wwwroot\\css\\gamePage.css",
-              "ViewState": "AQIAACcAAAAAAAAAAAAUwDYAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-26T06:57:30.192Z"
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS.DAL\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\IGS.DAL\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS.DAL\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\IGS.DAL\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAApwA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:24:19.254Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "_Layout.cshtml.css",
-              "DocumentMoniker": "C:\\Users\\kazik\\Desktop\\IGS-new-local\\Indie Game Space\\Project\\IGS\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml.css",
-              "ToolTip": "C:\\Users\\kazik\\Desktop\\IGS-new-local\\Indie Game Space\\Project\\IGS\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-26T06:41:31.83Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\kazik\\Desktop\\IGS-new-local\\Indie Game Space\\Project\\IGS\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\kazik\\Desktop\\IGS-new-local\\Indie Game Space\\Project\\IGS\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAADAAAAAAAAAAAAAAADkAAAAlAAAA",
+              "Title": "Main.cshtml",
+              "DocumentMoniker": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\Views\\Profile\\Main.cshtml",
+              "RelativeDocumentMoniker": "Views\\Profile\\Main.cshtml",
+              "ToolTip": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\Views\\Profile\\Main.cshtml",
+              "RelativeToolTip": "Views\\Profile\\Main.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAkwB0AAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-26T06:11:24.696Z"
+              "WhenOpened": "2024-06-01T13:11:53.982Z"
             }
           ]
         }

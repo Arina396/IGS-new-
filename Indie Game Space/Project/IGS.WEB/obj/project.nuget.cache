@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6s09mYGOYJg=",
+  "dgSpecHash": "q3n7zHl6KhU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\kazik\\Desktop\\IGS-new-local\\Indie Game Space\\Project\\IGS.WEB\\IGS.WEB.csproj",
+  "projectFilePath": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS.WEB\\IGS.WEB.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kazik\\.nuget\\packages\\bouncycastle.cryptography\\2.3.0\\bouncycastle.cryptography.2.3.0.nupkg.sha512",
     "C:\\Users\\kazik\\.nuget\\packages\\dntcaptcha.core\\5.2.1\\dntcaptcha.core.5.2.1.nupkg.sha512",

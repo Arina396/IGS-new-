@@ -52,24 +52,6 @@ C:\Users\User1\Desktop\IGS\IGS.Service\obj\Debug\net6.0\IGS.Service.dll
 C:\Users\User1\Desktop\IGS\IGS.Service\obj\Debug\net6.0\refint\IGS.Service.dll
 C:\Users\User1\Desktop\IGS\IGS.Service\obj\Debug\net6.0\IGS.Service.pdb
 C:\Users\User1\Desktop\IGS\IGS.Service\obj\Debug\net6.0\ref\IGS.Service.dll
-C:\Users\User1\Desktop\IGS\IGS-new-\Indie Game Space\Project\IGS.Service\obj\Debug\net6.0\IGS.Service.dll
-C:\Users\User1\Desktop\IGS\IGS-new-\Indie Game Space\Project\IGS.Service\obj\Debug\net6.0\refint\IGS.Service.dll
-C:\Users\User1\Desktop\IGS\IGS-new-\Indie Game Space\Project\IGS.Service\obj\Debug\net6.0\IGS.Service.pdb
-C:\Users\User1\Desktop\IGS\IGS-new-\Indie Game Space\Project\IGS.Service\bin\Debug\net6.0\IGS.Service.deps.json
-C:\Users\User1\Desktop\IGS\IGS-new-\Indie Game Space\Project\IGS.Service\bin\Debug\net6.0\IGS.Service.dll
-C:\Users\User1\Desktop\IGS\IGS-new-\Indie Game Space\Project\IGS.Service\bin\Debug\net6.0\IGS.Service.pdb
-C:\Users\User1\Desktop\IGS\IGS-new-\Indie Game Space\Project\IGS.Service\bin\Debug\net6.0\IGS.DAL.dll
-C:\Users\User1\Desktop\IGS\IGS-new-\Indie Game Space\Project\IGS.Service\bin\Debug\net6.0\IGS.Domain.dll
-C:\Users\User1\Desktop\IGS\IGS-new-\Indie Game Space\Project\IGS.Service\bin\Debug\net6.0\IGS.DAL.pdb
-C:\Users\User1\Desktop\IGS\IGS-new-\Indie Game Space\Project\IGS.Service\bin\Debug\net6.0\IGS.Domain.pdb
-C:\Users\User1\Desktop\IGS\IGS-new-\Indie Game Space\Project\IGS.Service\obj\Debug\net6.0\IGS.Service.csproj.AssemblyReference.cache
-C:\Users\User1\Desktop\IGS\IGS-new-\Indie Game Space\Project\IGS.Service\obj\Debug\net6.0\IGS.Service.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\User1\Desktop\IGS\IGS-new-\Indie Game Space\Project\IGS.Service\obj\Debug\net6.0\IGS.Service.AssemblyInfoInputs.cache
-C:\Users\User1\Desktop\IGS\IGS-new-\Indie Game Space\Project\IGS.Service\obj\Debug\net6.0\IGS.Service.AssemblyInfo.cs
-C:\Users\User1\Desktop\IGS\IGS-new-\Indie Game Space\Project\IGS.Service\obj\Debug\net6.0\IGS.Service.csproj.CoreCompileInputs.cache
-C:\Users\User1\Desktop\IGS\IGS-new-\Indie Game Space\Project\IGS.Service\obj\Debug\net6.0\IGS.Service.sourcelink.json
-C:\Users\User1\Desktop\IGS\IGS-new-\Indie Game Space\Project\IGS.Service\obj\Debug\net6.0\ref\IGS.Service.dll
-C:\Users\User1\Desktop\IGS\IGS-new-\Indie Game Space\Project\IGS.Service\obj\Debug\net6.0\IGS.Serv.5D34DD22.Up2Date
 C:\Users\kazik\Desktop\IGS-new-\Indie Game Space\Project\IGS.Service\bin\Debug\net6.0\IGS.Service.deps.json
 C:\Users\kazik\Desktop\IGS-new-\Indie Game Space\Project\IGS.Service\bin\Debug\net6.0\IGS.Service.dll
 C:\Users\kazik\Desktop\IGS-new-\Indie Game Space\Project\IGS.Service\bin\Debug\net6.0\IGS.Service.pdb
@@ -88,21 +70,3 @@ C:\Users\kazik\Desktop\IGS-new-\Indie Game Space\Project\IGS.Service\obj\Debug\n
 C:\Users\kazik\Desktop\IGS-new-\Indie Game Space\Project\IGS.Service\obj\Debug\net6.0\refint\IGS.Service.dll
 C:\Users\kazik\Desktop\IGS-new-\Indie Game Space\Project\IGS.Service\obj\Debug\net6.0\IGS.Service.pdb
 C:\Users\kazik\Desktop\IGS-new-\Indie Game Space\Project\IGS.Service\obj\Debug\net6.0\ref\IGS.Service.dll
-C:\Users\kazik\Desktop\IGS-new-local\Indie Game Space\Project\IGS.Service\bin\Debug\net6.0\IGS.Service.deps.json
-C:\Users\kazik\Desktop\IGS-new-local\Indie Game Space\Project\IGS.Service\bin\Debug\net6.0\IGS.Service.dll
-C:\Users\kazik\Desktop\IGS-new-local\Indie Game Space\Project\IGS.Service\bin\Debug\net6.0\IGS.Service.pdb
-C:\Users\kazik\Desktop\IGS-new-local\Indie Game Space\Project\IGS.Service\bin\Debug\net6.0\IGS.DAL.dll
-C:\Users\kazik\Desktop\IGS-new-local\Indie Game Space\Project\IGS.Service\bin\Debug\net6.0\IGS.Domain.dll
-C:\Users\kazik\Desktop\IGS-new-local\Indie Game Space\Project\IGS.Service\bin\Debug\net6.0\IGS.DAL.pdb
-C:\Users\kazik\Desktop\IGS-new-local\Indie Game Space\Project\IGS.Service\bin\Debug\net6.0\IGS.Domain.pdb
-C:\Users\kazik\Desktop\IGS-new-local\Indie Game Space\Project\IGS.Service\obj\Debug\net6.0\IGS.Service.csproj.AssemblyReference.cache
-C:\Users\kazik\Desktop\IGS-new-local\Indie Game Space\Project\IGS.Service\obj\Debug\net6.0\IGS.Service.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\kazik\Desktop\IGS-new-local\Indie Game Space\Project\IGS.Service\obj\Debug\net6.0\IGS.Service.AssemblyInfoInputs.cache
-C:\Users\kazik\Desktop\IGS-new-local\Indie Game Space\Project\IGS.Service\obj\Debug\net6.0\IGS.Service.AssemblyInfo.cs
-C:\Users\kazik\Desktop\IGS-new-local\Indie Game Space\Project\IGS.Service\obj\Debug\net6.0\IGS.Service.csproj.CoreCompileInputs.cache
-C:\Users\kazik\Desktop\IGS-new-local\Indie Game Space\Project\IGS.Service\obj\Debug\net6.0\IGS.Service.sourcelink.json
-C:\Users\kazik\Desktop\IGS-new-local\Indie Game Space\Project\IGS.Service\obj\Debug\net6.0\IGS.Serv.5D34DD22.Up2Date
-C:\Users\kazik\Desktop\IGS-new-local\Indie Game Space\Project\IGS.Service\obj\Debug\net6.0\IGS.Service.dll
-C:\Users\kazik\Desktop\IGS-new-local\Indie Game Space\Project\IGS.Service\obj\Debug\net6.0\refint\IGS.Service.dll
-C:\Users\kazik\Desktop\IGS-new-local\Indie Game Space\Project\IGS.Service\obj\Debug\net6.0\IGS.Service.pdb
-C:\Users\kazik\Desktop\IGS-new-local\Indie Game Space\Project\IGS.Service\obj\Debug\net6.0\ref\IGS.Service.dll
