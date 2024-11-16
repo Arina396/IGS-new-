@@ -2,11 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\IGS",
+    "\\IGS\\Controllers",
     "\\IGS\\Views",
     "\\IGS\\Views\\Account",
     "\\IGS\\Views\\Home",
-    "\\IGS\\wwwroot",
-    "\\IGS\\wwwroot\\css"
+    "\\IGS\\wwwroot"
   ],
+  "SelectedNode": "\\IGS\\wwwroot\\css",
   "PreviewInSolutionExplorer": false
 }

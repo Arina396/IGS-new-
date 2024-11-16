@@ -1,4 +1,4 @@
-using IGS.Domain.Entity;
+﻿using IGS.Domain.Entity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Options;

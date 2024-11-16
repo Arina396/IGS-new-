@@ -822,11 +822,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS.WEB\\IGS.WEB.csproj",
+      "projectUniqueName": "C:\\Users\\kazik\\Desktop\\IGS-new-local\\Indie Game Space\\Project\\IGS.WEB\\IGS.WEB.csproj",
       "projectName": "IGS.WEB",
-      "projectPath": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS.WEB\\IGS.WEB.csproj",
+      "projectPath": "C:\\Users\\kazik\\Desktop\\IGS-new-local\\Indie Game Space\\Project\\IGS.WEB\\IGS.WEB.csproj",
       "packagesPath": "C:\\Users\\kazik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS.WEB\\obj\\",
+      "outputPath": "C:\\Users\\kazik\\Desktop\\IGS-new-local\\Indie Game Space\\Project\\IGS.WEB\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
