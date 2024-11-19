@@ -2,11 +2,14 @@
   "ExpandedNodes": [
     "",
     "\\IGS",
+    "\\IGS.DAL",
+    "\\IGS.DAL\\Interfaces",
+    "\\IGS.Domain",
+    "\\IGS.Service",
+    "\\IGS.WEB",
+    "\\IGS\\Controllers",
     "\\IGS\\Views",
-    "\\IGS\\Views\\Account",
-    "\\IGS\\Views\\Home",
-    "\\IGS\\wwwroot",
-    "\\IGS\\wwwroot\\css"
+    "\\IGS\\Views\\GamePage"
   ],
   "PreviewInSolutionExplorer": false
 }

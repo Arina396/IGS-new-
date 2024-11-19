@@ -4,21 +4,21 @@ using System.Threading.Tasks;
 
 namespace IGS.DAL.Interfaces
 {
-	public interface ICommentRepository : IBaseRepository<Comment>
+	public interface ICommentRepository : IBaseRepository<Comments>
 	{
 		// Метод для получения комментария по его ID
-		Task<Comment> GetById(int commentId);
+		Task<Comments> GetById(int commentId);
 
 		// Метод для получения всех комментариев по ID игры
-		Task<List<Comment>> GetByGameId(int gameId);
+		Task<List<Comments>> GetByGameId(int gameId);
 
 		// Метод для получения всех комментариев пользователя по его ID
-		Task<List<Comment>> GetByUserId(int userId);
+		Task<List<Comments>> GetByUserId(int userId);
 
 		// Метод для обновления текста комментария
 		Task<bool> UpdateCommentText(int commentId, string newText);
 
 		// Метод для сохранения нового комментария (можно использовать метод из IBaseRepository)
-		Task<bool> Create(Comment comment);
+		Task<bool> Create(Comments comment);
 	}
 }

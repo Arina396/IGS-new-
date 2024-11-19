@@ -1,21 +1,61 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using IGS.Domain.Response;
+using Microsoft.AspNetCore.Mvc;
+using IGS.DAL.Interfaces;
+using IGS.Domain.ViewModels.Game;
+
 
 namespace IGS.Controllers
 {
     public class GamePageController : Controller
     {
-        public IActionResult GamePage()
+        private readonly IGameRepository _gameRepository;
+        private readonly ICommentRepository _commentRepository;
+
+        public GamePageController(IGameRepository gameRepository, ICommentRepository commentRepository)
         {
-            var gameDetails = _gameRepository.GetGameById(gameId);
-            var comments = _commentRepository.GetCommentsByGameId(gameId); // Получение комментариев из базы
+            _gameRepository = gameRepository;
+            _commentRepository = commentRepository;
+        }
 
-            var model = new IndexModel
+        public async Task<IActionResult> GamePage(int id)
+        {
+            try
             {
-                GameDetails = gameDetails,
-                Comments = comments
-            };
+                var gameDetails = await _gameRepository.GetById(id);
+                if (gameDetails == null)
+                {
+                    return NotFound();
+                }
 
-            return View(model);
+                var gameViewModel = new GameViewModel
+                {
+                    Name = gameDetails.Name,
+                    ImageName = gameDetails.ImageName,
+                    Price = gameDetails.Price,
+                    Creator = gameDetails.Creator,
+                    Description = gameDetails.Description
+                };
+
+                var comments = await _commentRepository.GetByGameId(id);
+                var commentViewModels = comments.Select(comment => new CommentViewModel
+                {
+                    UserId = comment.User_Id,
+                    CommentText = comment.Comment
+                }).ToList();
+
+                var model = new GamePageViewModel
+                {
+                    GameDetails = gameViewModel,
+                    Comments = commentViewModels
+                };
+
+                return View(model);
+            }
+            catch (Exception ex)
+            {
+                // Log the exception if necessary
+                return StatusCode(500, "An error occurred while loading the game page.");
+            }
         }
     }
 }

@@ -1,4 +1,4 @@
-﻿@model IGS.Views.GamePage.IndexModel
+﻿@model IGS.Domain.ViewModels.Game.GamePageViewModel
 <link rel="stylesheet" href="~/css/gamePage.css" asp-append-version="true" />
 @{
     ViewData["Title"] = "GamePagePlug";
@@ -83,11 +83,11 @@
                 <div class="avatar-wrapper">
                     <img src="~/img/star.svg" alt="User Avatar" />
                 </div>
-                <span>@comment.UserName</span> <!-- Имя пользователя -->
+                    <span>@comment.User_Id</span> <!-- Имя пользователя -->
             </div>
             <div class="comment-body">
                 <span>
-                    @comment.Text <!-- Текст комментария -->
+                        @comment.Comment <!-- Текст комментария -->
                 </span>
             </div>
         </div>

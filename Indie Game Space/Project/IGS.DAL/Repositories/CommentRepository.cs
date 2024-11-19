@@ -1,5 +1,10 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
+using IGS.DAL.Interfaces;
+using IGS.Domain.Entity;
+using Microsoft.EntityFrameworkCore;
+
+namespace IGS.DAL.Repositories;
 
 public class CommentRepository : ICommentRepository
 {
@@ -8,7 +13,7 @@ public class CommentRepository : ICommentRepository
 	public CommentRepository(ApplicationDbContext db) => _dbContext = db;
 
 	// Метод для создания нового комментария
-	public async Task<bool> Create(Comment entity)
+	public async Task<bool> Create(Comments entity)
 	{
 		await _dbContext.Comments.AddAsync(entity);
 		await _dbContext.SaveChangesAsync();
@@ -16,7 +21,7 @@ public class CommentRepository : ICommentRepository
 	}
 
 	// Метод для удаления комментария
-	public async Task<bool> Delete(Comment entity)
+	public async Task<bool> Delete(Comments entity)
 	{
 		_dbContext.Comments.Remove(entity);
 		await _dbContext.SaveChangesAsync();
@@ -24,19 +29,19 @@ public class CommentRepository : ICommentRepository
 	}
 
 	// Метод для получения комментария по его ID
-	public async Task<Comment> GetById(int commentId)
+	public async Task<Comments> GetById(int commentId)
 	{
 		return await _dbContext.Comments.FirstOrDefaultAsync(comment => comment.Comment_id == commentId);
 	}
 
 	// Метод для получения всех комментариев по ID игры
-	public async Task<List<Comment>> GetByGameId(int gameId)
+	public async Task<List<Comments>> GetByGameId(int gameId)
 	{
 		return await _dbContext.Comments.Where(comment => comment.Game_id == gameId).ToListAsync();
 	}
 
 	// Метод для получения всех комментариев пользователя по его ID
-	public async Task<List<Comment>> GetByUserId(int userId)
+	public async Task<List<Comments>> GetByUserId(int userId)
 	{
 		return await _dbContext.Comments.Where(comment => comment.User_Id == userId).ToListAsync();
 	}
@@ -57,7 +62,7 @@ public class CommentRepository : ICommentRepository
 	}
 
 	// Метод для получения всех комментариев
-	public async Task<List<Comment>> Select()
+	public async Task<List<Comments>> Select()
 	{
 		return await _dbContext.Comments.ToListAsync();
 	}

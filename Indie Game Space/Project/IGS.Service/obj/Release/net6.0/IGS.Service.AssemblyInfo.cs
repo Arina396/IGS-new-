@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IGS.Service")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d881ed210143af0f6dab2fac4c7718de22d6f8e9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eef624d23322a1e49e049eb9d20d632d732353f8")]
 [assembly: System.Reflection.AssemblyProductAttribute("IGS.Service")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IGS.Service")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

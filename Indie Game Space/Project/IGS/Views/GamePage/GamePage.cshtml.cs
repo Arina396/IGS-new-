@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using IGS.Domain.Entity;
 
 namespace IGS.Views.GamePage
 {
@@ -9,6 +10,6 @@ namespace IGS.Views.GamePage
         {
         }
         public Game GameDetails { get; set; }
-        public IEnumerable<Comment> Comments { get; set; } // Список комментариев
+        public IEnumerable<Comments> Comments { get; set; } // Список комментариев
     }
 }
