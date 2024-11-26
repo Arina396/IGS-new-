@@ -20,7 +20,7 @@ namespace IGS.Domain.Entity
         public string? URL { get; set; }
 
         public string? GitHubLink { get; set; }
-        [ForeignKey("User_Id")]
+        [ForeignKey("Id")]
         public Profile User { get; set; } // Связь с профилем пользователя
     }
 }

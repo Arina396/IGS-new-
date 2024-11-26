@@ -3,7 +3,6 @@ using Microsoft.AspNetCore.Mvc;
 using IGS.DAL.Interfaces;
 using IGS.Domain.ViewModels.Game;
 
-
 namespace IGS.Controllers
 {
     public class GamePageController : Controller
@@ -36,10 +35,12 @@ namespace IGS.Controllers
                     Description = gameDetails.Description
                 };
 
-                var comments = await _commentRepository.GetByGameId(id);
+                // Получаем комментарии вместе с профилями пользователей
+                var comments = await _commentRepository.GetByGameIdWithUsers(id);
+
                 var commentViewModels = comments.Select(comment => new CommentViewModel
                 {
-                    User_Id = comment.User_Id,
+                    UserName = comment.User?.Name ?? "Unknown", // Используем Name из Profile
                     Comment = comment.Comment
                 }).ToList();
 
@@ -53,8 +54,11 @@ namespace IGS.Controllers
             }
             catch (Exception ex)
             {
+                Console.WriteLine($"Error in GamePage: {ex.Message}");
+                Console.WriteLine($"Stack Trace: {ex.StackTrace}");
+                return StatusCode(500, $"An error occurred: {ex.Message}");
                 // Log the exception if necessary
-                return StatusCode(500, "An error occurred while loading the game page.");
+                
             }
         }
     }

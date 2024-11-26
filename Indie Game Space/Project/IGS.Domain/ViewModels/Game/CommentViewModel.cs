@@ -2,7 +2,7 @@
 {
     public class CommentViewModel
     {
-        public int User_Id { get; set; } // Никнейм автора комментария
+        public string UserName { get; set; } // Никнейм автора комментария
         public string? Comment { get; set; } // Текст комментария
     }
 }

@@ -148,12 +148,15 @@
 }
 .comment-header {
     display: flex;
-    width: 18%;
-    justify-content: space-between;
-    text-align: center;
+    align-items: center; /* Вертикальное выравнивание */
+    justify-content: flex-start; /* Расположение элементов слева направо */
+    gap: 10px; /* Отступ между аватаром и текстом */
     margin-bottom: 2%;
+    width: auto; /* Уберите жесткую ширину */
 }
-.comment-header .avatar-wrapper{
+
+.comment-header .avatar-wrapper {
+    flex-shrink: 0; /* Запретить сжатие аватара */
     display: flex;
     align-items: center;
     justify-content: center;
@@ -163,6 +166,11 @@
     width: 76px;
     height: 76px;
 }
-.comment-header span{
-    margin-top: 9%;
+
+.comment-header span {
+    overflow: hidden; /* Обрезать текст при переполнении */
+    white-space: nowrap; /* Запретить перенос текста */
+    text-overflow: ellipsis; /* Добавить многоточие при обрезке */
+    max-width: 150px; /* Ограничить максимальную ширину текста */
+    display: inline-block;
 }

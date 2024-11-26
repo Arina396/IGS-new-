@@ -16,9 +16,9 @@ public class CommentRepository : ICommentRepository
     public async Task<List<Comments>> GetByGameIdWithUsers(int gameId)
     {
         return await _dbContext.Comments
-            .Include(c => c.User) // Подгружаем профиль пользователя
-            .Where(c => c.Game_id == gameId)
-            .ToListAsync();
+        .Include(c => c.User) // Подгружаем связанные профили
+        .Where(c => c.Game_id == gameId)
+        .ToListAsync();
     }
 
     // Метод для создания нового комментария
