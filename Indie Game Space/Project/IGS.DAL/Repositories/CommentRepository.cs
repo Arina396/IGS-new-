@@ -12,8 +12,17 @@ public class CommentRepository : ICommentRepository
 
 	public CommentRepository(ApplicationDbContext db) => _dbContext = db;
 
-	// Метод для создания нового комментария
-	public async Task<bool> Create(Comments entity)
+    // Новый метод для получения комментариев с профилями пользователей
+    public async Task<List<Comments>> GetByGameIdWithUsers(int gameId)
+    {
+        return await _dbContext.Comments
+            .Include(c => c.User) // Подгружаем профиль пользователя
+            .Where(c => c.Game_id == gameId)
+            .ToListAsync();
+    }
+
+    // Метод для создания нового комментария
+    public async Task<bool> Create(Comments entity)
 	{
 		await _dbContext.Comments.AddAsync(entity);
 		await _dbContext.SaveChangesAsync();

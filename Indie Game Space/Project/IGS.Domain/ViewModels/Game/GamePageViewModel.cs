@@ -6,5 +6,6 @@ namespace IGS.Domain.ViewModels.Game
     {
         public GameViewModel GameDetails { get; set; }
         public List<CommentViewModel> Comments { get; set; }
+       
     }
 }

@@ -39,8 +39,8 @@ namespace IGS.Controllers
                 var comments = await _commentRepository.GetByGameId(id);
                 var commentViewModels = comments.Select(comment => new CommentViewModel
                 {
-                    UserId = comment.User_Id,
-                    CommentText = comment.Comment
+                    User_Id = comment.User_Id,
+                    Comment = comment.Comment
                 }).ToList();
 
                 var model = new GamePageViewModel

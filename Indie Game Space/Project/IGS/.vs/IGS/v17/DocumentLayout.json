@@ -3,18 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{20DCF732-EDAF-4273-8109-19AE475A823B}|IGS.csproj|c:\\users\\miku\\documents\\github\\igs-new-\\indie game space\\project\\igs\\views\\gamepage\\gamepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{20DCF732-EDAF-4273-8109-19AE475A823B}|IGS.csproj|solutionrelative:views\\gamepage\\gamepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20DCF732-EDAF-4273-8109-19AE475A823B}|IGS.csproj|c:\\users\\miku\\documents\\github\\igs-new-\\indie game space\\project\\igs\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20DCF732-EDAF-4273-8109-19AE475A823B}|IGS.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20DCF732-EDAF-4273-8109-19AE475A823B}|IGS.csproj|c:\\users\\miku\\documents\\github\\igs-new-\\indie game space\\project\\igs\\views\\gamepage\\gamepage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20DCF732-EDAF-4273-8109-19AE475A823B}|IGS.csproj|solutionrelative:views\\gamepage\\gamepage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{20DCF732-EDAF-4273-8109-19AE475A823B}|IGS.csproj|c:\\users\\miku\\documents\\github\\igs-new-\\indie game space\\project\\igs\\controllers\\gamepagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20DCF732-EDAF-4273-8109-19AE475A823B}|IGS.csproj|solutionrelative:controllers\\gamepagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,11 +10,14 @@
       "AbsoluteMoniker": "D:0:0:{11633A26-B1E1-41B7-843D-06068509F6C7}|..\\IGS.Domain\\IGS.Domain.csproj|c:\\users\\miku\\documents\\github\\igs-new-\\indie game space\\project\\igs.domain\\viewmodels\\game\\commentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11633A26-B1E1-41B7-843D-06068509F6C7}|..\\IGS.Domain\\IGS.Domain.csproj|c:\\users\\miku\\documents\\github\\igs-new-\\indie game space\\project\\igs.domain\\viewmodels\\game\\gamepageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{11633A26-B1E1-41B7-843D-06068509F6C7}|..\\IGS.Domain\\IGS.Domain.csproj|c:\\users\\miku\\documents\\github\\igs-new-\\indie game space\\project\\igs.domain\\entity\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20DCF732-EDAF-4273-8109-19AE475A823B}|IGS.csproj|c:\\users\\miku\\documents\\github\\igs-new-\\indie game space\\project\\igs\\views\\profile\\main.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{20DCF732-EDAF-4273-8109-19AE475A823B}|IGS.csproj|solutionrelative:views\\profile\\main.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{20DCF732-EDAF-4273-8109-19AE475A823B}|IGS.csproj|c:\\users\\miku\\documents\\github\\igs-new-\\indie game space\\project\\igs\\views\\gamepage\\gamepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20DCF732-EDAF-4273-8109-19AE475A823B}|IGS.csproj|solutionrelative:views\\gamepage\\gamepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D70F222-F9F4-4AC3-8DD3-E7E66CB569FB}|..\\IGS.DAL\\IGS.DAL.csproj|c:\\users\\miku\\documents\\github\\igs-new-\\indie game space\\project\\igs.dal\\interfaces\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{20DCF732-EDAF-4273-8109-19AE475A823B}|IGS.csproj|c:\\users\\miku\\documents\\github\\igs-new-\\indie game space\\project\\igs\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,30 +28,41 @@
       "RelativeMoniker": "D:0:0:{20DCF732-EDAF-4273-8109-19AE475A823B}|IGS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{11633A26-B1E1-41B7-843D-06068509F6C7}|..\\IGS.Domain\\IGS.Domain.csproj|c:\\users\\miku\\documents\\github\\igs-new-\\indie game space\\project\\igs.domain\\entity\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D70F222-F9F4-4AC3-8DD3-E7E66CB569FB}|..\\IGS.DAL\\IGS.DAL.csproj|c:\\users\\miku\\documents\\github\\igs-new-\\indie game space\\project\\igs.dal\\repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11633A26-B1E1-41B7-843D-06068509F6C7}|..\\IGS.Domain\\IGS.Domain.csproj|c:\\users\\miku\\documents\\github\\igs-new-\\indie game space\\project\\igs.domain\\viewmodels\\game\\gamepageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20DCF732-EDAF-4273-8109-19AE475A823B}|IGS.csproj|c:\\users\\miku\\documents\\github\\igs-new-\\indie game space\\project\\igs\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20DCF732-EDAF-4273-8109-19AE475A823B}|IGS.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{11633A26-B1E1-41B7-843D-06068509F6C7}|..\\IGS.Domain\\IGS.Domain.csproj|c:\\users\\miku\\documents\\github\\igs-new-\\indie game space\\project\\igs.domain\\viewmodels\\account\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11633A26-B1E1-41B7-843D-06068509F6C7}|..\\IGS.Domain\\IGS.Domain.csproj|c:\\users\\miku\\documents\\github\\igs-new-\\indie game space\\project\\igs.domain\\entity\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11633A26-B1E1-41B7-843D-06068509F6C7}|..\\IGS.Domain\\IGS.Domain.csproj|c:\\users\\miku\\documents\\github\\igs-new-\\indie game space\\project\\igs.domain\\entity\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11633A26-B1E1-41B7-843D-06068509F6C7}|..\\IGS.Domain\\IGS.Domain.csproj|c:\\users\\miku\\documents\\github\\igs-new-\\indie game space\\project\\igs.domain\\entity\\grade_table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11633A26-B1E1-41B7-843D-06068509F6C7}|..\\IGS.Domain\\IGS.Domain.csproj|c:\\users\\miku\\documents\\github\\igs-new-\\indie game space\\project\\igs.domain\\entity\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11633A26-B1E1-41B7-843D-06068509F6C7}|..\\IGS.Domain\\IGS.Domain.csproj|c:\\users\\miku\\documents\\github\\igs-new-\\indie game space\\project\\igs.domain\\viewmodels\\game\\gameviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{20DCF732-EDAF-4273-8109-19AE475A823B}|IGS.csproj|c:\\users\\miku\\documents\\github\\igs-new-\\indie game space\\project\\igs\\views\\gamepage\\gamepage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20DCF732-EDAF-4273-8109-19AE475A823B}|IGS.csproj|solutionrelative:views\\gamepage\\gamepage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{20DCF732-EDAF-4273-8109-19AE475A823B}|IGS.csproj|c:\\users\\miku\\documents\\github\\igs-new-\\indie game space\\project\\igs\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{20DCF732-EDAF-4273-8109-19AE475A823B}|IGS.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20DCF732-EDAF-4273-8109-19AE475A823B}|IGS.csproj|c:\\users\\miku\\documents\\github\\igs-new-\\indie game space\\project\\igs\\views\\home\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{20DCF732-EDAF-4273-8109-19AE475A823B}|IGS.csproj|solutionrelative:views\\home\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{11633A26-B1E1-41B7-843D-06068509F6C7}|..\\IGS.Domain\\IGS.Domain.csproj|c:\\users\\miku\\documents\\github\\igs-new-\\indie game space\\project\\igs.domain\\entity\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11633A26-B1E1-41B7-843D-06068509F6C7}|..\\IGS.Domain\\IGS.Domain.csproj|c:\\users\\miku\\documents\\github\\igs-new-\\indie game space\\project\\igs.domain\\entity\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20DCF732-EDAF-4273-8109-19AE475A823B}|IGS.csproj|c:\\users\\miku\\documents\\github\\igs-new-\\indie game space\\project\\igs\\views\\profile\\main.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20DCF732-EDAF-4273-8109-19AE475A823B}|IGS.csproj|solutionrelative:views\\profile\\main.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11633A26-B1E1-41B7-843D-06068509F6C7}|..\\IGS.Domain\\IGS.Domain.csproj|c:\\users\\miku\\documents\\github\\igs-new-\\indie game space\\project\\igs.domain\\viewmodels\\game\\gameviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,17 +72,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 413,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "GamePageController.cs",
               "DocumentMoniker": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\Controllers\\GamePageController.cs",
               "RelativeDocumentMoniker": "Controllers\\GamePageController.cs",
-              "ToolTip": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\Controllers\\GamePageController.cs",
-              "RelativeToolTip": "Controllers\\GamePageController.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAuwD0AAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\Controllers\\GamePageController.cs*",
+              "RelativeToolTip": "Controllers\\GamePageController.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwCoAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-17T14:57:40.298Z",
               "IsPinned": true,
@@ -88,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 16,
               "Title": "Main.cshtml",
               "DocumentMoniker": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\Views\\Profile\\Main.cshtml",
               "RelativeDocumentMoniker": "Views\\Profile\\Main.cshtml",
@@ -97,43 +99,37 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-01T13:11:53.982Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-17T15:04:34.033Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GamePage.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\Views\\GamePage\\GamePage.cshtml.cs",
-              "RelativeDocumentMoniker": "Views\\GamePage\\GamePage.cshtml.cs",
-              "ToolTip": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\Views\\GamePage\\GamePage.cshtml.cs",
-              "RelativeToolTip": "Views\\GamePage\\GamePage.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T10:34:16.285Z",
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "Profile.cs",
+              "DocumentMoniker": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS.Domain\\Entity\\Profile.cs",
+              "RelativeDocumentMoniker": "..\\IGS.Domain\\Entity\\Profile.cs",
+              "ToolTip": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS.Domain\\Entity\\Profile.cs",
+              "RelativeToolTip": "..\\IGS.Domain\\Entity\\Profile.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBcAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T19:09:50.076Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
@@ -142,114 +138,25 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-19T10:28:32.363Z",
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS.Domain\\ViewModels\\Account\\LoginViewModel.cs",
-              "RelativeDocumentMoniker": "..\\IGS.Domain\\ViewModels\\Account\\LoginViewModel.cs",
-              "ToolTip": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS.Domain\\ViewModels\\Account\\LoginViewModel.cs",
-              "RelativeToolTip": "..\\IGS.Domain\\ViewModels\\Account\\LoginViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "CommentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS.Domain\\ViewModels\\Game\\CommentViewModel.cs",
+              "RelativeDocumentMoniker": "..\\IGS.Domain\\ViewModels\\Game\\CommentViewModel.cs",
+              "ToolTip": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS.Domain\\ViewModels\\Game\\CommentViewModel.cs",
+              "RelativeToolTip": "..\\IGS.Domain\\ViewModels\\Game\\CommentViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T10:28:24.04Z",
+              "WhenOpened": "2024-11-19T09:48:40.985Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T10:19:57.006Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Grade_table.cs",
-              "DocumentMoniker": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS.Domain\\Entity\\Grade_table.cs",
-              "RelativeDocumentMoniker": "..\\IGS.Domain\\Entity\\Grade_table.cs",
-              "ToolTip": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS.Domain\\Entity\\Grade_table.cs",
-              "RelativeToolTip": "..\\IGS.Domain\\Entity\\Grade_table.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T10:00:00.13Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Game.cs",
-              "DocumentMoniker": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS.Domain\\Entity\\Game.cs",
-              "RelativeDocumentMoniker": "..\\IGS.Domain\\Entity\\Game.cs",
-              "ToolTip": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS.Domain\\Entity\\Game.cs",
-              "RelativeToolTip": "..\\IGS.Domain\\Entity\\Game.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T09:59:54.71Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\Views\\Home\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\Views\\Home\\_ViewImports.cshtml",
-              "RelativeToolTip": "Views\\Home\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-19T09:56:41.417Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GamePageViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS.Domain\\ViewModels\\Game\\GamePageViewModel.cs",
-              "RelativeDocumentMoniker": "..\\IGS.Domain\\ViewModels\\Game\\GamePageViewModel.cs",
-              "ToolTip": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS.Domain\\ViewModels\\Game\\GamePageViewModel.cs",
-              "RelativeToolTip": "..\\IGS.Domain\\ViewModels\\Game\\GamePageViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T09:51:29.683Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GamePage.cshtml",
-              "DocumentMoniker": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\Views\\GamePage\\GamePage.cshtml",
-              "RelativeDocumentMoniker": "Views\\GamePage\\GamePage.cshtml",
-              "ToolTip": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\Views\\GamePage\\GamePage.cshtml",
-              "RelativeToolTip": "Views\\GamePage\\GamePage.cshtml",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAAAAAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-19T08:42:12.456Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Comments.cs",
-              "DocumentMoniker": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS.Domain\\Entity\\Comments.cs",
-              "RelativeDocumentMoniker": "..\\IGS.Domain\\Entity\\Comments.cs",
-              "ToolTip": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS.Domain\\Entity\\Comments.cs",
-              "RelativeToolTip": "..\\IGS.Domain\\Entity\\Comments.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T10:21:16.251Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Image.cs",
               "DocumentMoniker": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS.Domain\\Entity\\Image.cs",
               "RelativeDocumentMoniker": "..\\IGS.Domain\\Entity\\Image.cs",
@@ -258,24 +165,140 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-19T10:22:33.642Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Comments.cs",
+              "DocumentMoniker": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS.Domain\\Entity\\Comments.cs",
+              "RelativeDocumentMoniker": "..\\IGS.Domain\\Entity\\Comments.cs",
+              "ToolTip": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS.Domain\\Entity\\Comments.cs",
+              "RelativeToolTip": "..\\IGS.Domain\\Entity\\Comments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T10:21:16.251Z",
+              "IsPinned": true,
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS.Domain\\Entity\\Game.cs",
+              "RelativeDocumentMoniker": "..\\IGS.Domain\\Entity\\Game.cs",
+              "ToolTip": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS.Domain\\Entity\\Game.cs",
+              "RelativeToolTip": "..\\IGS.Domain\\Entity\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T09:59:54.71Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS.DAL\\Repositories\\CommentRepository.cs",
+              "RelativeDocumentMoniker": "..\\IGS.DAL\\Repositories\\CommentRepository.cs",
+              "ToolTip": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS.DAL\\Repositories\\CommentRepository.cs",
+              "RelativeToolTip": "..\\IGS.DAL\\Repositories\\CommentRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T22:36:30.509Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "CommentViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS.Domain\\ViewModels\\Game\\CommentViewModel.cs",
-              "RelativeDocumentMoniker": "..\\IGS.Domain\\ViewModels\\Game\\CommentViewModel.cs",
-              "ToolTip": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS.Domain\\ViewModels\\Game\\CommentViewModel.cs",
-              "RelativeToolTip": "..\\IGS.Domain\\ViewModels\\Game\\CommentViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Title": "ICommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS.DAL\\Interfaces\\ICommentRepository.cs",
+              "RelativeDocumentMoniker": "..\\IGS.DAL\\Interfaces\\ICommentRepository.cs",
+              "ToolTip": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS.DAL\\Interfaces\\ICommentRepository.cs",
+              "RelativeToolTip": "..\\IGS.DAL\\Interfaces\\ICommentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T09:48:40.985Z",
+              "WhenOpened": "2024-11-26T22:35:30.214Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 9,
+              "Title": "GamePageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS.Domain\\ViewModels\\Game\\GamePageViewModel.cs",
+              "RelativeDocumentMoniker": "..\\IGS.Domain\\ViewModels\\Game\\GamePageViewModel.cs",
+              "ToolTip": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS.Domain\\ViewModels\\Game\\GamePageViewModel.cs",
+              "RelativeToolTip": "..\\IGS.Domain\\ViewModels\\Game\\GamePageViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T22:06:40.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GamePage.cshtml",
+              "DocumentMoniker": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\Views\\GamePage\\GamePage.cshtml",
+              "RelativeDocumentMoniker": "Views\\GamePage\\GamePage.cshtml",
+              "ToolTip": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\Views\\GamePage\\GamePage.cshtml*",
+              "RelativeToolTip": "Views\\GamePage\\GamePage.cshtml*",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAgwFYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T08:42:12.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS.Domain\\ViewModels\\Account\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "..\\IGS.Domain\\ViewModels\\Account\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS.Domain\\ViewModels\\Account\\LoginViewModel.cs",
+              "RelativeToolTip": "..\\IGS.Domain\\ViewModels\\Account\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T10:28:24.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T10:19:57.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEUAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T08:42:35.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GamePage.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\Views\\GamePage\\GamePage.cshtml.cs",
+              "RelativeDocumentMoniker": "Views\\GamePage\\GamePage.cshtml.cs",
+              "ToolTip": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\Views\\GamePage\\GamePage.cshtml.cs",
+              "RelativeToolTip": "Views\\GamePage\\GamePage.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T10:34:16.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "GameViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS.Domain\\ViewModels\\Game\\GameViewModel.cs",
               "RelativeDocumentMoniker": "..\\IGS.Domain\\ViewModels\\Game\\GameViewModel.cs",
@@ -284,18 +307,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-19T08:43:27.159Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-19T08:42:35.856Z"
             }
           ]
         }

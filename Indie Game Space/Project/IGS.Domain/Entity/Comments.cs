@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace IGS.Domain.Entity
 {
@@ -10,5 +11,7 @@ namespace IGS.Domain.Entity
         public int Game_id { get; set; }
         public int User_Id { get; set; }
         public string? Comment { get; set; }
+        [ForeignKey("User_Id")]
+        public Profile User { get; set; } // Связь с профилем пользователя
     }
 }

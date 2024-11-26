@@ -6,8 +6,9 @@ namespace IGS.DAL.Interfaces
 {
 	public interface ICommentRepository : IBaseRepository<Comments>
 	{
-		// Метод для получения комментария по его ID
-		Task<Comments> GetById(int commentId);
+		Task<List<Comments>> GetByGameIdWithUsers(int gameId);
+        // Метод для получения комментария по его ID
+        Task<Comments> GetById(int commentId);
 
 		// Метод для получения всех комментариев по ID игры
 		Task<List<Comments>> GetByGameId(int gameId);

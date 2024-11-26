@@ -67,7 +67,7 @@
             <div class="games-list-items">
                 @foreach (var game in Model)
                 {
-                    <a asp-controller="GamePage" asp-action="GamePage" class="game-list-item-card">
+                    <a asp-controller="GamePage" asp-action="GamePage" asp-route-id="@game.Id" class="game-list-item-card">
                         <div class="game-item">
                             <img src="@("~/Games/" + game.ImageName)" asp-append-version="true" alt="Image 1">
                             <div class="game-list-item-name-and-price">
