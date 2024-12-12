@@ -3,6 +3,7 @@
 <link rel="stylesheet" href="~/css/gamePage.css" asp-append-version="true" />
 @{
     ViewData["Title"] = "GamePagePlug";
+
     Layout = "_Layout";
 }
 
@@ -36,7 +37,7 @@
 
 <section class="game-page-info">
     <article class="game-info">
-       
+
         <div class="info-and-description">
             <div class="info">
                 <h1 class="game-title">Chess Peak</h1>
@@ -45,7 +46,7 @@
                 <p class="game-developer">Разработчик: <span class="dev-nick">никнейм</span></p>
                 <p class="game-time-to-complete">Время прохождения: <span class="time-to-complete">2ч</span></p>
                 <p class="game-status">Статус: <span class="status">демо</span></p>
-                <br/>
+                <br />
                 <h4>ОПИСАНИЕ</h4>
                 <div class="description">
                     <span>
@@ -70,6 +71,41 @@
     </div>
 </section>
 
+
+<section class="comments">
+    <form method="post" asp-action="AddComment" asp-controller="GamePage">
+        <div class="comment-input">
+            <label for="comment-text">КОММЕНТАРИИ</label>
+            <input type="text" name="commentText" id="comment-text" placeholder="Ваш комментарий" />
+            <input type="hidden" name="gameId" value="@Model.GameDetails.Id" />
+        </div>
+        <button type="submit" class="btn btn-primary">Оставить комментарий</button>
+    </form>
+
+    <div class="comments-list">
+        @foreach (var comment in Model.Comments)
+
+        {
+            <div class="comment-item">
+                <div class="comment-header">
+                    <div class="avatar-wrapper">
+                        <img src="~/img/star.svg" alt="User Avatar" />
+                    </div>
+                    <span>@comment.UserName</span> <!-- Имя пользователя -->
+                </div>
+                <div class="comment-body">
+                    <span>
+                        @comment.Comment <!-- Текст комментария -->
+                    </span>
+                </div>
+            </div>
+        }
+    </div>
+</section>
+
+
+<!-- старая реализация коментариев -->
+
 <section class="comments">
     <div class="comment-input">
         <label for="comment-text">КОММЕНТАРИИ</label>
@@ -78,20 +114,21 @@
 
     <div class="comments-list">
         @foreach (var comment in Model.Comments)
+
         {
-        <div class="comment-item">
-            <div class="comment-header">
-                <div class="avatar-wrapper">
-                    <img src="~/img/star.svg" alt="User Avatar" />
-                </div>
+            <div class="comment-item">
+                <div class="comment-header">
+                    <div class="avatar-wrapper">
+                        <img src="~/img/star.svg" alt="User Avatar" />
+                    </div>
                     <span>@comment.UserName</span> <!-- Имя пользователя -->
-            </div>
-            <div class="comment-body">
-                <span>
+                </div>
+                <div class="comment-body">
+                    <span>
                         @comment.Comment <!-- Текст комментария -->
-                </span>
+                    </span>
+                </div>
             </div>
-        </div>
         }
     </div>
 

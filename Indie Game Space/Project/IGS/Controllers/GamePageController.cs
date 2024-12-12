@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using IGS.DAL.Interfaces;
 using IGS.Domain.ViewModels.Game;
+using IGS.Domain.Entity;
 
 namespace IGS.Controllers
 {
@@ -28,6 +29,7 @@ namespace IGS.Controllers
 
                 var gameViewModel = new GameViewModel
                 {
+                    Id = id,
                     Name = gameDetails.Name,
                     ImageName = gameDetails.ImageName,
                     Price = gameDetails.Price,
@@ -58,7 +60,45 @@ namespace IGS.Controllers
                 Console.WriteLine($"Stack Trace: {ex.StackTrace}");
                 return StatusCode(500, $"An error occurred: {ex.Message}");
                 // Log the exception if necessary
-                
+
+            }
+        }
+
+
+        // Новый метод для добавления комментария
+        [HttpPost]
+        public async Task<IActionResult> AddComment(int gameId, string commentText)
+        {
+            try
+            {
+                if (string.IsNullOrWhiteSpace(commentText))
+                {
+                    return BadRequest("Комментарий не может быть пустым.");
+                }
+
+                // Получение текущего пользователя (пример с аутентификацией)
+                var userId = 1; // тест добавить метод для ввода id текущего User
+
+                var newComment = new Comments
+                {
+                    Game_id = gameId,
+                    User_Id = userId,
+                    Comment = commentText
+                };
+
+                var isAdded = await _commentRepository.Create(newComment);
+
+                if (!isAdded)
+                {
+                    return StatusCode(500, "Не удалось добавить комментарий.");
+                }
+
+                return RedirectToAction("GamePage", new { id = gameId });
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Error in AddComment: {ex.Message}");
+                return StatusCode(500, $"An error occurred: {ex.Message}");
             }
         }
     }
