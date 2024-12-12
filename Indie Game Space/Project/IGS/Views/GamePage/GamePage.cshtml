@@ -102,34 +102,3 @@
         }
     </div>
 </section>
-
-
-<!-- старая реализация коментариев -->
-
-<section class="comments">
-    <div class="comment-input">
-        <label for="comment-text">КОММЕНТАРИИ</label>
-        <input type="text" name="comment-text" id="comment-text" placeholder="Ваш комментарий" />
-    </div>
-
-    <div class="comments-list">
-        @foreach (var comment in Model.Comments)
-
-        {
-            <div class="comment-item">
-                <div class="comment-header">
-                    <div class="avatar-wrapper">
-                        <img src="~/img/star.svg" alt="User Avatar" />
-                    </div>
-                    <span>@comment.UserName</span> <!-- Имя пользователя -->
-                </div>
-                <div class="comment-body">
-                    <span>
-                        @comment.Comment <!-- Текст комментария -->
-                    </span>
-                </div>
-            </div>
-        }
-    </div>
-
-</section>
