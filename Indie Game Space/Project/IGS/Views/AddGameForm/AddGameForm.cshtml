@@ -1,0 +1,96 @@
+﻿@model IGS.Views.AddGameForm.AddGameFormModel
+<link rel="stylesheet" href="~/css/addGameForm.css" asp-append-version="true" />
+@{
+}
+
+<form action="/" method="post" class="add-game">
+    <h1>СОЗДАЙТЕ НОВЫЙ ПРОЕКТ</h1>
+
+    <div class="game-add-input-wrapper">
+        <label for="gameName">Название</label>
+        <input type="text" name="gameName" placeholder="Введите название" id="gameName"/>
+    </div>
+
+    <div class="game-add-input-wrapper">
+        <label for="gameDesc">Краткое описание</label>
+        <input type="text" name="gameDesc" placeholder="Введите описание" id="gameDesc"/>
+    </div>
+
+    <div class="game-add-input-wrapper">
+        <label for="classOfProject">Классификация</label>
+        <select id="classOfProject">
+            <option value="" disabled selected>Выберите</option>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+        </select>
+    </div>
+
+    <div class="game-add-input-wrapper">
+        <label for="typeOfProject">Вид проекта</label>
+        <select id="typeOfProject">
+            <option value="" disabled selected>Выберите</option>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+        </select>
+    </div>
+
+    <div class="game-add-input-wrapper">
+        <label for="deplyStatus">Статус выпуска</label>
+        <select id="deplyStatus">
+            <option value="" disabled selected>Выберите</option>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+        </select>
+    </div>
+
+    <div class="game-add-input-file-wrapper">
+        <div class="game-cover">
+            <h2>ОБЛОЖКА</h2>
+            <label for="cover-file" class="custom-file-label">Добавить</label>
+            <input type="file" name="cover" id="cover-file" />
+            <div class="file-drop-area" id="file-drop-area"></div>
+        </div>
+        <div class="screenshots">
+            <h2>СКРИНШОТЫ</h2>
+            <label for="cover-file" class="custom-file-label">Добавить</label>
+            <input type="file" name="cover" id="cover-file" />
+            <div class="file-drop-area" id="file-drop-area"></div>
+        </div>
+    </div>
+
+    <div class="upload-container">
+        <h2>ЗАГРУЗИТЬ ФАЙЛЫ</h2>
+        <label class="upload-button">
+            Загрузить файл
+            <input type="file" hidden>
+        </label>
+    </div>
+
+    <div class="more-description">
+        <label for="additional-description">ДОПОЛНИТЕЛЬНОЕ ОПИСАНИЕ</label>
+        <textarea id="additional-description" rows="10">Введите описание</textarea>
+    </div>
+
+    <div class="game-add-input-wrapper">
+        <label for="deplyStatus">Жанр</label>
+        <select id="deplyStatus">
+            <option value="" disabled selected>Выберите</option>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+        </select>
+        <div class="genre-buttons">
+            <button class="genre-button">Хоррор</button>
+            <button class="genre-button">Приключения</button>
+        </div>
+    </div>
+
+    <button class="save-page-button">сохранить и посмотреть страницу</button>
+</form>

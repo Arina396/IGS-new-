@@ -57,7 +57,19 @@
             </div>
             <div class="game-logo">
                 <img src="~/img/logo-game-plug.png" alt="Alternate Text">
-                <p class="game-rating">4.5 <img src="~/img/star.svg" alt="star-img"></p>
+                <p class="game-rating">4.5 <img src="~/img/star-checked.svg" alt="star-img"></p>
+                <div class="rating">
+                    <input type="radio" name="star" id="star5" />
+                    <label for="star5" class="star"></label>
+                    <input type="radio" name="star" id="star4" />
+                    <label for="star4" class="star"></label>
+                    <input type="radio" name="star" id="star3" />
+                    <label for="star3" class="star"></label>
+                    <input type="radio" name="star" id="star2" />
+                    <label for="star2" class="star"></label>
+                    <input type="radio" name="star" id="star1" />
+                    <label for="star1" class="star"></label>
+                </div>
             </div>
         </div>
     </article>
@@ -76,10 +88,13 @@
     <form method="post" asp-action="AddComment" asp-controller="GamePage">
         <div class="comment-input">
             <label for="comment-text">КОММЕНТАРИИ</label>
+            <div class="comment-input-wrapper">
             <input type="text" name="commentText" id="comment-text" placeholder="Ваш комментарий" />
+            <button type="submit" class="send-button"> <img src="~/img/SendCommentBtn.svg" alt="Send" /></button>
             <input type="hidden" name="gameId" value="@Model.GameDetails.Id" />
+            </div>
         </div>
-        <button type="submit" class="btn btn-primary">Оставить комментарий</button>
+        
     </form>
 
     <div class="comments-list">

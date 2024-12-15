@@ -1,0 +1,226 @@
+﻿.add-game {
+    color: white;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.add-game h1 {
+    font-weight: 700;
+    font-size: 40px;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    margin-left: -10.5%;
+    margin-bottom: 3%;
+}
+
+
+.game-add-input-wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+.game-add-input-wrapper:not(:last-child) {
+    margin-bottom: 3%;
+}
+.game-add-input-wrapper input {
+    padding: 2%;
+    width: 100%;
+    height: 50px;
+    border-radius: 20px;
+    border: none;
+    background-color: #858585;
+    color: white;
+    font-size: 24px;
+}
+.game-add-input-wrapper input::placeholder {
+    color: #A8A8A8;
+}
+.game-add-input-wrapper label {
+    margin-bottom: 3%;
+    text-transform: uppercase;
+}
+.game-add-input-wrapper select {
+    padding: 0 2%;
+    width: 100%;
+    height: 50px;
+    border-radius: 20px;
+    border: none;
+    background-color: #858585;
+    color: #A8A8A8;
+    font-size: 24px;
+    appearance: none;
+    overflow: hidden;
+    background: url('../img/select-bg.svg') no-repeat right;
+}
+
+.game-add-input-wrapper select option {
+    background-color: #858585;
+}
+
+
+.game-add-input-file-wrapper {
+    position: relative;
+    width: 50%;
+    height: fit-content;
+    padding: 1% 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.game-add-input-file-wrapper {
+    width: 50%;
+    height: fit-content;
+    display: flex;
+}
+
+.game-add-input-file-wrapper input[type="file"] {
+    display: none;
+}
+
+.game-cover {
+    position: relative;
+}
+
+.game-cover .custom-file-label {
+    position: absolute;
+    top: 50%;
+    left: 27%;
+    background: #C2FF3F;
+    color: black;
+    padding: 10px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background .2s ease-in-out;
+    display: inline-block;
+    text-align: center;
+    font-size: 16px;
+}
+
+.game-cover .custom-file-label:hover {
+    background-color: #a0e600;
+}
+
+.game-cover .file-drop-area {
+    width: 250px;
+    height: 250px;
+    background-color: #858585;
+    border-radius: 10px;
+    text-align: center;
+    padding: 20px;
+    color: #858585;
+    font-size: 14px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.game-cover .file-drop-area input[type="file"] {
+    display: none;
+}
+
+.screenshots {
+    position: relative;
+}
+
+.screenshots .file-drop-area {
+    width: 350px;
+    height: 63px;
+    background-color: #858585;
+    border-radius: 10px;
+    text-align: center;
+    padding: 20px;
+    color: #858585;
+    font-size: 14px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 5%;
+}
+
+.screenshots .custom-file-label {
+    position: absolute;
+    top: 16%;
+    left: 0;
+    background: #C2FF3F;
+    color: black;
+    padding: 19px 50px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background .2s ease-in-out;
+    display: inline-block;
+    text-align: center;
+    font-size: 16px;
+}
+
+
+.upload-container {
+  width: 50%;
+}
+
+.upload-container h2 {
+    margin-bottom: 3%;
+}
+
+.upload-button {
+    display: inline-block;
+    background-color: #C2FF3F;
+    color: #000;
+    padding: 10px 30px;
+    font-size: 16px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.upload-button:hover {
+  background-color: #b6e600;
+}
+
+.upload-button input[type="file"] {
+  display: none;
+}
+
+.more-description {
+    margin-top: 3%;
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+.more-description label{
+    margin-bottom: 3%;
+}
+
+.more-description textarea {
+    border-radius: 10px;
+    background-color: #858585;
+    padding: 2%;
+    font-size: 20px;
+    margin-bottom: 3%;
+}
+
+.genre-buttons {
+    margin-top: 1%;
+    margin-bottom: 3%;
+}
+.genre-button {
+    background-color: #C2FF3F;
+    border-radius: 10px;
+    padding: 10px 20px;
+    border: 1px solid black;
+    min-width: 150px;
+}
+
+.save-page-button {
+    padding: 10px 35px;
+    background-color: #BD00FF;
+    color: white;
+    font-size: 26px;
+    text-transform: uppercase;
+    border-radius: 20px;
+    border: 1px solid black;
+    margin-bottom: 5%;
+}

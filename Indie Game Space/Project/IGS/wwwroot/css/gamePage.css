@@ -6,7 +6,8 @@
 
 
 #carouselExampleIndicators {
-    height: 700px; /* укажите желаемую высоту */
+    height: 700px; 
+    z-index: 0;
 }
 
 #carouselExampleIndicators .carousel-inner,
@@ -62,8 +63,11 @@
     font-weight: 300;
 }
 .game-logo {
+    display: flex;
+    flex-direction: column;
     font-size: 64px;
     font-weight: 800;
+    width: 25%;
 }
 .game-logo p {
     text-align: right;
@@ -72,13 +76,38 @@
     margin-bottom: 7.5%;
 }
 
-
-
-
-
-.download-buttons{
-    margin-top: 5%;
+.game-logo .rating {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    gap: 5px;
 }
+
+.game-logo input[type="radio"] {
+    display: none;
+}
+.game-logo label {
+    width: 50px;
+    height: 50px;
+    background: url('../img/star-unchecked.svg') no-repeat center;
+    background-size: contain;
+    cursor: pointer;
+}
+.game-logo .rating label:hover,
+.game-logo .rating label:hover ~ label {
+    background: url('../img/star-checked.svg') no-repeat center;
+    background-size: contain;
+}
+.game-logo .rating input[type="radio"]:checked ~ label {
+    background: url('../img/star-checked.svg') no-repeat center;
+    background-size: contain;
+}
+
+
+
+    .download-buttons {
+        margin-top: 5%;
+    }
 .download-buttons h4{
     font-weight: 300;
 }
@@ -104,6 +133,30 @@
 .comment-input {
     width: 100%;
 }
+.comment-input .comment-input-wrapper {
+    display: flex;
+    position: relative;
+    width: 100%;
+}
+
+.comment-input .comment-input-wrapper .send-button {
+    background: none;
+    border: none;
+    position: absolute;
+    top: 40%;
+    right: 0;
+    transition: all .3s;
+}
+
+.comment-input .comment-input-wrapper .send-button:hover {
+    transform: scaleY(1.15) scaleX(1.15);
+}
+
+.comment-input .comment-input-wrapper .send-button img {
+    width: 80%;
+    filter: brightness(0.7);
+}
+
 .comment-input label {
     display: flex;
     flex-direction: column;

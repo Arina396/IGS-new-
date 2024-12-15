@@ -357,10 +357,7 @@
           "Pomelo.EntityFrameworkCore.MySql": "6.0.0"
         },
         "runtime": {
-          "IGS.DAL.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "IGS.DAL.dll": {}
         }
       },
       "IGS.Domain/1.0.0": {
@@ -369,10 +366,7 @@
           "MailKit": "4.4.0"
         },
         "runtime": {
-          "IGS.Domain.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "IGS.Domain.dll": {}
         }
       }
     }

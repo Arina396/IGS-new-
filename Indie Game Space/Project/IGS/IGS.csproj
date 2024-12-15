@@ -21,6 +21,7 @@
     <ProjectReference Include="..\IGS.WEB\IGS.WEB.csproj" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Views\AddGameForm\AddGameForm.cshtml" />
     <None Include="Views\GamePage\GamePage.cshtml" />
     <None Include="wwwroot\Builds\Build\Poker web.data.unityweb" />
     <None Include="wwwroot\Builds\Build\Poker web.framework.js.unityweb" />
