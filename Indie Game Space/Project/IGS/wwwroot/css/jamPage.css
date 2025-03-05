@@ -1,0 +1,100 @@
+﻿body{
+    background-color: black;
+}
+main {
+    margin: 0 3%;
+    padding: 0 3%;
+    background-color: rgba(140, 0, 255, 0.1);
+    color: white;
+}
+
+main h1{
+    text-transform: uppercase;
+}
+
+main h4 {
+    font-weight: 200;
+}
+.timer {
+    margin: 2% 0;
+}
+.counter {
+    display: flex;
+    justify-content: space-around;
+    width: 30%;
+}
+
+.counter p {
+    margin-top: 2%;
+    display: block;
+    white-space: pre-line;
+    padding: 0 3% 0 0;
+    text-align: center;
+    min-width: 20%;
+}
+
+.counter p:not(:last-child) {
+    border-right: 2px solid rgba(140, 0, 255, 1);
+}
+
+.timer-content {
+    display: flex;
+    align-items: center;
+}
+
+.log-in-jam {
+    display: inline-block;
+    color: black;
+    font-size: 1.2rem;
+    font-weight: 400;
+    text-align: center;
+    cursor: pointer;
+    border: 1px solid black;
+    border-radius: 30px;
+    background-color: rgba(194, 255, 63, 1);
+    padding: 1% 2%;
+    height: fit-content;
+    letter-spacing: 1.2px;
+    margin-left: 20%;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    width: 100vh;
+}
+
+.description span{
+    display: block;
+    width: 100vh;
+    font-size: 1.3rem;
+    margin-bottom: 10%;
+}
+
+.boldH2 {
+    margin-bottom: 5%;
+}
+
+.rules span{
+    font-size: 1.2rem;
+}
+
+.theme p{
+    font-size: 1.2rem;
+}
+
+.games-gallery {
+    margin-left: 10%;
+    display: grid;
+    gap: 2%;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.game-card {
+    display: flex;
+    flex-direction: column;
+}
+.cardGameDesc {
+    width: 80%;
+    align-self: center;
+}

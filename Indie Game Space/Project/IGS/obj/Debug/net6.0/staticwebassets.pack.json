@@ -65,6 +65,18 @@
       "PackagePath": "staticwebassets\\css\\gamePage.css"
     },
     {
+      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\jamPage.css",
+      "PackagePath": "staticwebassets\\css\\jamPage.css"
+    },
+    {
+      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\jamPoster.css",
+      "PackagePath": "staticwebassets\\css\\jamPoster.css"
+    },
+    {
+      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\jamRegistration.css",
+      "PackagePath": "staticwebassets\\css\\jamRegistration.css"
+    },
+    {
       "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\mainPage.css",
       "PackagePath": "staticwebassets\\css\\mainPage.css"
     },
@@ -95,6 +107,22 @@
     {
       "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\JamPreviewPlug.svg",
+      "PackagePath": "staticwebassets\\img\\JamPreviewPlug.svg"
+    },
+    {
+      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\JamPreviewPlug2.svg",
+      "PackagePath": "staticwebassets\\img\\JamPreviewPlug2.svg"
+    },
+    {
+      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\JamPreviewPlug3.svg",
+      "PackagePath": "staticwebassets\\img\\JamPreviewPlug3.svg"
+    },
+    {
+      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\JamPreviewPlug4.svg",
+      "PackagePath": "staticwebassets\\img\\JamPreviewPlug4.svg"
     },
     {
       "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\SendCommentBtn.svg",

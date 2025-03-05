@@ -1,0 +1,12 @@
+﻿@model IGS.Views.JamRegistration.IndexModel
+<link rel="stylesheet" href="~/css/jamRegistration.css" asp-append-version="true" />
+@{
+}
+
+<form action="/" method="post" class="regForm">
+    <h1>Регистрация на джем</h1>
+    <input type="text" name="nameOfTeam" placeholder="Название команды" />    
+    <input type="text" name="nameOfCapitan" placeholder="Ник капитана" />    
+    <input type="text" name="membersOfTeam" placeholder="Ники остальных участников (через запятую)" />    
+    <button type="submit" value="Участвовать"  class="btn">Участвовать</button>
+</form>

@@ -1,0 +1,69 @@
+﻿@model IGS.Views.JamPoster.IndexModel
+<link rel="stylesheet" href="~/css/jamPoster.css" asp-append-version="true"/>
+@{
+}
+
+<div class="poster-content">
+    <h1>БЛИЖАЙШИЕ ДЖЕМЫ</h1>
+    <div class="jam-list">
+
+        <div class="next-jams">
+
+            <div class="next-jam-item">
+                <div class="jam-preview">
+                    <img src="~/img/JamPreviewPlug.svg" alt="Jam Preview" />
+                </div>
+                <div class="jam-description">
+                    <a asp-action="JamPage" asp-controller="JamPage" class="JamPageLink"><h2>MOSPOLYJAM 3.0</h2></a>
+                    <p class="desc">Создайте игру за 5 дней - джем проводится уже третий раз</p>
+                    <p class="organizators">Организатор Московский Политех</p>
+                    <a class="log-in-jam" asp-controller="JamRegistration" asp-action="JamRegistration">Зарегистрироваться</a>
+                    <p class="date-of-start">Начнется через 5 дней</p>
+                </div>
+            </div>
+            <div class="next-jam-item">
+                <div class="jam-preview">
+                    <img src="~/img/JamPreviewPlug2.svg" alt="Jam Preview" />
+                </div>
+                <div class="jam-description">
+                    <a asp-action="JamPage" asp-controller="JamPage" class="JamPageLink"><h2>MOSPOLYJAM 3.0</h2></a>
+                    <p class="desc">Создайте игру за 6 дней - джем проводится уже третий раз</p>
+                    <p class="organizators">Организатор Московский Политех</p>
+                    <a class="log-in-jam" asp-controller="JamRegistration" asp-action="JamRegistration">Зарегистрироваться</a>
+                    <p class="date-of-start">Начнется через 5 дней</p>
+                </div>
+            </div>
+
+        </div>
+
+        <h1>ПРОШЕДШИЕ ДЖЕМЫ</h1>
+        <div class="prev-jams">
+
+            <div class="next-jam-item">
+                <div class="jam-preview">
+                    <img src="~/img/JamPreviewPlug3.svg" alt="Jam Preview" />
+                </div>
+                <div class="jam-description">
+                    <a asp-action="JamPage" asp-controller="JamPage" class="JamPageLink"><h2>MOSPOLYJAM 3.0</h2></a>
+                    <p class="desc">Создайте игру за 5 дней - джем проводится уже третий раз</p>
+                    <p class="organizators">Организатор Московский Политех</p>
+                    <p class="date-of-start">Закончилось 158 дней назад</p>
+                </div>
+            </div>
+
+            <div class="next-jam-item">
+                <div class="jam-preview">
+                    <img src="~/img/JamPreviewPlug4.svg" alt="Jam Preview" />
+                </div>
+                <div class="jam-description">
+                    <a asp-action="JamPage" asp-controller="JamPage" class="JamPageLink"><h2>MOSPOLYJAM 3.0</h2></a>
+                    <p class="desc">Создайте игру за 2 дней - джем проводится уже третий раз</p>
+                    <p class="organizators">Организатор Московский Политех</p>
+                    <p class="date-of-start">Закончилось 158 дней назад</p>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+</div>
