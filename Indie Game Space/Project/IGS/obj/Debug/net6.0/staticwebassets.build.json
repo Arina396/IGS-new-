@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "62YvU7AWCg7qiyewpfdUi2gQ5cAj73X6pjwTQnod+OU=",
+  "Hash": "9L+mQ2Lb4oNaXwBeI6yYopRZxGM7K+/WcnCEbrhxrl0=",
   "Source": "IGS",
   "BasePath": "_content/IGS",
   "Mode": "Default",
@@ -623,6 +623,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\find.icon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\game-gallery-plug.svg",
+      "SourceId": "IGS",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\",
+      "BasePath": "_content/IGS",
+      "RelativePath": "img/game-gallery-plug.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\game-gallery-plug.svg"
     },
     {
       "Identity": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\gitLogo.png",

@@ -26,34 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 413,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "JamPage.cshtml",
-              "DocumentMoniker": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\Views\\JamPage\\JamPage.cshtml",
-              "RelativeDocumentMoniker": "Views\\JamPage\\JamPage.cshtml",
-              "ToolTip": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\Views\\JamPage\\JamPage.cshtml",
-              "RelativeToolTip": "Views\\JamPage\\JamPage.cshtml",
-              "ViewState": "AQIAAFMAAAAAAAAAAAAAwG0AAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-05T11:16:24.925Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "jamPage.css",
-              "DocumentMoniker": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\jamPage.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\jamPage.css",
-              "ToolTip": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\jamPage.css",
-              "RelativeToolTip": "wwwroot\\css\\jamPage.css",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAYAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-05T11:15:10.539Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
@@ -76,6 +50,31 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JamPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\Views\\JamPage\\JamPage.cshtml",
+              "RelativeDocumentMoniker": "Views\\JamPage\\JamPage.cshtml",
+              "ToolTip": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\Views\\JamPage\\JamPage.cshtml",
+              "RelativeToolTip": "Views\\JamPage\\JamPage.cshtml",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAAwG0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T11:16:24.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "jamPage.css",
+              "DocumentMoniker": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\jamPage.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\jamPage.css",
+              "ToolTip": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\jamPage.css",
+              "RelativeToolTip": "wwwroot\\css\\jamPage.css",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-05T11:15:10.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "JamPoster.cshtml",
               "DocumentMoniker": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\Views\\JamPoster\\JamPoster.cshtml",
@@ -84,8 +83,7 @@
               "RelativeToolTip": "Views\\JamPoster\\JamPoster.cshtml",
               "ViewState": "AQIAADIAAAAAAAAAAADwvzQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-17T10:02:17.22Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T10:02:17.22Z"
             },
             {
               "$type": "Document",
@@ -97,8 +95,7 @@
               "RelativeToolTip": "wwwroot\\css\\jamPoster.css",
               "ViewState": "AQIAACoAAAAAAAAAAAAqwCQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-17T14:03:11.014Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T14:03:11.014Z"
             }
           ]
         }

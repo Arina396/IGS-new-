@@ -141,6 +141,10 @@
       "PackagePath": "staticwebassets\\img\\find.icon.ico"
     },
     {
+      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\game-gallery-plug.svg",
+      "PackagePath": "staticwebassets\\img\\game-gallery-plug.svg"
+    },
+    {
       "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\gitLogo.png",
       "PackagePath": "staticwebassets\\img\\gitLogo.png"
     },
