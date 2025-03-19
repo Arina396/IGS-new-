@@ -93,9 +93,7 @@ header {
 .left-column-add {
     grid-row: 1 / span 2;
 }
-.right-top-row-add {
 
-}
 .right-bottom-row-add {
     padding: 1% 2%;
     color: white;
@@ -150,22 +148,79 @@ header {
     font-family: "Luminari", fantasy;
     font-size: 30px;
 }
-.games-list-items{
+.games-list-items {
     display: flex;
+    flex-wrap: wrap; /* Перенос на новую строку */
+    gap: 20px; /* Равномерные отступы между карточками */
     padding: 2% 0;
 }
-.game-list-item-card:not(:last-child){
-    margin-right: 2%;
+
+.game-list-item-card {
+    width: 250px; /* Фиксированная ширина карточки */
+    height: 350px; /* Фиксированная высота карточки */
+    background: rgb(25, 23, 23); /* Цвет фона карточки */
+    border-radius: 8px;
+    overflow: hidden; /* Обрезаем содержимое по границам карточки */
+    transition: transform 0.3s ease;
+    display: flex;
+    flex-direction: column;
 }
+
+.game-list-item-card:hover {
+    transform: translateY(-5px); /* Эффект при наведении */
+}
+
+.game-item-preview-wrapper {
+    width: 100%;
+    height: 200px; /* Фиксированная высота для изображения */
+    position: relative;
+    overflow: hidden;
+}
+
+.game-item-preview-wrapper img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    transition: transform 0.3s ease;
+}
+
 .game-item {
+    padding: 15px;
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
     color: white;
-    margin-top: 10px;
     font-size: 17px;
     font-family: 'Comic Sans MS';
 }
-.game-list-item-name-and-price{
-    display: flex;
-    justify-content: space-between;
+
+.game-list-item-name-and-price {
+    margin-top: auto;
+}
+
+
+@media (max-width: 1200px) {
+    .games-list-items {
+        justify-content: center;
+    }
+    
+    .game-list-item-card {
+        width: calc(33% - 20px);
+    }
+}
+
+@media (max-width: 992px) {
+    .game-list-item-card {
+        width: calc(50% - 20px);
+    }
+}
+
+@media (max-width: 768px) {
+    .game-list-item-card {
+        width: 100%;
+    }
 }
 .game-list-item-name-and-price span:last-child{
     color: #c300ff;

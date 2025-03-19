@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\IGS.bundle.scp.css",
-      "PackagePath": "staticwebassets\\IGS.bundle.scp.css"
+      "PackagePath": "staticwebassets\\IGS.86zj03e9xm.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\Games\\igra1.png",
@@ -109,6 +109,22 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\0892a8a5-4461-4391-8a85-87095ebd2e1a_keqing.jpg",
+      "PackagePath": "staticwebassets\\img\\0892a8a5-4461-4391-8a85-87095ebd2e1a_keqing.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\53a0c58f-da7a-4b13-a56c-4f3500ccb8b6_Resurs_16.png",
+      "PackagePath": "staticwebassets\\img\\53a0c58f-da7a-4b13-a56c-4f3500ccb8b6_Resurs_16.png"
+    },
+    {
+      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\5a11c9b5-e072-4d3e-a31e-693c487f68cc_Resurs_16.png",
+      "PackagePath": "staticwebassets\\img\\5a11c9b5-e072-4d3e-a31e-693c487f68cc_Resurs_16.png"
+    },
+    {
+      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\93ad64aa-49e9-4ae7-a0b1-c525510a773f_Resurs_16.png",
+      "PackagePath": "staticwebassets\\img\\93ad64aa-49e9-4ae7-a0b1-c525510a773f_Resurs_16.png"
+    },
+    {
       "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\JamPreviewPlug.svg",
       "PackagePath": "staticwebassets\\img\\JamPreviewPlug.svg"
     },
@@ -133,8 +149,28 @@
       "PackagePath": "staticwebassets\\img\\arrow.png"
     },
     {
+      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\ba183e7c-8027-4be3-b18a-52f7d96c248f_Resurs_16.png",
+      "PackagePath": "staticwebassets\\img\\ba183e7c-8027-4be3-b18a-52f7d96c248f_Resurs_16.png"
+    },
+    {
+      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\bfc73ee8-f49b-4287-bdb9-55b7da84d4ec_jordan1.jpg",
+      "PackagePath": "staticwebassets\\img\\bfc73ee8-f49b-4287-bdb9-55b7da84d4ec_jordan1.jpg"
+    },
+    {
       "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\carousel-plug.png",
       "PackagePath": "staticwebassets\\img\\carousel-plug.png"
+    },
+    {
+      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\cf49eafa-5e22-4453-81fe-a1b475927270_force1.jpg",
+      "PackagePath": "staticwebassets\\img\\cf49eafa-5e22-4453-81fe-a1b475927270_force1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\d2a60228-f8f8-47fd-a334-2a95a877be94_force2.jpg",
+      "PackagePath": "staticwebassets\\img\\d2a60228-f8f8-47fd-a334-2a95a877be94_force2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\fc6a8603-737a-4f74-9612-eb93c075e67d_force1.jpg",
+      "PackagePath": "staticwebassets\\img\\fc6a8603-737a-4f74-9612-eb93c075e67d_force1.jpg"
     },
     {
       "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\find.icon.ico",
@@ -467,6 +503,10 @@
     {
       "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\three.cjs",
       "PackagePath": "staticwebassets\\lib\\three.cjs"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.IGS.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.IGS.Microsoft.AspNetCore.StaticWebAssets.props",

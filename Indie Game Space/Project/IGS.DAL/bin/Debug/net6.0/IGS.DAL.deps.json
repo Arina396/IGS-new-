@@ -342,7 +342,10 @@
           "MailKit": "4.4.0"
         },
         "runtime": {
-          "IGS.Domain.dll": {}
+          "IGS.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

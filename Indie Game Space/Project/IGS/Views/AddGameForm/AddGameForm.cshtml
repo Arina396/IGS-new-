@@ -1,96 +1,61 @@
-﻿@model IGS.Views.AddGameForm.AddGameFormModel
-<link rel="stylesheet" href="~/css/addGameForm.css" asp-append-version="true" />
-@{
-}
+﻿@model IGS.ViewModels.AddGameFormModel
 
-<form action="/" method="post" class="add-game">
+<link rel="stylesheet" href="~/css/addGameForm.css" asp-append-version="true" />
+
+<form asp-action="AddGameForm" method="post" enctype="multipart/form-data" class="add-game">
     <h1>СОЗДАЙТЕ НОВЫЙ ПРОЕКТ</h1>
 
+    <!-- Сводка валидации -->
+    <div asp-validation-summary="All" class="text-danger"></div>
+
+    <!-- Название игры -->
     <div class="game-add-input-wrapper">
-        <label for="gameName">Название</label>
-        <input type="text" name="gameName" placeholder="Введите название" id="gameName"/>
+        <label asp-for="Name">Название</label>
+        <input asp-for="Name" placeholder="Введите название" />
+        <span asp-validation-for="Name" class="text-danger"></span>
     </div>
 
+    <!-- Краткое описание -->
     <div class="game-add-input-wrapper">
-        <label for="gameDesc">Краткое описание</label>
-        <input type="text" name="gameDesc" placeholder="Введите описание" id="gameDesc"/>
+        <label asp-for="ShortDescription">Краткое описание</label>
+        <input asp-for="ShortDescription" placeholder="Введите описание" />
+        <span asp-validation-for="ShortDescription" class="text-danger"></span>
     </div>
 
-    <div class="game-add-input-wrapper">
-        <label for="classOfProject">Классификация</label>
-        <select id="classOfProject">
-            <option value="" disabled selected>Выберите</option>
-            <option value="1">1</option>
-            <option value="2">2</option>
-            <option value="3">3</option>
-            <option value="4">4</option>
-        </select>
-    </div>
-
-    <div class="game-add-input-wrapper">
-        <label for="typeOfProject">Вид проекта</label>
-        <select id="typeOfProject">
-            <option value="" disabled selected>Выберите</option>
-            <option value="1">1</option>
-            <option value="2">2</option>
-            <option value="3">3</option>
-            <option value="4">4</option>
-        </select>
-    </div>
-
-    <div class="game-add-input-wrapper">
-        <label for="deplyStatus">Статус выпуска</label>
-        <select id="deplyStatus">
-            <option value="" disabled selected>Выберите</option>
-            <option value="1">1</option>
-            <option value="2">2</option>
-            <option value="3">3</option>
-            <option value="4">4</option>
-        </select>
-    </div>
-
+    <!-- Загрузка файлов -->
     <div class="game-add-input-file-wrapper">
+        <!-- Обложка -->
         <div class="game-cover">
             <h2>ОБЛОЖКА</h2>
-            <label for="cover-file" class="custom-file-label">Добавить</label>
-            <input type="file" name="cover" id="cover-file" />
+            <label for="Cover" class="custom-file-label">Добавить</label>
+            <input type="file" asp-for="Cover" />
             <div class="file-drop-area" id="file-drop-area"></div>
+            <span asp-validation-for="Cover" class="text-danger"></span>
         </div>
+
+        <!-- Скриншот -->
         <div class="screenshots">
             <h2>СКРИНШОТЫ</h2>
-            <label for="cover-file" class="custom-file-label">Добавить</label>
-            <input type="file" name="cover" id="cover-file" />
+            <label for="Screenshot" class="custom-file-label">Добавить</label>
+            <input type="file" asp-for="Screenshot" />
             <div class="file-drop-area" id="file-drop-area"></div>
+            <span asp-validation-for="Screenshot" class="text-danger"></span>
         </div>
     </div>
 
-    <div class="upload-container">
-        <h2>ЗАГРУЗИТЬ ФАЙЛЫ</h2>
-        <label class="upload-button">
-            Загрузить файл
-            <input type="file" hidden>
-        </label>
-    </div>
-
-    <div class="more-description">
-        <label for="additional-description">ДОПОЛНИТЕЛЬНОЕ ОПИСАНИЕ</label>
-        <textarea id="additional-description" rows="10">Введите описание</textarea>
+    <div class="game-add-input-wrapper more-description">
+        <label asp-for="AdditionalDescription">Подробное описание</label>
+        <textarea asp-for="AdditionalDescription" placeholder="Введите описание" rows="10"></textarea>
+        <span asp-validation-for="AdditionalDescription" class="text-danger"></span>
     </div>
 
     <div class="game-add-input-wrapper">
-        <label for="deplyStatus">Жанр</label>
-        <select id="deplyStatus">
-            <option value="" disabled selected>Выберите</option>
-            <option value="1">1</option>
-            <option value="2">2</option>
-            <option value="3">3</option>
-            <option value="4">4</option>
-        </select>
-        <div class="genre-buttons">
-            <button class="genre-button">Хоррор</button>
-            <button class="genre-button">Приключения</button>
-        </div>
+        <label asp-for="Link">Добавление ссылки на игру</label>
+        <input asp-for="Link" placeholder="Введите ссылку" />
+        <span asp-validation-for="Link" class="text-danger"></span>
     </div>
 
-    <button class="save-page-button">сохранить и посмотреть страницу</button>
+
+    <!-- Кнопка отправки -->
+    <button type="submit" class="save-page-button">сохранить и посмотреть страницу</button>
 </form>

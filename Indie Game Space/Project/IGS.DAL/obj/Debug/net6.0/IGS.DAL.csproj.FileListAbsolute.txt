@@ -78,3 +78,63 @@ C:\Users\Miku\Documents\GitHub\IGS-new-\Indie Game Space\Project\IGS.DAL\bin\Deb
 C:\Users\Miku\Documents\GitHub\IGS-new-\Indie Game Space\Project\IGS.DAL\bin\Debug\net6.0\IGS.Domain.pdb
 C:\Users\Miku\Documents\GitHub\IGS-new-\Indie Game Space\Project\IGS.DAL\obj\Debug\net6.0\IGS.DAL.csproj.Up2Date
 C:\Users\Miku\Documents\GitHub\IGS-new-\Indie Game Space\Project\IGS.DAL\obj\Debug\net6.0\ref\IGS.DAL.dll
+C:\Users\User1\Desktop\IGS-new--286d6a7cd8416eed6c22a3c33bae94b3dff5efcd\Indie Game Space\Project\IGS.DAL\bin\Debug\net6.0\IGS.DAL.deps.json
+C:\Users\User1\Desktop\IGS-new--286d6a7cd8416eed6c22a3c33bae94b3dff5efcd\Indie Game Space\Project\IGS.DAL\bin\Debug\net6.0\IGS.DAL.dll
+C:\Users\User1\Desktop\IGS-new--286d6a7cd8416eed6c22a3c33bae94b3dff5efcd\Indie Game Space\Project\IGS.DAL\bin\Debug\net6.0\IGS.DAL.pdb
+C:\Users\User1\Desktop\IGS-new--286d6a7cd8416eed6c22a3c33bae94b3dff5efcd\Indie Game Space\Project\IGS.DAL\bin\Debug\net6.0\IGS.Domain.dll
+C:\Users\User1\Desktop\IGS-new--286d6a7cd8416eed6c22a3c33bae94b3dff5efcd\Indie Game Space\Project\IGS.DAL\bin\Debug\net6.0\IGS.Domain.pdb
+C:\Users\User1\Desktop\IGS-new--286d6a7cd8416eed6c22a3c33bae94b3dff5efcd\Indie Game Space\Project\IGS.DAL\obj\Debug\net6.0\IGS.DAL.csproj.AssemblyReference.cache
+C:\Users\User1\Desktop\IGS-new--286d6a7cd8416eed6c22a3c33bae94b3dff5efcd\Indie Game Space\Project\IGS.DAL\obj\Debug\net6.0\IGS.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\Desktop\IGS-new--286d6a7cd8416eed6c22a3c33bae94b3dff5efcd\Indie Game Space\Project\IGS.DAL\obj\Debug\net6.0\IGS.DAL.AssemblyInfoInputs.cache
+C:\Users\User1\Desktop\IGS-new--286d6a7cd8416eed6c22a3c33bae94b3dff5efcd\Indie Game Space\Project\IGS.DAL\obj\Debug\net6.0\IGS.DAL.AssemblyInfo.cs
+C:\Users\User1\Desktop\IGS-new--286d6a7cd8416eed6c22a3c33bae94b3dff5efcd\Indie Game Space\Project\IGS.DAL\obj\Debug\net6.0\IGS.DAL.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\IGS-new--286d6a7cd8416eed6c22a3c33bae94b3dff5efcd\Indie Game Space\Project\IGS.DAL\obj\Debug\net6.0\IGS.DAL.csproj.Up2Date
+C:\Users\User1\Desktop\IGS-new--286d6a7cd8416eed6c22a3c33bae94b3dff5efcd\Indie Game Space\Project\IGS.DAL\obj\Debug\net6.0\IGS.DAL.dll
+C:\Users\User1\Desktop\IGS-new--286d6a7cd8416eed6c22a3c33bae94b3dff5efcd\Indie Game Space\Project\IGS.DAL\obj\Debug\net6.0\refint\IGS.DAL.dll
+C:\Users\User1\Desktop\IGS-new--286d6a7cd8416eed6c22a3c33bae94b3dff5efcd\Indie Game Space\Project\IGS.DAL\obj\Debug\net6.0\IGS.DAL.pdb
+C:\Users\User1\Desktop\IGS-new--286d6a7cd8416eed6c22a3c33bae94b3dff5efcd\Indie Game Space\Project\IGS.DAL\obj\Debug\net6.0\ref\IGS.DAL.dll
+C:\Users\User1\Desktop\IGS-new-\Indie Game Space\Project\IGS.DAL\bin\Debug\net6.0\IGS.DAL.deps.json
+C:\Users\User1\Desktop\IGS-new-\Indie Game Space\Project\IGS.DAL\bin\Debug\net6.0\IGS.DAL.dll
+C:\Users\User1\Desktop\IGS-new-\Indie Game Space\Project\IGS.DAL\bin\Debug\net6.0\IGS.DAL.pdb
+C:\Users\User1\Desktop\IGS-new-\Indie Game Space\Project\IGS.DAL\bin\Debug\net6.0\IGS.Domain.dll
+C:\Users\User1\Desktop\IGS-new-\Indie Game Space\Project\IGS.DAL\bin\Debug\net6.0\IGS.Domain.pdb
+C:\Users\User1\Desktop\IGS-new-\Indie Game Space\Project\IGS.DAL\obj\Debug\net6.0\IGS.DAL.csproj.AssemblyReference.cache
+C:\Users\User1\Desktop\IGS-new-\Indie Game Space\Project\IGS.DAL\obj\Debug\net6.0\IGS.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\Desktop\IGS-new-\Indie Game Space\Project\IGS.DAL\obj\Debug\net6.0\IGS.DAL.AssemblyInfoInputs.cache
+C:\Users\User1\Desktop\IGS-new-\Indie Game Space\Project\IGS.DAL\obj\Debug\net6.0\IGS.DAL.AssemblyInfo.cs
+C:\Users\User1\Desktop\IGS-new-\Indie Game Space\Project\IGS.DAL\obj\Debug\net6.0\IGS.DAL.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\IGS-new-\Indie Game Space\Project\IGS.DAL\obj\Debug\net6.0\IGS.DAL.csproj.Up2Date
+C:\Users\User1\Desktop\IGS-new-\Indie Game Space\Project\IGS.DAL\obj\Debug\net6.0\IGS.DAL.dll
+C:\Users\User1\Desktop\IGS-new-\Indie Game Space\Project\IGS.DAL\obj\Debug\net6.0\refint\IGS.DAL.dll
+C:\Users\User1\Desktop\IGS-new-\Indie Game Space\Project\IGS.DAL\obj\Debug\net6.0\IGS.DAL.pdb
+C:\Users\User1\Desktop\IGS-new-\Indie Game Space\Project\IGS.DAL\obj\Debug\net6.0\ref\IGS.DAL.dll
+C:\Users\vrrrr\OneDrive\Рабочий стол\IGS-new-\Indie Game Space\Project\IGS.DAL\bin\Debug\net6.0\IGS.DAL.deps.json
+C:\Users\vrrrr\OneDrive\Рабочий стол\IGS-new-\Indie Game Space\Project\IGS.DAL\bin\Debug\net6.0\IGS.DAL.dll
+C:\Users\vrrrr\OneDrive\Рабочий стол\IGS-new-\Indie Game Space\Project\IGS.DAL\bin\Debug\net6.0\IGS.DAL.pdb
+C:\Users\vrrrr\OneDrive\Рабочий стол\IGS-new-\Indie Game Space\Project\IGS.DAL\bin\Debug\net6.0\IGS.Domain.dll
+C:\Users\vrrrr\OneDrive\Рабочий стол\IGS-new-\Indie Game Space\Project\IGS.DAL\bin\Debug\net6.0\IGS.Domain.pdb
+C:\Users\vrrrr\OneDrive\Рабочий стол\IGS-new-\Indie Game Space\Project\IGS.DAL\obj\Debug\net6.0\IGS.DAL.csproj.AssemblyReference.cache
+C:\Users\vrrrr\OneDrive\Рабочий стол\IGS-new-\Indie Game Space\Project\IGS.DAL\obj\Debug\net6.0\IGS.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vrrrr\OneDrive\Рабочий стол\IGS-new-\Indie Game Space\Project\IGS.DAL\obj\Debug\net6.0\IGS.DAL.AssemblyInfoInputs.cache
+C:\Users\vrrrr\OneDrive\Рабочий стол\IGS-new-\Indie Game Space\Project\IGS.DAL\obj\Debug\net6.0\IGS.DAL.AssemblyInfo.cs
+C:\Users\vrrrr\OneDrive\Рабочий стол\IGS-new-\Indie Game Space\Project\IGS.DAL\obj\Debug\net6.0\IGS.DAL.csproj.CoreCompileInputs.cache
+C:\Users\vrrrr\OneDrive\Рабочий стол\IGS-new-\Indie Game Space\Project\IGS.DAL\obj\Debug\net6.0\IGS.DAL.csproj.Up2Date
+C:\Users\vrrrr\OneDrive\Рабочий стол\IGS-new-\Indie Game Space\Project\IGS.DAL\obj\Debug\net6.0\IGS.DAL.dll
+C:\Users\vrrrr\OneDrive\Рабочий стол\IGS-new-\Indie Game Space\Project\IGS.DAL\obj\Debug\net6.0\refint\IGS.DAL.dll
+C:\Users\vrrrr\OneDrive\Рабочий стол\IGS-new-\Indie Game Space\Project\IGS.DAL\obj\Debug\net6.0\IGS.DAL.pdb
+C:\Users\vrrrr\OneDrive\Рабочий стол\IGS-new-\Indie Game Space\Project\IGS.DAL\obj\Debug\net6.0\ref\IGS.DAL.dll
+C:\Users\kazik\Downloads\IGS-new-\IGS-new-\Indie Game Space\Project\IGS.DAL\bin\Debug\net6.0\IGS.DAL.deps.json
+C:\Users\kazik\Downloads\IGS-new-\IGS-new-\Indie Game Space\Project\IGS.DAL\bin\Debug\net6.0\IGS.DAL.dll
+C:\Users\kazik\Downloads\IGS-new-\IGS-new-\Indie Game Space\Project\IGS.DAL\bin\Debug\net6.0\IGS.DAL.pdb
+C:\Users\kazik\Downloads\IGS-new-\IGS-new-\Indie Game Space\Project\IGS.DAL\bin\Debug\net6.0\IGS.Domain.dll
+C:\Users\kazik\Downloads\IGS-new-\IGS-new-\Indie Game Space\Project\IGS.DAL\bin\Debug\net6.0\IGS.Domain.pdb
+C:\Users\kazik\Downloads\IGS-new-\IGS-new-\Indie Game Space\Project\IGS.DAL\obj\Debug\net6.0\IGS.DAL.csproj.AssemblyReference.cache
+C:\Users\kazik\Downloads\IGS-new-\IGS-new-\Indie Game Space\Project\IGS.DAL\obj\Debug\net6.0\IGS.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kazik\Downloads\IGS-new-\IGS-new-\Indie Game Space\Project\IGS.DAL\obj\Debug\net6.0\IGS.DAL.AssemblyInfoInputs.cache
+C:\Users\kazik\Downloads\IGS-new-\IGS-new-\Indie Game Space\Project\IGS.DAL\obj\Debug\net6.0\IGS.DAL.AssemblyInfo.cs
+C:\Users\kazik\Downloads\IGS-new-\IGS-new-\Indie Game Space\Project\IGS.DAL\obj\Debug\net6.0\IGS.DAL.csproj.CoreCompileInputs.cache
+C:\Users\kazik\Downloads\IGS-new-\IGS-new-\Indie Game Space\Project\IGS.DAL\obj\Debug\net6.0\IGS.DAL.csproj.Up2Date
+C:\Users\kazik\Downloads\IGS-new-\IGS-new-\Indie Game Space\Project\IGS.DAL\obj\Debug\net6.0\IGS.DAL.dll
+C:\Users\kazik\Downloads\IGS-new-\IGS-new-\Indie Game Space\Project\IGS.DAL\obj\Debug\net6.0\refint\IGS.DAL.dll
+C:\Users\kazik\Downloads\IGS-new-\IGS-new-\Indie Game Space\Project\IGS.DAL\obj\Debug\net6.0\IGS.DAL.pdb
+C:\Users\kazik\Downloads\IGS-new-\IGS-new-\Indie Game Space\Project\IGS.DAL\obj\Debug\net6.0\ref\IGS.DAL.dll

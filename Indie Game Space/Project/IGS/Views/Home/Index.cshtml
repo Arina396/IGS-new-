@@ -1,4 +1,4 @@
-﻿@model IEnumerable<IGS.Domain.Entity.Game>
+﻿@model IEnumerable<IGS.Domain.Entity.Games2>
 
 <link rel="stylesheet" href="~/css/mainPage.css" asp-append-version="true" /> 
 
@@ -69,18 +69,13 @@
                 {
                     <a asp-controller="GamePage" asp-action="GamePage" asp-route-id="@game.Id" class="game-list-item-card">
                         <div class="game-item">
-                            <img src="@("~/Games/" + game.ImageName)" asp-append-version="true" alt="Image 1">
+                            <div class="game-item-preview-wrapper">
+                                <img src="@("~/img/" + game.ImageName)" asp-append-version="true" alt="Image 1" class="game-item-preview">
+                            </div>
+
                             <div class="game-list-item-name-and-price">
-                                @if (@game.Price == 0)
-                                {
-                                    <span>@game.Name</span>
-                                    <span class="center_text_cost">FREE</span>
-                                }
-                                else
-                                {
-                                    <span>@game.Name</span>
-                                    <span class="center_text_cost">@game.Price Р</span>
-                                }
+                                <p class="game-name">@game.Name</p>
+                                <p class="game-price">1000 денег </p>
                             </div>
                         </div>
                     </a>

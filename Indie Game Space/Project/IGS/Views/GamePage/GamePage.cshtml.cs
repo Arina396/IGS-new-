@@ -9,7 +9,7 @@ namespace IGS.Views.GamePage
         public void OnGet()
         {
         }
-        public Game GameDetails { get; set; }
+        public Games2 GameDetails { get; set; }
         public IEnumerable<Comments> Comments { get; set; } // Список комментариев
     }
 }

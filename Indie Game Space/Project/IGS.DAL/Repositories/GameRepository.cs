@@ -10,22 +10,22 @@ namespace IGS.DAL.Repositories
 
         public GameRepository(ApplicationDbContext db) => _dbContext = db;
 
-        public async Task<bool> Create(Game entity)
+        public async Task<bool> Create(Games2 entity)
         {
-            await _dbContext.Games.AddAsync(entity);
+            await _dbContext.Games2.AddAsync(entity);
             await _dbContext.SaveChangesAsync();
             return true;
         }
 
-        public async Task<bool> Delete(Game entity)
+        public async Task<bool> Delete(Games2 entity)
         {
-            _dbContext.Games.Remove(entity);
+            _dbContext.Games2.Remove(entity);
             await _dbContext.SaveChangesAsync();
             return true;
         }
 
-        public async Task<Game> GetById(int id) => await _dbContext.Games.FirstOrDefaultAsync(game => game.Id == id);
+        public async Task<Games2> GetById(int id) => await _dbContext.Games2.FirstOrDefaultAsync(game => game.Id == id);
 
-        public async Task<List<Game>> Select() => await _dbContext.Games.ToListAsync();
+        public async Task<List<Games2>> Select() => await _dbContext.Games2.ToListAsync();
     }
 }

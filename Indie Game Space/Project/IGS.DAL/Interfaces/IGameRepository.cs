@@ -2,7 +2,7 @@
 
 namespace IGS.DAL.Interfaces
 {
-    public interface IGameRepository : IBaseRepository<Game>
+    public interface IGameRepository : IBaseRepository<Games2>
     {
 
     }

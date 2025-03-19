@@ -1,8 +1,13 @@
 ﻿using IGS.Domain.Response;
+
+
 using Microsoft.AspNetCore.Mvc;
 using IGS.DAL.Interfaces;
 using IGS.Domain.ViewModels.Game;
 using IGS.Domain.Entity;
+using Microsoft.AspNetCore.Authorization;
+using System.Security.Claims;
+using IGS.DAL.Repositories;
 
 namespace IGS.Controllers
 {
@@ -10,11 +15,13 @@ namespace IGS.Controllers
     {
         private readonly IGameRepository _gameRepository;
         private readonly ICommentRepository _commentRepository;
+        private readonly IUserRepository _userRepository;
 
-        public GamePageController(IGameRepository gameRepository, ICommentRepository commentRepository)
+        public GamePageController(IGameRepository gameRepository, ICommentRepository commentRepository, IUserRepository userRepository)
         {
             _gameRepository = gameRepository;
             _commentRepository = commentRepository;
+            _userRepository = userRepository; // И это
         }
 
         public async Task<IActionResult> GamePage(int id)
@@ -32,7 +39,7 @@ namespace IGS.Controllers
                     Id = id,
                     Name = gameDetails.Name,
                     ImageName = gameDetails.ImageName,
-                    Price = gameDetails.Price,
+                  //  Price = gameDetails.Price,
                     Creator = gameDetails.Creator,
                     Description = gameDetails.Description
                 };
@@ -67,6 +74,7 @@ namespace IGS.Controllers
 
         // Новый метод для добавления комментария
         [HttpPost]
+        [Authorize]
         public async Task<IActionResult> AddComment(int gameId, string commentText)
         {
             try
@@ -76,24 +84,23 @@ namespace IGS.Controllers
                     return BadRequest("Комментарий не может быть пустым.");
                 }
 
-                // Получение текущего пользователя (пример с аутентификацией)
-                var userId = 1; // тест добавить метод для ввода id текущего User
+                // Получаем ID текущего пользователя
+                var userIdClaim = User.FindFirstValue(ClaimTypes.NameIdentifier);
+                var currentUserLogin = User.Identity.Name;
+                var user = await _userRepository.GetByLogin(currentUserLogin);
+
 
                 var newComment = new Comments
                 {
                     Game_id = gameId,
-                    User_Id = userId,
+                    User_Id = user.Id,
                     Comment = commentText
                 };
 
                 var isAdded = await _commentRepository.Create(newComment);
-
-                if (!isAdded)
-                {
-                    return StatusCode(500, "Не удалось добавить комментарий.");
-                }
-
-                return RedirectToAction("GamePage", new { id = gameId });
+                return !isAdded
+                    ? StatusCode(500, "Не удалось добавить комментарий.")
+                    : RedirectToAction("GamePage", new { id = gameId });
             }
             catch (Exception ex)
             {
@@ -101,5 +108,6 @@ namespace IGS.Controllers
                 return StatusCode(500, $"An error occurred: {ex.Message}");
             }
         }
+
     }
 }
