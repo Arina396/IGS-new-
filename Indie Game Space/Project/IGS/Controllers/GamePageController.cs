@@ -1,13 +1,8 @@
-﻿using IGS.Domain.Response;
-
-
-using Microsoft.AspNetCore.Mvc;
-using IGS.DAL.Interfaces;
-using IGS.Domain.ViewModels.Game;
+﻿using IGS.DAL.Interfaces;
 using IGS.Domain.Entity;
+using IGS.Domain.ViewModels.Game;
 using Microsoft.AspNetCore.Authorization;
-using System.Security.Claims;
-using IGS.DAL.Repositories;
+using Microsoft.AspNetCore.Mvc;
 
 namespace IGS.Controllers
 {
@@ -17,13 +12,16 @@ namespace IGS.Controllers
         private readonly ICommentRepository _commentRepository;
         private readonly IUserRepository _userRepository;
 
-        public GamePageController(IGameRepository gameRepository, ICommentRepository commentRepository, IUserRepository userRepository)
+        public GamePageController(IGameRepository gameRepository,
+                                ICommentRepository commentRepository,
+                                IUserRepository userRepository)
         {
             _gameRepository = gameRepository;
             _commentRepository = commentRepository;
-            _userRepository = userRepository; // И это
+            _userRepository = userRepository;
         }
 
+        [HttpGet]
         public async Task<IActionResult> GamePage(int id)
         {
             try
@@ -39,17 +37,23 @@ namespace IGS.Controllers
                     Id = id,
                     Name = gameDetails.Name,
                     ImageName = gameDetails.ImageName,
-                  //  Price = gameDetails.Price,
+                    ScrinshotName = gameDetails.ScrinshotName,
+                    ScrinshotName2 = gameDetails.ScrinshotName2,
+                    ScrinshotName3 = gameDetails.ScrinshotName3,
+                    Price = 1, // Предполагаю, что Price остался в интерфейсе репозитория
                     Creator = gameDetails.Creator,
-                    Description = gameDetails.Description
+                    Description = gameDetails.Description, // Краткое описание
+                    Genre = gameDetails.Genre,
+                    Link = gameDetails.Link
                 };
 
-                // Получаем комментарии вместе с профилями пользователей
-                var comments = await _commentRepository.GetByGameIdWithUsers(id);
+                // Передаем полное описание через ViewData
+                ViewData["LargeDescription"] = gameDetails.LargeDescription;
 
+                var comments = await _commentRepository.GetByGameIdWithUsers(id);
                 var commentViewModels = comments.Select(comment => new CommentViewModel
                 {
-                    UserName = comment.User?.Name ?? "Unknown", // Используем Name из Profile
+                    UserName = comment.User?.Name ?? "Anonymous",
                     Comment = comment.Comment
                 }).ToList();
 
@@ -63,32 +67,31 @@ namespace IGS.Controllers
             }
             catch (Exception ex)
             {
-                Console.WriteLine($"Error in GamePage: {ex.Message}");
-                Console.WriteLine($"Stack Trace: {ex.StackTrace}");
-                return StatusCode(500, $"An error occurred: {ex.Message}");
-                // Log the exception if necessary
-
+                TempData["Error"] = $"Произошла ошибка: {ex.Message}";
+                return StatusCode(500, $"Произошла ошибка: {ex.Message}");
             }
         }
 
-
-        // Новый метод для добавления комментария
         [HttpPost]
         [Authorize]
+        [ValidateAntiForgeryToken]
         public async Task<IActionResult> AddComment(int gameId, string commentText)
         {
             try
             {
                 if (string.IsNullOrWhiteSpace(commentText))
                 {
-                    return BadRequest("Комментарий не может быть пустым.");
+                    TempData["Error"] = "Комментарий не может быть пустым";
+                    return RedirectToAction("GamePage", new { id = gameId });
                 }
 
-                // Получаем ID текущего пользователя
-                var userIdClaim = User.FindFirstValue(ClaimTypes.NameIdentifier);
-                var currentUserLogin = User.Identity.Name;
-                var user = await _userRepository.GetByLogin(currentUserLogin);
+                var userLogin = User.Identity.Name;
+                var user = await _userRepository.GetByLogin(userLogin);
 
+                if (user == null)
+                {
+                    return Unauthorized();
+                }
 
                 var newComment = new Comments
                 {
@@ -98,16 +101,18 @@ namespace IGS.Controllers
                 };
 
                 var isAdded = await _commentRepository.Create(newComment);
-                return !isAdded
-                    ? StatusCode(500, "Не удалось добавить комментарий.")
-                    : RedirectToAction("GamePage", new { id = gameId });
+                if (!isAdded)
+                {
+                    TempData["Error"] = "Не удалось добавить комментарий";
+                }
+
+                return RedirectToAction("GamePage", new { id = gameId });
             }
             catch (Exception ex)
             {
-                Console.WriteLine($"Error in AddComment: {ex.Message}");
-                return StatusCode(500, $"An error occurred: {ex.Message}");
+                TempData["Error"] = $"Произошла ошибка: {ex.Message}";
+                return RedirectToAction("GamePage", new { id = gameId });
             }
         }
-
     }
 }

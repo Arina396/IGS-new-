@@ -39,7 +39,8 @@ namespace IGS.Controllers
                     // Сохранение файлов (обложка и скриншот)
                     string coverFileName = await SaveFileAsync(model.Cover);
                     string screenshotFileName = await SaveFileAsync(model.Screenshot);
-                    
+                    string screenshotFileName2 = await SaveFileAsync(model.Screenshot2);
+                    string screenshotFileName3 = await SaveFileAsync(model.Screenshot3);
 
                     // Создание объекта игры
                     var game = new Games2
@@ -47,10 +48,13 @@ namespace IGS.Controllers
                  
                         Name = model.Name,
                         Description = model.ShortDescription,
-                        Creator = "Creator", // Замените на актуальное значение
+                        LargeDescription = model.AdditionalDescription,
+                        Creator = model.Creator, // Замените на актуальное значение
                         ImageName = coverFileName,
-                        Genre = "Genre", // Замените на актуальное значение
+                        Genre = model.Genre, // Замените на актуальное значение
                         ScrinshotName = screenshotFileName,
+                        ScrinshotName2 = screenshotFileName2,
+                        ScrinshotName3 = screenshotFileName3,
                         Link = model.Link, // Замените на актуальное значение
                         User_Id = 7// Замените на актуальное значение
                     };

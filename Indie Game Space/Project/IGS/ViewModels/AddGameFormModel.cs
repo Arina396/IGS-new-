@@ -14,9 +14,15 @@ namespace IGS.ViewModels
         public IFormFile Cover { get; set; }
 
         public IFormFile Screenshot { get; set; }
+        public IFormFile Screenshot2 { get; set; }
+        public IFormFile Screenshot3 { get; set; }
 
         public string AdditionalDescription { get; set; }
 
         public string Link { get; set; }
+
+        public string Creator { get; set; }
+
+        public string Genre { get; set; }
     }
 }

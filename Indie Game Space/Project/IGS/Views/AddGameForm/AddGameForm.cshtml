@@ -41,6 +41,23 @@
             <div class="file-drop-area" id="file-drop-area"></div>
             <span asp-validation-for="Screenshot" class="text-danger"></span>
         </div>
+
+        <div class="screenshots">
+            <h2>СКРИНШОТЫ</h2>
+            <label for="Screenshot2" class="custom-file-label">Добавить</label>
+            <input type="file" asp-for="Screenshot2" />
+            <div class="file-drop-area" id="file-drop-area"></div>
+            <span asp-validation-for="Screenshot2" class="text-danger"></span>
+        </div>
+
+        <div class="screenshots">
+            <h2>СКРИНШОТЫ</h2>
+            <label for="Screenshot3" class="custom-file-label">Добавить</label>
+            <input type="file" asp-for="Screenshot3" />
+            <div class="file-drop-area" id="file-drop-area"></div>
+            <span asp-validation-for="Screenshot3" class="text-danger"></span>
+        </div>
+
     </div>
 
     <div class="game-add-input-wrapper more-description">
@@ -55,6 +72,17 @@
         <span asp-validation-for="Link" class="text-danger"></span>
     </div>
 
+    <div class="game-add-input-wrapper">
+        <label asp-for="Creator">Навзание команды / Разработчика</label>
+        <input asp-for="Creator" placeholder="Введите название" />
+        <span asp-validation-for="Creator" class="text-danger"></span>
+    </div>
+
+    <div class="game-add-input-wrapper">
+        <label asp-for="Genre">Жанр</label>
+        <input asp-for="Genre" placeholder="Введите жанр" />
+        <span asp-validation-for="Genre" class="text-danger"></span>
+    </div>
 
     <!-- Кнопка отправки -->
     <button type="submit" class="save-page-button">сохранить и посмотреть страницу</button>

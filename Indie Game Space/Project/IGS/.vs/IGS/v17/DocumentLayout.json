@@ -1,37 +1,39 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kazik\\Downloads\\IGS-new-\\IGS-new-\\Indie Game Space\\Project\\IGS\\",
+  "WorkspaceRootPath": "C:\\Users\\User1\\Desktop\\IGS-new--main\\Indie Game Space\\Project\\IGS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{20DCF732-EDAF-4273-8109-19AE475A823B}|IGS.csproj|c:\\users\\kazik\\downloads\\igs-new-\\igs-new-\\indie game space\\project\\igs\\views\\gamepage\\gamepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{20DCF732-EDAF-4273-8109-19AE475A823B}|IGS.csproj|solutionrelative:views\\gamepage\\gamepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20DCF732-EDAF-4273-8109-19AE475A823B}|IGS.csproj|c:\\users\\kazik\\downloads\\igs-new-\\igs-new-\\indie game space\\project\\igs\\views\\addgameform\\addgameform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{20DCF732-EDAF-4273-8109-19AE475A823B}|IGS.csproj|solutionrelative:views\\addgameform\\addgameform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20DCF732-EDAF-4273-8109-19AE475A823B}|IGS.csproj|c:\\users\\kazik\\downloads\\igs-new-\\igs-new-\\indie game space\\project\\igs\\wwwroot\\css\\gamepage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{20DCF732-EDAF-4273-8109-19AE475A823B}|IGS.csproj|solutionrelative:wwwroot\\css\\gamepage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20DCF732-EDAF-4273-8109-19AE475A823B}|IGS.csproj|c:\\users\\kazik\\downloads\\igs-new-\\igs-new-\\indie game space\\project\\igs\\wwwroot\\css\\mainpage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{20DCF732-EDAF-4273-8109-19AE475A823B}|IGS.csproj|solutionrelative:wwwroot\\css\\mainpage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20DCF732-EDAF-4273-8109-19AE475A823B}|IGS.csproj|c:\\users\\kazik\\downloads\\igs-new-\\igs-new-\\indie game space\\project\\igs\\wwwroot\\css\\addgameform.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{20DCF732-EDAF-4273-8109-19AE475A823B}|IGS.csproj|solutionrelative:wwwroot\\css\\addgameform.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20DCF732-EDAF-4273-8109-19AE475A823B}|IGS.csproj|c:\\users\\kazik\\downloads\\igs-new-\\igs-new-\\indie game space\\project\\igs\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{20DCF732-EDAF-4273-8109-19AE475A823B}|IGS.csproj|c:\\users\\user1\\desktop\\igs-new--main\\indie game space\\project\\igs\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{20DCF732-EDAF-4273-8109-19AE475A823B}|IGS.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20DCF732-EDAF-4273-8109-19AE475A823B}|IGS.csproj|c:\\users\\kazik\\downloads\\igs-new-\\igs-new-\\indie game space\\project\\igs\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20DCF732-EDAF-4273-8109-19AE475A823B}|IGS.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{20DCF732-EDAF-4273-8109-19AE475A823B}|IGS.csproj|c:\\users\\user1\\desktop\\igs-new--main\\indie game space\\project\\igs\\views\\gamepage\\gamepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20DCF732-EDAF-4273-8109-19AE475A823B}|IGS.csproj|solutionrelative:views\\gamepage\\gamepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vrrrr\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IGS-new-\\Indie Game Space\\Project\\IGS.DAL\\Repositories\\GameRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{20DCF732-EDAF-4273-8109-19AE475A823B}|IGS.csproj|c:\\users\\user1\\desktop\\igs-new--main\\indie game space\\project\\igs\\controllers\\addgameformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20DCF732-EDAF-4273-8109-19AE475A823B}|IGS.csproj|solutionrelative:controllers\\addgameformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20DCF732-EDAF-4273-8109-19AE475A823B}|IGS.csproj|c:\\users\\user1\\desktop\\igs-new--main\\indie game space\\project\\igs\\controllers\\gamepagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20DCF732-EDAF-4273-8109-19AE475A823B}|IGS.csproj|solutionrelative:controllers\\gamepagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20DCF732-EDAF-4273-8109-19AE475A823B}|IGS.csproj|c:\\users\\user1\\desktop\\igs-new--main\\indie game space\\project\\igs\\viewmodels\\addgameformmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20DCF732-EDAF-4273-8109-19AE475A823B}|IGS.csproj|solutionrelative:viewmodels\\addgameformmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20DCF732-EDAF-4273-8109-19AE475A823B}|IGS.csproj|c:\\users\\user1\\desktop\\igs-new--main\\indie game space\\project\\igs\\views\\addgameform\\addgameform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20DCF732-EDAF-4273-8109-19AE475A823B}|IGS.csproj|solutionrelative:views\\addgameform\\addgameform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11633A26-B1E1-41B7-843D-06068509F6C7}|..\\IGS.Domain\\IGS.Domain.csproj|c:\\users\\user1\\desktop\\igs-new--main\\indie game space\\project\\igs.domain\\viewmodels\\game\\gameviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11633A26-B1E1-41B7-843D-06068509F6C7}|..\\IGS.Domain\\IGS.Domain.csproj|c:\\users\\user1\\desktop\\igs-new--main\\indie game space\\project\\igs.domain\\entity\\games2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vrrrr\\Downloads\\IGS-new--main\\Indie Game Space\\Project\\IGS.Domain\\Entity\\Games2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -41,72 +43,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 413,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "gamePage.css",
-              "DocumentMoniker": "C:\\Users\\kazik\\Downloads\\IGS-new-\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\gamePage.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\gamePage.css",
-              "ToolTip": "C:\\Users\\kazik\\Downloads\\IGS-new-\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\gamePage.css",
-              "RelativeToolTip": "wwwroot\\css\\gamePage.css",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAcwE0AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-19T14:02:58.359Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GamePage.cshtml",
-              "DocumentMoniker": "C:\\Users\\kazik\\Downloads\\IGS-new-\\IGS-new-\\Indie Game Space\\Project\\IGS\\Views\\GamePage\\GamePage.cshtml",
-              "RelativeDocumentMoniker": "Views\\GamePage\\GamePage.cshtml",
-              "ToolTip": "C:\\Users\\kazik\\Downloads\\IGS-new-\\IGS-new-\\Indie Game Space\\Project\\IGS\\Views\\GamePage\\GamePage.cshtml",
-              "RelativeToolTip": "Views\\GamePage\\GamePage.cshtml",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAADsAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-19T14:01:14.003Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "addGameForm.css",
-              "DocumentMoniker": "C:\\Users\\kazik\\Downloads\\IGS-new-\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\addGameForm.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\addGameForm.css",
-              "ToolTip": "C:\\Users\\kazik\\Downloads\\IGS-new-\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\addGameForm.css",
-              "RelativeToolTip": "wwwroot\\css\\addGameForm.css",
-              "ViewState": "AgIAALcAAAAAAAAAAAAcwMAAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-19T13:23:49.34Z",
-              "EditorCaption": ""
+              "Title": "AddGameFormController.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\Desktop\\IGS-new--main\\Indie Game Space\\Project\\IGS\\Controllers\\AddGameFormController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AddGameFormController.cs",
+              "ToolTip": "C:\\Users\\User1\\Desktop\\IGS-new--main\\Indie Game Space\\Project\\IGS\\Controllers\\AddGameFormController.cs",
+              "RelativeToolTip": "Controllers\\AddGameFormController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwD4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T20:33:23.416Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AddGameForm.cshtml",
-              "DocumentMoniker": "C:\\Users\\kazik\\Downloads\\IGS-new-\\IGS-new-\\Indie Game Space\\Project\\IGS\\Views\\AddGameForm\\AddGameForm.cshtml",
-              "RelativeDocumentMoniker": "Views\\AddGameForm\\AddGameForm.cshtml",
-              "ToolTip": "C:\\Users\\kazik\\Downloads\\IGS-new-\\IGS-new-\\Indie Game Space\\Project\\IGS\\Views\\AddGameForm\\AddGameForm.cshtml",
-              "RelativeToolTip": "Views\\AddGameForm\\AddGameForm.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAkwC8AAABZAAAAAAAAAA==",
+              "Title": "GamePage.cshtml",
+              "DocumentMoniker": "C:\\Users\\User1\\Desktop\\IGS-new--main\\Indie Game Space\\Project\\IGS\\Views\\GamePage\\GamePage.cshtml",
+              "RelativeDocumentMoniker": "Views\\GamePage\\GamePage.cshtml",
+              "ToolTip": "C:\\Users\\User1\\Desktop\\IGS-new--main\\Indie Game Space\\Project\\IGS\\Views\\GamePage\\GamePage.cshtml",
+              "RelativeToolTip": "Views\\GamePage\\GamePage.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAE4AAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-19T13:22:49.455Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T20:29:41.665Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "mainPage.css",
-              "DocumentMoniker": "C:\\Users\\kazik\\Downloads\\IGS-new-\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\mainPage.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\mainPage.css",
-              "ToolTip": "C:\\Users\\kazik\\Downloads\\IGS-new-\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\mainPage.css",
-              "RelativeToolTip": "wwwroot\\css\\mainPage.css",
-              "ViewState": "AgIAAKsAAAAAAAAAAAAcwLYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-19T12:31:04.933Z",
-              "EditorCaption": ""
+              "Title": "GamePageController.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\Desktop\\IGS-new--main\\Indie Game Space\\Project\\IGS\\Controllers\\GamePageController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GamePageController.cs",
+              "ToolTip": "C:\\Users\\User1\\Desktop\\IGS-new--main\\Indie Game Space\\Project\\IGS\\Controllers\\GamePageController.cs",
+              "RelativeToolTip": "Controllers\\GamePageController.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAgwHUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T20:22:18.27Z",
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -130,44 +106,76 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\kazik\\Downloads\\IGS-new-\\IGS-new-\\Indie Game Space\\Project\\IGS\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User1\\Desktop\\IGS-new--main\\Indie Game Space\\Project\\IGS\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\kazik\\Downloads\\IGS-new-\\IGS-new-\\Indie Game Space\\Project\\IGS\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User1\\Desktop\\IGS-new--main\\Indie Game Space\\Project\\IGS\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAAAE0AAABBAAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAAmwE0AAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-18T21:16:18.818Z",
+              "WhenOpened": "2025-03-21T09:13:27.353Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "GameRepository.cs",
-              "DocumentMoniker": "C:\\Users\\vrrrr\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IGS-new-\\Indie Game Space\\Project\\IGS.DAL\\Repositories\\GameRepository.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\vrrrr\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IGS-new-\\Indie Game Space\\Project\\IGS.DAL\\Repositories\\GameRepository.cs",
-              "ToolTip": "C:\\Users\\vrrrr\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IGS-new-\\Indie Game Space\\Project\\IGS.DAL\\Repositories\\GameRepository.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\vrrrr\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IGS-new-\\Indie Game Space\\Project\\IGS.DAL\\Repositories\\GameRepository.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAhwBcAAAAYAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "AddGameFormModel.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\Desktop\\IGS-new--main\\Indie Game Space\\Project\\IGS\\ViewModels\\AddGameFormModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\AddGameFormModel.cs",
+              "ToolTip": "C:\\Users\\User1\\Desktop\\IGS-new--main\\Indie Game Space\\Project\\IGS\\ViewModels\\AddGameFormModel.cs",
+              "RelativeToolTip": "ViewModels\\AddGameFormModel.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T21:07:56.533Z"
+              "WhenOpened": "2025-03-21T08:11:31.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddGameForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\User1\\Desktop\\IGS-new--main\\Indie Game Space\\Project\\IGS\\Views\\AddGameForm\\AddGameForm.cshtml",
+              "RelativeDocumentMoniker": "Views\\AddGameForm\\AddGameForm.cshtml",
+              "ToolTip": "C:\\Users\\User1\\Desktop\\IGS-new--main\\Indie Game Space\\Project\\IGS\\Views\\AddGameForm\\AddGameForm.cshtml",
+              "RelativeToolTip": "Views\\AddGameForm\\AddGameForm.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-21T08:13:14.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Games2.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\Desktop\\IGS-new--main\\Indie Game Space\\Project\\IGS.Domain\\Entity\\Games2.cs",
+              "RelativeDocumentMoniker": "..\\IGS.Domain\\Entity\\Games2.cs",
+              "ToolTip": "C:\\Users\\User1\\Desktop\\IGS-new--main\\Indie Game Space\\Project\\IGS.Domain\\Entity\\Games2.cs",
+              "RelativeToolTip": "..\\IGS.Domain\\Entity\\Games2.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T08:21:42.419Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\kazik\\Downloads\\IGS-new-\\IGS-new-\\Indie Game Space\\Project\\IGS\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\kazik\\Downloads\\IGS-new-\\IGS-new-\\Indie Game Space\\Project\\IGS\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwCAAAAARAAAAAAAAAA==",
+              "Title": "GameViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\Desktop\\IGS-new--main\\Indie Game Space\\Project\\IGS.Domain\\ViewModels\\Game\\GameViewModel.cs",
+              "RelativeDocumentMoniker": "..\\IGS.Domain\\ViewModels\\Game\\GameViewModel.cs",
+              "ToolTip": "C:\\Users\\User1\\Desktop\\IGS-new--main\\Indie Game Space\\Project\\IGS.Domain\\ViewModels\\Game\\GameViewModel.cs",
+              "RelativeToolTip": "..\\IGS.Domain\\ViewModels\\Game\\GameViewModel.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwA8AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T21:00:31.839Z"
+              "WhenOpened": "2025-03-21T08:26:39.749Z"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Games2.cs",
+              "DocumentMoniker": "C:\\Users\\vrrrr\\Downloads\\IGS-new--main\\Indie Game Space\\Project\\IGS.Domain\\Entity\\Games2.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\vrrrr\\Downloads\\IGS-new--main\\Indie Game Space\\Project\\IGS.Domain\\Entity\\Games2.cs",
+              "ToolTip": "C:\\Users\\vrrrr\\Downloads\\IGS-new--main\\Indie Game Space\\Project\\IGS.Domain\\Entity\\Games2.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\vrrrr\\Downloads\\IGS-new--main\\Indie Game Space\\Project\\IGS.Domain\\Entity\\Games2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T20:39:43.789Z"
             }
           ]
         }

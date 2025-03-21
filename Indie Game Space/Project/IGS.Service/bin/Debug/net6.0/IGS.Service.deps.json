@@ -358,7 +358,7 @@
         },
         "runtime": {
           "IGS.DAL.dll": {
-            "assemblyVersion": "1.0.0.0",
+            "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -370,7 +370,7 @@
         },
         "runtime": {
           "IGS.Domain.dll": {
-            "assemblyVersion": "1.0.0.0",
+            "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
         }

@@ -10,7 +10,11 @@ namespace IGS.Domain.Entity
         public string Name { get; set; }
         public string? Genre { get; set; }
         public string? ScrinshotName { get; set; }
+        public string? ScrinshotName2 { get; set; }
+        public string? ScrinshotName3 { get; set; }
         public string? Description { get; set; }
+
+        public string? LargeDescription { get; set; }
         public string? Creator { get; set; }
         public int? User_Id { get; set; }
         public string? Link { get; set; }
