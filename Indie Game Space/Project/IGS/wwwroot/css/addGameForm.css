@@ -121,6 +121,12 @@
     display: none;
 }
 
+.add-screenshots {
+    display: flex;
+    flex-direction: column;
+
+}
+
 .screenshots {
     position: relative;
 }
@@ -142,7 +148,7 @@
 
 .screenshots .custom-file-label {
     position: absolute;
-    top: 16%;
+    top: 0%;
     left: 0;
     background: #C2FF3F;
     color: black;
