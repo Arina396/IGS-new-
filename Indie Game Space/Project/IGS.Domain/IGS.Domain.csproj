@@ -5,6 +5,11 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Remove="ViewModels\Новая папка1\**" />
+    <EmbeddedResource Remove="ViewModels\Новая папка1\**" />
+    <None Remove="ViewModels\Новая папка1\**" />
+  </ItemGroup>
+  <ItemGroup>
     <PackageReference Include="DNTCaptcha.Core" Version="5.2.1" />
     <PackageReference Include="MailKit" Version="4.4.0" />
   </ItemGroup>

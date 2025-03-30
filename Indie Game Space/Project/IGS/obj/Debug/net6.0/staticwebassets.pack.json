@@ -1,688 +1,700 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\IGS.bundle.scp.css",
-      "PackagePath": "staticwebassets\\IGS.86zj03e9xm.bundle.scp.css"
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\IGS.bundle.scp.css",
+      "PackagePath": "staticwebassets\\IGS.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\Games\\igra1.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\Games\\igra1.png",
       "PackagePath": "staticwebassets\\Games\\igra1.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\Games\\igra10.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\Games\\igra10.png",
       "PackagePath": "staticwebassets\\Games\\igra10.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\Games\\igra11.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\Games\\igra11.png",
       "PackagePath": "staticwebassets\\Games\\igra11.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\Games\\igra12.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\Games\\igra12.png",
       "PackagePath": "staticwebassets\\Games\\igra12.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\Games\\igra13.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\Games\\igra13.png",
       "PackagePath": "staticwebassets\\Games\\igra13.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\Games\\igra2.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\Games\\igra2.png",
       "PackagePath": "staticwebassets\\Games\\igra2.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\Games\\igra3.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\Games\\igra3.png",
       "PackagePath": "staticwebassets\\Games\\igra3.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\Games\\igra4.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\Games\\igra4.png",
       "PackagePath": "staticwebassets\\Games\\igra4.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\Games\\igra6.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\Games\\igra6.png",
       "PackagePath": "staticwebassets\\Games\\igra6.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\Games\\igra7.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\Games\\igra7.png",
       "PackagePath": "staticwebassets\\Games\\igra7.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\Games\\igra8.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\Games\\igra8.png",
       "PackagePath": "staticwebassets\\Games\\igra8.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\Games\\igra9.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\Games\\igra9.png",
       "PackagePath": "staticwebassets\\Games\\igra9.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\addGameForm.css",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\addGameForm.css",
       "PackagePath": "staticwebassets\\css\\addGameForm.css"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\deletePage.css",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\deletePage.css",
       "PackagePath": "staticwebassets\\css\\deletePage.css"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\gamePage.css",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\gamePage.css",
       "PackagePath": "staticwebassets\\css\\gamePage.css"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\jamPage.css",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\jamPage.css",
       "PackagePath": "staticwebassets\\css\\jamPage.css"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\jamPoster.css",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\jamPoster.css",
       "PackagePath": "staticwebassets\\css\\jamPoster.css"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\jamRegistration.css",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\jamRegistration.css",
       "PackagePath": "staticwebassets\\css\\jamRegistration.css"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\mainPage.css",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\mainPage.css",
       "PackagePath": "staticwebassets\\css\\mainPage.css"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\profileComponent.css",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\profileComponent.css",
       "PackagePath": "staticwebassets\\css\\profileComponent.css"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\profilePage.css",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\profilePage.css",
       "PackagePath": "staticwebassets\\css\\profilePage.css"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\registerPage.css",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\registerPage.css",
       "PackagePath": "staticwebassets\\css\\registerPage.css"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\safetyPage.css",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\safetyPage.css",
       "PackagePath": "staticwebassets\\css\\safetyPage.css"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\settingsPage.css",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\settingsPage.css",
       "PackagePath": "staticwebassets\\css\\settingsPage.css"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\0296eb24-e6fc-4f48-878e-1a493ba4567e_igra12.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\0296eb24-e6fc-4f48-878e-1a493ba4567e_igra12.png",
       "PackagePath": "staticwebassets\\img\\0296eb24-e6fc-4f48-878e-1a493ba4567e_igra12.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\04f369ca-2fd6-4827-abe1-4f971e053e91_igra10.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\04f369ca-2fd6-4827-abe1-4f971e053e91_igra10.png",
       "PackagePath": "staticwebassets\\img\\04f369ca-2fd6-4827-abe1-4f971e053e91_igra10.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\088638bb-df58-4773-8293-5c65b67247d9_обои хром.jpg",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\088638bb-df58-4773-8293-5c65b67247d9_обои хром.jpg",
       "PackagePath": "staticwebassets\\img\\088638bb-df58-4773-8293-5c65b67247d9_обои хром.jpg"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\0892a8a5-4461-4391-8a85-87095ebd2e1a_keqing.jpg",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\0892a8a5-4461-4391-8a85-87095ebd2e1a_keqing.jpg",
       "PackagePath": "staticwebassets\\img\\0892a8a5-4461-4391-8a85-87095ebd2e1a_keqing.jpg"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\16b9578d-d63c-41a6-a1d4-9f330ff0b02c_igra11.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\16b9578d-d63c-41a6-a1d4-9f330ff0b02c_igra11.png",
       "PackagePath": "staticwebassets\\img\\16b9578d-d63c-41a6-a1d4-9f330ff0b02c_igra11.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\18ca971b-c6e9-4d49-bd17-5172f596f86d_igra11.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\18ca971b-c6e9-4d49-bd17-5172f596f86d_igra11.png",
       "PackagePath": "staticwebassets\\img\\18ca971b-c6e9-4d49-bd17-5172f596f86d_igra11.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\2dbfc7e8-274e-4d98-9772-a77b4f3a85a8_igra11.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\2dbfc7e8-274e-4d98-9772-a77b4f3a85a8_igra11.png",
       "PackagePath": "staticwebassets\\img\\2dbfc7e8-274e-4d98-9772-a77b4f3a85a8_igra11.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\396c23da-c87f-4008-8644-c7775874505e_igra13.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\396c23da-c87f-4008-8644-c7775874505e_igra13.png",
       "PackagePath": "staticwebassets\\img\\396c23da-c87f-4008-8644-c7775874505e_igra13.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\3cdb5222-e2dc-4c91-88e1-36724c356d12_igra10.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\3cdb5222-e2dc-4c91-88e1-36724c356d12_igra10.png",
       "PackagePath": "staticwebassets\\img\\3cdb5222-e2dc-4c91-88e1-36724c356d12_igra10.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\43e96267-de5f-4f5a-a87e-3a771ec42f70_igra9.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\43e96267-de5f-4f5a-a87e-3a771ec42f70_igra9.png",
       "PackagePath": "staticwebassets\\img\\43e96267-de5f-4f5a-a87e-3a771ec42f70_igra9.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\53a0c58f-da7a-4b13-a56c-4f3500ccb8b6_Resurs_16.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\53a0c58f-da7a-4b13-a56c-4f3500ccb8b6_Resurs_16.png",
       "PackagePath": "staticwebassets\\img\\53a0c58f-da7a-4b13-a56c-4f3500ccb8b6_Resurs_16.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\53d7c4b0-1e75-4f91-bab0-1c158027163d_igra12.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\53d7c4b0-1e75-4f91-bab0-1c158027163d_igra12.png",
       "PackagePath": "staticwebassets\\img\\53d7c4b0-1e75-4f91-bab0-1c158027163d_igra12.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\5a0130ce-bf7d-4658-850b-6b3e72a49f68_keqing.jpg",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\5a0130ce-bf7d-4658-850b-6b3e72a49f68_keqing.jpg",
       "PackagePath": "staticwebassets\\img\\5a0130ce-bf7d-4658-850b-6b3e72a49f68_keqing.jpg"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\5a11c9b5-e072-4d3e-a31e-693c487f68cc_Resurs_16.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\5a11c9b5-e072-4d3e-a31e-693c487f68cc_Resurs_16.png",
       "PackagePath": "staticwebassets\\img\\5a11c9b5-e072-4d3e-a31e-693c487f68cc_Resurs_16.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\6a844708-e77a-4ae5-88ec-7dc8c22ac0eb_igra9.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\62800e98-5d7d-4699-bb69-433dada1552c_прозрачный фон для стима.png",
+      "PackagePath": "staticwebassets\\img\\62800e98-5d7d-4699-bb69-433dada1552c_прозрачный фон для стима.png"
+    },
+    {
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\6a844708-e77a-4ae5-88ec-7dc8c22ac0eb_igra9.png",
       "PackagePath": "staticwebassets\\img\\6a844708-e77a-4ae5-88ec-7dc8c22ac0eb_igra9.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\6b654a32-37d5-4848-adad-5113b99e73b8_igra10.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\6b654a32-37d5-4848-adad-5113b99e73b8_igra10.png",
       "PackagePath": "staticwebassets\\img\\6b654a32-37d5-4848-adad-5113b99e73b8_igra10.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\6e4b8e8e-b35a-46a5-94e5-39e871602cb4_igra12.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\6e4b8e8e-b35a-46a5-94e5-39e871602cb4_igra12.png",
       "PackagePath": "staticwebassets\\img\\6e4b8e8e-b35a-46a5-94e5-39e871602cb4_igra12.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\749ba759-984d-427d-9659-e2fc197ab1a6_igra10.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\749ba759-984d-427d-9659-e2fc197ab1a6_igra10.png",
       "PackagePath": "staticwebassets\\img\\749ba759-984d-427d-9659-e2fc197ab1a6_igra10.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\75d25188-ac02-4a9f-be22-791bece99e86_igra11.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\75d25188-ac02-4a9f-be22-791bece99e86_igra11.png",
       "PackagePath": "staticwebassets\\img\\75d25188-ac02-4a9f-be22-791bece99e86_igra11.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\82ab1205-8824-4eb8-9ccc-ce658c3dcd06_igra13.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\82ab1205-8824-4eb8-9ccc-ce658c3dcd06_igra13.png",
       "PackagePath": "staticwebassets\\img\\82ab1205-8824-4eb8-9ccc-ce658c3dcd06_igra13.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\82c62a08-1115-4958-b264-416500645d87_igra9.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\82c62a08-1115-4958-b264-416500645d87_igra9.png",
       "PackagePath": "staticwebassets\\img\\82c62a08-1115-4958-b264-416500645d87_igra9.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\88bdf60d-96a7-4d22-951f-2adab8ba3888_igra10.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\88bdf60d-96a7-4d22-951f-2adab8ba3888_igra10.png",
       "PackagePath": "staticwebassets\\img\\88bdf60d-96a7-4d22-951f-2adab8ba3888_igra10.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\93ad64aa-49e9-4ae7-a0b1-c525510a773f_Resurs_16.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\93ad64aa-49e9-4ae7-a0b1-c525510a773f_Resurs_16.png",
       "PackagePath": "staticwebassets\\img\\93ad64aa-49e9-4ae7-a0b1-c525510a773f_Resurs_16.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\965961ea-0a8d-47ba-ac46-25400259d1aa_igra9.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\965961ea-0a8d-47ba-ac46-25400259d1aa_igra9.png",
       "PackagePath": "staticwebassets\\img\\965961ea-0a8d-47ba-ac46-25400259d1aa_igra9.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\99487a26-5581-4698-846d-0c38adfa8d5f_igra9.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\99487a26-5581-4698-846d-0c38adfa8d5f_igra9.png",
       "PackagePath": "staticwebassets\\img\\99487a26-5581-4698-846d-0c38adfa8d5f_igra9.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\9aeca637-9255-4a58-a21b-24f1300bb148_обои windows.jpg",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\9aeca637-9255-4a58-a21b-24f1300bb148_обои windows.jpg",
       "PackagePath": "staticwebassets\\img\\9aeca637-9255-4a58-a21b-24f1300bb148_обои windows.jpg"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\9fff868b-7bc3-41bc-9f74-f48dfeec4f3a_igra13.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\9fff868b-7bc3-41bc-9f74-f48dfeec4f3a_igra13.png",
       "PackagePath": "staticwebassets\\img\\9fff868b-7bc3-41bc-9f74-f48dfeec4f3a_igra13.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\JamPreviewPlug.svg",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\JamPreviewPlug.svg",
       "PackagePath": "staticwebassets\\img\\JamPreviewPlug.svg"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\JamPreviewPlug2.svg",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\JamPreviewPlug2.svg",
       "PackagePath": "staticwebassets\\img\\JamPreviewPlug2.svg"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\JamPreviewPlug3.svg",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\JamPreviewPlug3.svg",
       "PackagePath": "staticwebassets\\img\\JamPreviewPlug3.svg"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\JamPreviewPlug4.svg",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\JamPreviewPlug4.svg",
       "PackagePath": "staticwebassets\\img\\JamPreviewPlug4.svg"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\SendCommentBtn.svg",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\SendCommentBtn.svg",
       "PackagePath": "staticwebassets\\img\\SendCommentBtn.svg"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\a7f198ea-672a-4fb0-9abb-041fe150aa23_remava.jpg",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\a7f198ea-672a-4fb0-9abb-041fe150aa23_remava.jpg",
       "PackagePath": "staticwebassets\\img\\a7f198ea-672a-4fb0-9abb-041fe150aa23_remava.jpg"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\ae6584d0-20b0-417f-bb80-0a3548929c64_igra11.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\ae6584d0-20b0-417f-bb80-0a3548929c64_igra11.png",
       "PackagePath": "staticwebassets\\img\\ae6584d0-20b0-417f-bb80-0a3548929c64_igra11.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\afd5984b-d54b-476f-bce4-235ae5d006cd_igra11.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\afd5984b-d54b-476f-bce4-235ae5d006cd_igra11.png",
       "PackagePath": "staticwebassets\\img\\afd5984b-d54b-476f-bce4-235ae5d006cd_igra11.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\arrow.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\arrow.png",
       "PackagePath": "staticwebassets\\img\\arrow.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\b2740f45-ad49-4b88-ab19-9e205d3895b3_igra10.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\b2740f45-ad49-4b88-ab19-9e205d3895b3_igra10.png",
       "PackagePath": "staticwebassets\\img\\b2740f45-ad49-4b88-ab19-9e205d3895b3_igra10.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\b9464a7d-8ee0-4d10-b948-c052c39ec0f5_igra10.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\b9464a7d-8ee0-4d10-b948-c052c39ec0f5_igra10.png",
       "PackagePath": "staticwebassets\\img\\b9464a7d-8ee0-4d10-b948-c052c39ec0f5_igra10.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\ba0df02d-8902-4540-bb3f-a11f9b097c96_igra11.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\ba0df02d-8902-4540-bb3f-a11f9b097c96_igra11.png",
       "PackagePath": "staticwebassets\\img\\ba0df02d-8902-4540-bb3f-a11f9b097c96_igra11.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\ba183e7c-8027-4be3-b18a-52f7d96c248f_Resurs_16.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\ba183e7c-8027-4be3-b18a-52f7d96c248f_Resurs_16.png",
       "PackagePath": "staticwebassets\\img\\ba183e7c-8027-4be3-b18a-52f7d96c248f_Resurs_16.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\bfc73ee8-f49b-4287-bdb9-55b7da84d4ec_jordan1.jpg",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\bf5707d2-9a17-482b-89c6-b2683ed6d22a_прозрачный фон для стима.png",
+      "PackagePath": "staticwebassets\\img\\bf5707d2-9a17-482b-89c6-b2683ed6d22a_прозрачный фон для стима.png"
+    },
+    {
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\bfc73ee8-f49b-4287-bdb9-55b7da84d4ec_jordan1.jpg",
       "PackagePath": "staticwebassets\\img\\bfc73ee8-f49b-4287-bdb9-55b7da84d4ec_jordan1.jpg"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\c471438d-4a70-4f95-be08-f86d2da240f2_igra10.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\c471438d-4a70-4f95-be08-f86d2da240f2_igra10.png",
       "PackagePath": "staticwebassets\\img\\c471438d-4a70-4f95-be08-f86d2da240f2_igra10.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\c4840c12-dda1-4816-a506-2faa9b7fc6a8_igra12.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\c4840c12-dda1-4816-a506-2faa9b7fc6a8_igra12.png",
       "PackagePath": "staticwebassets\\img\\c4840c12-dda1-4816-a506-2faa9b7fc6a8_igra12.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\carousel-plug.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\carousel-plug.png",
       "PackagePath": "staticwebassets\\img\\carousel-plug.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\ce5ad5f5-8d04-4c3a-9603-f948df656f21_igra9.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\ce5ad5f5-8d04-4c3a-9603-f948df656f21_igra9.png",
       "PackagePath": "staticwebassets\\img\\ce5ad5f5-8d04-4c3a-9603-f948df656f21_igra9.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\cf49eafa-5e22-4453-81fe-a1b475927270_force1.jpg",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\cf49eafa-5e22-4453-81fe-a1b475927270_force1.jpg",
       "PackagePath": "staticwebassets\\img\\cf49eafa-5e22-4453-81fe-a1b475927270_force1.jpg"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\d116a50e-32be-4659-83db-0349828eeeb3_igra12.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\d116a50e-32be-4659-83db-0349828eeeb3_igra12.png",
       "PackagePath": "staticwebassets\\img\\d116a50e-32be-4659-83db-0349828eeeb3_igra12.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\d2a60228-f8f8-47fd-a334-2a95a877be94_force2.jpg",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\d2a60228-f8f8-47fd-a334-2a95a877be94_force2.jpg",
       "PackagePath": "staticwebassets\\img\\d2a60228-f8f8-47fd-a334-2a95a877be94_force2.jpg"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\d82fb186-f9f8-4ab8-9d84-c6e5e4fbc8e6_igra13.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\d82fb186-f9f8-4ab8-9d84-c6e5e4fbc8e6_igra13.png",
       "PackagePath": "staticwebassets\\img\\d82fb186-f9f8-4ab8-9d84-c6e5e4fbc8e6_igra13.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\dec83cd9-6970-48db-812a-6ff3a2ed96a0_igra10.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\dec83cd9-6970-48db-812a-6ff3a2ed96a0_igra10.png",
       "PackagePath": "staticwebassets\\img\\dec83cd9-6970-48db-812a-6ff3a2ed96a0_igra10.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\df6775b6-27ef-4e77-9d2f-ef0d95bee0cc_igra11.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\df6775b6-27ef-4e77-9d2f-ef0d95bee0cc_igra11.png",
       "PackagePath": "staticwebassets\\img\\df6775b6-27ef-4e77-9d2f-ef0d95bee0cc_igra11.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\e273ec90-2799-4299-a3b9-bafffbe657e0_igra10.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\e1f50fb2-e030-4a5e-aca2-5d4cfa7dcc40_прозрачный фон для стима.png",
+      "PackagePath": "staticwebassets\\img\\e1f50fb2-e030-4a5e-aca2-5d4cfa7dcc40_прозрачный фон для стима.png"
+    },
+    {
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\e273ec90-2799-4299-a3b9-bafffbe657e0_igra10.png",
       "PackagePath": "staticwebassets\\img\\e273ec90-2799-4299-a3b9-bafffbe657e0_igra10.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\ea5ca042-fc98-4d92-949a-1dd951669b0e_igra12.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\ea5ca042-fc98-4d92-949a-1dd951669b0e_igra12.png",
       "PackagePath": "staticwebassets\\img\\ea5ca042-fc98-4d92-949a-1dd951669b0e_igra12.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\ed4da9f5-01d6-46bf-86cb-b62c9181a060_igra10.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\eb09b39a-0bd4-40f3-90c1-9b613202b1b9_прозрачный фон для стима.png",
+      "PackagePath": "staticwebassets\\img\\eb09b39a-0bd4-40f3-90c1-9b613202b1b9_прозрачный фон для стима.png"
+    },
+    {
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\ed4da9f5-01d6-46bf-86cb-b62c9181a060_igra10.png",
       "PackagePath": "staticwebassets\\img\\ed4da9f5-01d6-46bf-86cb-b62c9181a060_igra10.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\ef28159f-4508-48a8-b913-4617f645db32_remava.jpg",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\ef28159f-4508-48a8-b913-4617f645db32_remava.jpg",
       "PackagePath": "staticwebassets\\img\\ef28159f-4508-48a8-b913-4617f645db32_remava.jpg"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\f583db51-47f3-4c03-8799-491e2a756732_обои windows.jpg",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\f583db51-47f3-4c03-8799-491e2a756732_обои windows.jpg",
       "PackagePath": "staticwebassets\\img\\f583db51-47f3-4c03-8799-491e2a756732_обои windows.jpg"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\f59ad3aa-bf38-406f-855a-0d94e56ea253_igra11.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\f59ad3aa-bf38-406f-855a-0d94e56ea253_igra11.png",
       "PackagePath": "staticwebassets\\img\\f59ad3aa-bf38-406f-855a-0d94e56ea253_igra11.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\f7003f6a-6d06-4db8-a48a-e85e61c76ecd_igra10.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\f7003f6a-6d06-4db8-a48a-e85e61c76ecd_igra10.png",
       "PackagePath": "staticwebassets\\img\\f7003f6a-6d06-4db8-a48a-e85e61c76ecd_igra10.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\faf9fbf6-a4d8-41be-bfeb-f2ff18231568_igra10.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\faf9fbf6-a4d8-41be-bfeb-f2ff18231568_igra10.png",
       "PackagePath": "staticwebassets\\img\\faf9fbf6-a4d8-41be-bfeb-f2ff18231568_igra10.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\fc6a8603-737a-4f74-9612-eb93c075e67d_force1.jpg",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\fc6a8603-737a-4f74-9612-eb93c075e67d_force1.jpg",
       "PackagePath": "staticwebassets\\img\\fc6a8603-737a-4f74-9612-eb93c075e67d_force1.jpg"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\find.icon.ico",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\find.icon.ico",
       "PackagePath": "staticwebassets\\img\\find.icon.ico"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\game-gallery-plug.svg",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\game-gallery-plug.svg",
       "PackagePath": "staticwebassets\\img\\game-gallery-plug.svg"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\gitLogo.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\gitLogo.png",
       "PackagePath": "staticwebassets\\img\\gitLogo.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\link-image.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\link-image.png",
       "PackagePath": "staticwebassets\\img\\link-image.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\logo-game-plug.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\logo-game-plug.png",
       "PackagePath": "staticwebassets\\img\\logo-game-plug.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\logo.jpg",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\logo.jpg",
       "PackagePath": "staticwebassets\\img\\logo.jpg"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\logo2.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\logo2.png",
       "PackagePath": "staticwebassets\\img\\logo2.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\rek1.jpg",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\rek1.jpg",
       "PackagePath": "staticwebassets\\img\\rek1.jpg"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\rek2.jpg",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\rek2.jpg",
       "PackagePath": "staticwebassets\\img\\rek2.jpg"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\rek3.jpg",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\rek3.jpg",
       "PackagePath": "staticwebassets\\img\\rek3.jpg"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\right-arrow.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\right-arrow.png",
       "PackagePath": "staticwebassets\\img\\right-arrow.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\select-bg.svg",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\select-bg.svg",
       "PackagePath": "staticwebassets\\img\\select-bg.svg"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\star-checked.svg",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\star-checked.svg",
       "PackagePath": "staticwebassets\\img\\star-checked.svg"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\star-unchecked.svg",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\star-unchecked.svg",
       "PackagePath": "staticwebassets\\img\\star-unchecked.svg"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\star.svg",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\star.svg",
       "PackagePath": "staticwebassets\\img\\star.svg"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\tg1.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\tg1.png",
       "PackagePath": "staticwebassets\\img\\tg1.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\tg2.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\tg2.png",
       "PackagePath": "staticwebassets\\img\\tg2.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\user-icon.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\user-icon.png",
       "PackagePath": "staticwebassets\\img\\user-icon.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\vk.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\vk.png",
       "PackagePath": "staticwebassets\\img\\vk.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\vk1.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\vk1.png",
       "PackagePath": "staticwebassets\\img\\vk1.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\wing.png",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\wing.png",
       "PackagePath": "staticwebassets\\img\\wing.png"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\фон.jpg",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\img\\фон.jpg",
       "PackagePath": "staticwebassets\\img\\фон.jpg"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\js\\three.js",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\js\\three.js",
       "PackagePath": "staticwebassets\\js\\three.js"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\Three.js",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\Three.js",
       "PackagePath": "staticwebassets\\lib\\Three.js"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "C:\\Users\\kazik\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\three.cjs",
+      "Id": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\wwwroot\\lib\\three.cjs",
       "PackagePath": "staticwebassets\\lib\\three.cjs"
-    },
-    {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.IGS.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
-      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.IGS.Microsoft.AspNetCore.StaticWebAssets.props",

@@ -19,6 +19,7 @@ namespace IGS.DAL
             var connectionString = Configuration.GetConnectionString("WebApiDatabase");
             options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString));
         }
+        public DbSet<JamTeam> JamTeam { get; set; }
 
         public DbSet<User> User { get; set; }
 

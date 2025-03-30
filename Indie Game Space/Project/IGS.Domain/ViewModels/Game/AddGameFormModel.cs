@@ -2,7 +2,7 @@
 using System.ComponentModel.DataAnnotations;
 
 
-namespace IGS.ViewModels
+namespace IGS.Domain.ViewModels.Game
 {
     public class AddGameFormModel
     {

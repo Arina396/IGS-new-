@@ -1,12 +1,30 @@
-﻿@model IGS.Views.JamRegistration.IndexModel
+﻿@model IGS.Domain.ViewModels.Jam.JamRegistrationModel
 <link rel="stylesheet" href="~/css/jamRegistration.css" asp-append-version="true" />
-@{
-}
 
-<form action="/" method="post" class="regForm">
+<form asp-action="JamRegistration" method="post" class="regForm">
     <h1>Регистрация на джем</h1>
-    <input type="text" name="nameOfTeam" placeholder="Название команды" />    
-    <input type="text" name="nameOfCapitan" placeholder="Ник капитана" />    
-    <input type="text" name="membersOfTeam" placeholder="Ники остальных участников (через запятую)" />    
-    <button type="submit" value="Участвовать"  class="btn">Участвовать</button>
+
+    <!-- Сводка валидации -->
+    <div asp-validation-summary="All" class="text-danger"></div>
+
+    <!-- Название команды -->
+    <div>
+        <input asp-for="NameOfTeam" placeholder="Введите название команды" />
+        <span asp-validation-for="NameOfTeam" class="text-danger"></span>
+    </div>
+
+    <!-- Ник капитана -->
+    <div>
+        <input asp-for="NameOfCapitan" placeholder="Введите ник капитана" />
+        <span asp-validation-for="NameOfCapitan" class="text-danger"></span>
+    </div>
+
+    <!-- Ники участников -->
+    <div>
+        <input asp-for="MembersOfTeam" placeholder="Введите ники участников" />
+        <span asp-validation-for="MembersOfTeam" class="text-danger"></span>
+    </div>
+
+    <!-- Кнопка отправки -->
+    <button type="submit" class="btn">Участвовать</button>
 </form>

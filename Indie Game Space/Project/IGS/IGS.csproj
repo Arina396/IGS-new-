@@ -35,4 +35,7 @@
     <None Include="wwwroot\lib\Three.js" />
     <None Include="wwwroot\scripts\main.js" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="ViewModels\" />
+  </ItemGroup>
 </Project>

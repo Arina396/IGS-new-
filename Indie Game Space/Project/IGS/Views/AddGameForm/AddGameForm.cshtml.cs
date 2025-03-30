@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace IGS.Views.AddGameForm
+namespace IGS.Domain.ViewModels.Game.AddGameForm
 {
     public class AddGameFormModel : PageModel
     {

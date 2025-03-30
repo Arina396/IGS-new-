@@ -1,6 +1,8 @@
 ﻿using IGS.DAL;
+using IGS.DAL.Interfaces; // Добавьте пространство имен для IUserRepository
 using IGS.Domain.Entity;
-using IGS.ViewModels;
+using IGS.Domain.ViewModels.Game;
+using Microsoft.AspNetCore.Authorization; // Для атрибута [Authorize]
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -15,11 +17,14 @@ namespace IGS.Controllers
     {
         private readonly ApplicationDbContext _context;
         private readonly IWebHostEnvironment _environment;
+        private readonly IUserRepository _userRepository; // Добавляем зависимость
 
-        public AddGameFormController(ApplicationDbContext context, IWebHostEnvironment environment)
+        // Обновляем конструктор
+        public AddGameFormController(ApplicationDbContext context, IWebHostEnvironment environment, IUserRepository userRepository)
         {
             _context = context;
             _environment = environment;
+            _userRepository = userRepository;
         }
 
         // GET: Отображение формы добавления игры
@@ -30,13 +35,24 @@ namespace IGS.Controllers
 
         // POST: Обработка отправки формы
         [HttpPost]
+        [Authorize] // Добавляем атрибут для ограничения доступа
         public async Task<IActionResult> AddGameForm(AddGameFormModel model)
         {
             if (ModelState.IsValid)
             {
                 try
                 {
-                    // Сохранение файлов (обложка и скриншот)
+                    // Получение логина текущего пользователя
+                    var userLogin = User.Identity.Name;
+                    var user = await _userRepository.GetByLogin(userLogin);
+
+                    // Проверка, найден ли пользователь
+                    if (user == null)
+                    {
+                        return Unauthorized(); // Возвращаем ошибку, если пользователь не найден
+                    }
+
+                    // Сохранение файлов (обложка и скриншоты)
                     string coverFileName = await SaveFileAsync(model.Cover);
                     string screenshotFileName = await SaveFileAsync(model.Screenshot);
                     string screenshotFileName2 = await SaveFileAsync(model.Screenshot2);
@@ -45,18 +61,17 @@ namespace IGS.Controllers
                     // Создание объекта игры
                     var game = new Games2
                     {
-                 
                         Name = model.Name,
                         Description = model.ShortDescription,
                         LargeDescription = model.AdditionalDescription,
-                        Creator = model.Creator, // Замените на актуальное значение
+                        Creator = model.Creator,
                         ImageName = coverFileName,
-                        Genre = model.Genre, // Замените на актуальное значение
+                        Genre = model.Genre,
                         ScrinshotName = screenshotFileName,
                         ScrinshotName2 = screenshotFileName2,
                         ScrinshotName3 = screenshotFileName3,
-                        Link = model.Link, // Замените на актуальное значение
-                        User_Id = 7// Замените на актуальное значение
+                        Link = model.Link,
+                        User_Id = user.Id // Используем Id текущего пользователя
                     };
 
                     // Сохранение данных в базу данных
