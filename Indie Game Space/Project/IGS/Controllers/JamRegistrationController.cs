@@ -71,7 +71,7 @@ namespace IGS.Controllers
 
                     // Успешное завершение
                     Console.WriteLine("Регистрация прошла успешно.");
-                    return RedirectToAction("Index", "Home");
+                    TempData["SuccessMessage"] = "Регистрация на джем прошла успешно!";
                 }
                 catch (Exception ex)
                 {

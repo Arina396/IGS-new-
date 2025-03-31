@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "BZjhbwqQIc8=",
+  "dgSpecHash": "fX29gWY36XE=",
   "success": true,
   "projectFilePath": "C:\\Users\\User1\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS.Domain\\IGS.Domain.csproj",
   "expectedPackageFiles": [
@@ -19,9 +19,9 @@
     "C:\\Users\\User1\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\User1\\.nuget\\packages\\system.security.cryptography.pkcs\\8.0.0\\system.security.cryptography.pkcs.8.0.0.nupkg.sha512",
     "C:\\Users\\User1\\.nuget\\packages\\system.text.encoding.codepages\\8.0.0\\system.text.encoding.codepages.8.0.0.nupkg.sha512",
-    "C:\\Users\\User1\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\User1\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\User1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+    "C:\\Users\\User1\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.33\\microsoft.windowsdesktop.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\User1\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.33\\microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\User1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.33\\microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512"
   ],
   "logs": []
 }

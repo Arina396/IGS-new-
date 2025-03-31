@@ -4,6 +4,13 @@
 <form asp-action="JamRegistration" method="post" class="regForm">
     <h1>Регистрация на джем</h1>
 
+    @if (TempData["SuccessMessage"] != null)
+    {
+        <div class="alert alert-success">
+            @TempData["SuccessMessage"]
+        </div>
+    }
+
     <!-- Сводка валидации -->
     <div asp-validation-summary="All" class="text-danger"></div>
 
