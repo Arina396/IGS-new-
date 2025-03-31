@@ -18,7 +18,17 @@
     height: auto;
 }
 
-.jam-preview{
+.img-class-wrapper {
+    width: 100px;
+    height: 100px;
+}
+
+.img-class{
+    object-fit: cover;
+    object-position: center;
+}
+
+.jam-preview {
     width: 45%;
 }
 

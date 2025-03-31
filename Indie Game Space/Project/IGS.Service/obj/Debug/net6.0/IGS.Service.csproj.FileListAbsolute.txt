@@ -190,3 +190,4 @@ C:\Users\User1\Desktop\IGS-new--main\Indie Game Space\Project\IGS.Service\obj\De
 C:\Users\User1\Desktop\IGS-new--main\Indie Game Space\Project\IGS.Service\obj\Debug\net6.0\refint\IGS.Service.dll
 C:\Users\User1\Desktop\IGS-new--main\Indie Game Space\Project\IGS.Service\obj\Debug\net6.0\IGS.Service.pdb
 C:\Users\User1\Desktop\IGS-new--main\Indie Game Space\Project\IGS.Service\obj\Debug\net6.0\ref\IGS.Service.dll
+C:\Users\User1\Desktop\IGS-new-\Indie Game Space\Project\IGS.Service\obj\Debug\net6.0\IGS.Service.sourcelink.json

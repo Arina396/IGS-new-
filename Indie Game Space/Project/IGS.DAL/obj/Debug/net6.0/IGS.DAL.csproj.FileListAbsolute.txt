@@ -168,3 +168,4 @@ C:\Users\User1\Desktop\IGS-new--main\Indie Game Space\Project\IGS.DAL\obj\Debug\
 C:\Users\User1\Desktop\IGS-new--main\Indie Game Space\Project\IGS.DAL\obj\Debug\net6.0\refint\IGS.DAL.dll
 C:\Users\User1\Desktop\IGS-new--main\Indie Game Space\Project\IGS.DAL\obj\Debug\net6.0\IGS.DAL.pdb
 C:\Users\User1\Desktop\IGS-new--main\Indie Game Space\Project\IGS.DAL\obj\Debug\net6.0\ref\IGS.DAL.dll
+C:\Users\User1\Desktop\IGS-new-\Indie Game Space\Project\IGS.DAL\obj\Debug\net6.0\IGS.DAL.sourcelink.json

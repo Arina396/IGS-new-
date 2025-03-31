@@ -11426,19 +11426,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Miku\\.nuget\\packages\\": {}
+    "C:\\Users\\User1\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\IGS.csproj",
+      "projectUniqueName": "C:\\Users\\User1\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\IGS.csproj",
       "projectName": "IGS",
-      "projectPath": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\IGS.csproj",
-      "packagesPath": "C:\\Users\\Miku\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS\\obj\\",
+      "projectPath": "C:\\Users\\User1\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\IGS.csproj",
+      "packagesPath": "C:\\Users\\User1\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User1\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Miku\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User1\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -11453,17 +11453,17 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS.DAL\\IGS.DAL.csproj": {
-              "projectPath": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS.DAL\\IGS.DAL.csproj"
+            "C:\\Users\\User1\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS.DAL\\IGS.DAL.csproj": {
+              "projectPath": "C:\\Users\\User1\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS.DAL\\IGS.DAL.csproj"
             },
-            "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS.Domain\\IGS.Domain.csproj": {
-              "projectPath": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS.Domain\\IGS.Domain.csproj"
+            "C:\\Users\\User1\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS.Domain\\IGS.Domain.csproj": {
+              "projectPath": "C:\\Users\\User1\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS.Domain\\IGS.Domain.csproj"
             },
-            "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS.Service\\IGS.Service.csproj": {
-              "projectPath": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS.Service\\IGS.Service.csproj"
+            "C:\\Users\\User1\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS.Service\\IGS.Service.csproj": {
+              "projectPath": "C:\\Users\\User1\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS.Service\\IGS.Service.csproj"
             },
-            "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS.WEB\\IGS.WEB.csproj": {
-              "projectPath": "C:\\Users\\Miku\\Documents\\GitHub\\IGS-new-\\Indie Game Space\\Project\\IGS.WEB\\IGS.WEB.csproj"
+            "C:\\Users\\User1\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS.WEB\\IGS.WEB.csproj": {
+              "projectPath": "C:\\Users\\User1\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS.WEB\\IGS.WEB.csproj"
             }
           }
         }
@@ -11477,7 +11477,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net6.0": {
@@ -11514,19 +11515,19 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.35, 6.0.35]"
+            "version": "[6.0.36, 6.0.36]"
           },
           {
             "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[6.0.35, 6.0.35]"
+            "version": "[6.0.36, 6.0.36]"
           },
           {
             "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.35, 6.0.35]"
+            "version": "[6.0.36, 6.0.36]"
           },
           {
             "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[6.0.35, 6.0.35]"
+            "version": "[6.0.36, 6.0.36]"
           }
         ],
         "frameworkReferences": {
@@ -11537,7 +11538,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

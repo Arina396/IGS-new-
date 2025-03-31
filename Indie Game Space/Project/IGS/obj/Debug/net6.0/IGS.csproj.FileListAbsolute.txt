@@ -2630,3 +2630,4 @@ C:\Users\User1\Desktop\IGS-new--main\Indie Game Space\Project\IGS\obj\Debug\net6
 C:\Users\User1\Desktop\IGS-new--main\Indie Game Space\Project\IGS\obj\Debug\net6.0\IGS.pdb
 C:\Users\User1\Desktop\IGS-new--main\Indie Game Space\Project\IGS\obj\Debug\net6.0\IGS.genruntimeconfig.cache
 C:\Users\User1\Desktop\IGS-new--main\Indie Game Space\Project\IGS\obj\Debug\net6.0\ref\IGS.dll
+C:\Users\User1\Desktop\IGS-new-\Indie Game Space\Project\IGS\obj\Debug\net6.0\IGS.sourcelink.json
