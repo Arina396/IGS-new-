@@ -5,95 +5,92 @@ build_property.UsingMicrosoftNETSdkWeb = true
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
-build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = IGS
 build_property.RootNamespace = IGS
-build_property.ProjectDir = C:\Users\User1\Desktop\IGS-new-\Indie Game Space\Project\IGS\
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.ProjectDir = /root/IGS-new-/Indie Game Space/Project/IGS/
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\User1\Desktop\IGS-new-\Indie Game Space\Project\IGS
+build_property.MSBuildProjectDirectory = /root/IGS-new-/Indie Game Space/Project/IGS
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/User1/Desktop/IGS-new-/Indie Game Space/Project/IGS/Views/Account/Login.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+[/root/IGS-new-/Indie Game Space/Project/IGS/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9Mb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User1/Desktop/IGS-new-/Indie Game Space/Project/IGS/Views/Account/Register.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+[/root/IGS-new-/Indie Game Space/Project/IGS/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9SZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User1/Desktop/IGS-new-/Indie Game Space/Project/IGS/Views/AddGameForm/AddGameForm.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRkR2FtZUZvcm1cQWRkR2FtZUZvcm0uY3NodG1s
+[/root/IGS-new-/Indie Game Space/Project/IGS/Views/AddGameForm/AddGameForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRkR2FtZUZvcm0vQWRkR2FtZUZvcm0uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User1/Desktop/IGS-new-/Indie Game Space/Project/IGS/Views/GamePage/GamePage.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZVBhZ2VcR2FtZVBhZ2UuY3NodG1s
+[/root/IGS-new-/Indie Game Space/Project/IGS/Views/GamePage/GamePage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvR2FtZVBhZ2UvR2FtZVBhZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User1/Desktop/IGS-new-/Indie Game Space/Project/IGS/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[/root/IGS-new-/Indie Game Space/Project/IGS/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User1/Desktop/IGS-new-/Indie Game Space/Project/IGS/Views/Home/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfVmlld0ltcG9ydHMuY3NodG1s
+[/root/IGS-new-/Indie Game Space/Project/IGS/Views/Home/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9fVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User1/Desktop/IGS-new-/Indie Game Space/Project/IGS/Views/JamPage/JamPage.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSmFtUGFnZVxKYW1QYWdlLmNzaHRtbA==
+[/root/IGS-new-/Indie Game Space/Project/IGS/Views/JamPage/JamPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSmFtUGFnZS9KYW1QYWdlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User1/Desktop/IGS-new-/Indie Game Space/Project/IGS/Views/JamPoster/JamPoster.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSmFtUG9zdGVyXEphbVBvc3Rlci5jc2h0bWw=
+[/root/IGS-new-/Indie Game Space/Project/IGS/Views/JamPoster/JamPoster.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSmFtUG9zdGVyL0phbVBvc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User1/Desktop/IGS-new-/Indie Game Space/Project/IGS/Views/JamRegistration/JamRegistration.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSmFtUmVnaXN0cmF0aW9uXEphbVJlZ2lzdHJhdGlvbi5jc2h0bWw=
+[/root/IGS-new-/Indie Game Space/Project/IGS/Views/JamRegistration/JamRegistration.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSmFtUmVnaXN0cmF0aW9uL0phbVJlZ2lzdHJhdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User1/Desktop/IGS-new-/Indie Game Space/Project/IGS/Views/Profile/Main.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZVxNYWluLmNzaHRtbA==
+[/root/IGS-new-/Indie Game Space/Project/IGS/Views/Profile/Main.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZmlsZS9NYWluLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User1/Desktop/IGS-new-/Indie Game Space/Project/IGS/Views/Settings/Settings.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2V0dGluZ3NcU2V0dGluZ3MuY3NodG1s
+[/root/IGS-new-/Indie Game Space/Project/IGS/Views/Settings/Settings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2V0dGluZ3MvU2V0dGluZ3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User1/Desktop/IGS-new-/Indie Game Space/Project/IGS/Views/Shared/Components/Confidentiality/Default.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ29uZmlkZW50aWFsaXR5XERlZmF1bHQuY3NodG1s
+[/root/IGS-new-/Indie Game Space/Project/IGS/Views/Shared/Components/Confidentiality/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvQ29uZmlkZW50aWFsaXR5L0RlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User1/Desktop/IGS-new-/Indie Game Space/Project/IGS/Views/Shared/Components/DeleteAccount/Default.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRGVsZXRlQWNjb3VudFxEZWZhdWx0LmNzaHRtbA==
+[/root/IGS-new-/Indie Game Space/Project/IGS/Views/Shared/Components/DeleteAccount/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvRGVsZXRlQWNjb3VudC9EZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User1/Desktop/IGS-new-/Indie Game Space/Project/IGS/Views/Shared/Components/Profile/Default.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUHJvZmlsZVxEZWZhdWx0LmNzaHRtbA==
+[/root/IGS-new-/Indie Game Space/Project/IGS/Views/Shared/Components/Profile/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvUHJvZmlsZS9EZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User1/Desktop/IGS-new-/Indie Game Space/Project/IGS/Views/Shared/Components/Safety/Default.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2FmZXR5XERlZmF1bHQuY3NodG1s
+[/root/IGS-new-/Indie Game Space/Project/IGS/Views/Shared/Components/Safety/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvU2FmZXR5L0RlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User1/Desktop/IGS-new-/Indie Game Space/Project/IGS/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+[/root/IGS-new-/Indie Game Space/Project/IGS/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User1/Desktop/IGS-new-/Indie Game Space/Project/IGS/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[/root/IGS-new-/Indie Game Space/Project/IGS/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User1/Desktop/IGS-new-/Indie Game Space/Project/IGS/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[/root/IGS-new-/Indie Game Space/Project/IGS/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User1/Desktop/IGS-new-/Indie Game Space/Project/IGS/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+[/root/IGS-new-/Indie Game Space/Project/IGS/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User1/Desktop/IGS-new-/Indie Game Space/Project/IGS/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-uocc5r0wtw
+[/root/IGS-new-/Indie Game Space/Project/IGS/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-h60mmnsvcv

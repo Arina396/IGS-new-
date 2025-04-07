@@ -1,28 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User1\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS.WEB\\IGS.WEB.csproj": {}
+    "/root/IGS-new-/Indie Game Space/Project/IGS.WEB/IGS.WEB.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User1\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS.WEB\\IGS.WEB.csproj": {
+    "/root/IGS-new-/Indie Game Space/Project/IGS.WEB/IGS.WEB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User1\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS.WEB\\IGS.WEB.csproj",
+        "projectUniqueName": "/root/IGS-new-/Indie Game Space/Project/IGS.WEB/IGS.WEB.csproj",
         "projectName": "IGS.WEB",
-        "projectPath": "C:\\Users\\User1\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS.WEB\\IGS.WEB.csproj",
-        "packagesPath": "C:\\Users\\User1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User1\\Desktop\\IGS-new-\\Indie Game Space\\Project\\IGS.WEB\\obj\\",
+        "projectPath": "/root/IGS-new-/Indie Game Space/Project/IGS.WEB/IGS.WEB.csproj",
+        "packagesPath": "/root/.nuget/packages/",
+        "outputPath": "/root/IGS-new-/Indie Game Space/Project/IGS.WEB/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User1\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/root/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -35,11 +32,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -50,9 +42,21 @@
               "target": "Package",
               "version": "[5.2.1, )"
             },
+            "HarfBuzzSharp.NativeAssets.Linux": {
+              "target": "Package",
+              "version": "[2.8.2.3, )"
+            },
             "MailKit": {
               "target": "Package",
               "version": "[4.4.0, )"
+            },
+            "SkiaSharp": {
+              "target": "Package",
+              "version": "[2.88.7, )"
+            },
+            "SkiaSharp.NativeAssets.Linux": {
+              "target": "Package",
+              "version": "[2.88.7, )"
             }
           },
           "imports": [
@@ -68,16 +72,12 @@
           "warn": true,
           "downloadDependencies": [
             {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
+              "name": "Microsoft.AspNetCore.App.Runtime.linux-x64",
+              "version": "[6.0.35, 6.0.35]"
             },
             {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
+              "name": "Microsoft.NETCore.App.Runtime.linux-x64",
+              "version": "[6.0.35, 6.0.35]"
             }
           ],
           "frameworkReferences": {
@@ -85,7 +85,12 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.427/RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
         }
       }
     }
